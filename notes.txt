@@ -1,0 +1,7 @@
+A reminder on how to interact with Jupyter Notebook
+    To run Jupyter Notebook classic, use "jupyter notebook"
+    To run Jupyter Labs, use "jupyter lab"
+
+Pandas gives a deprecation notice about pyarrow.  Better safe than sorry so I installed pyarrow separately.
+
+
