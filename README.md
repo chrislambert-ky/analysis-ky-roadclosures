@@ -8,11 +8,6 @@
 ## 2. Data Acquisition:
    - Identify sources: Kentucky Transportation Cabinet (KYTC)
    - Transportaton Operations Center (TOC) Road Closure Data
-   - Data sources:
-   + https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2021.csv
-   + https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2022.csv
-   + https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2023.csv
-   + https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2024.csv
    - Format: CSV
    - Access requirements: No requirements.  This data is open and free data provided by KYTC.
 
