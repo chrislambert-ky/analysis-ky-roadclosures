@@ -6,22 +6,28 @@
    - Specify objectives: Identify trends, understand reasons, optimize maintenance.
 
 ## 2. Data Acquisition:
-   - Identify sources: Government websites, transportation agencies, open data portals.
-   - Determine format: CSV, Excel, JSON.
-   - Access requirements: APIs, permissions.
+   - Identify sources: Kentucky Transportation Cabinet (KYTC)
+   - Transportaton Operations Center (TOC) Road Closure Data
+   - Data sources:
+   + https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2021.csv
+   + https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2022.csv
+   + https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2023.csv
+   + https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2024.csv
+   - Format: CSV
+   - Access requirements: No requirements.  This data is open and free data provided by KYTC.
 
 ## 3. Data Importing:
-   - Use Python libraries: Pandas, Requests.
-   - Verify data import: Structure, columns, data types.
+   - Determine Pyhon libraries: pandas, pyarrow, requets, jupyterlab, notebook.
+   - Verify data import: Columns and data types.
 
 ## 4. Data Cleaning:
-   - Handle missing values, inconsistencies, errors.
    - Standardize column names, formats.
    - Convert date/time columns.
+   - Clean data: Clean text, find and extract latitude and longitude 
 
 ## 5. Data Integration:
    - Merge/concatenate multiple sources.
-   - Enrich dataset: Weather data, traffic volume.
+   - Optional: Use KYTC snapping API to add roadway attributes.
 
 ## 6. Exploratory Data Analysis (EDA):
    - Calculate summary statistics.
