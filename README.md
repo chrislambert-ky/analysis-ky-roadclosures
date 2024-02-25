@@ -16,3 +16,12 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 - **Documentation:** Document the analysis process, including data preprocessing steps, exploratory data analysis, and insights gained.
 - **Reporting:** Prepare a report/presentation summarizing key findings, insights, and visual outputs from the analysis.
 - **Optional Reporting:** If time permits, I may also utilize PowerBI or Tableau to better visualize the data.
+
+## Code Kentucky Feature Lists:
+- Feature list #1 choice: Read multiple data files (JSON, CSV, Excel, etc.)
+- Feature list #2 choice: Clean the data and perform a pandas merge, then calculate some new values based on the new data set.
+- Feature list #3 choice: Make 3 matplotlib (or another plotting library) visualizations to display your data.
+- Feature list #3 optonal: I may use Tableau if I have time.
+- Feature list #4 choice: Utilize a Python virtual environment and include instructions in your README on how the user should set one up
+- Feature list #4 optional: I may build a custom data dictionary if I have time.
+- Feature list #5 choice: Annotate my code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
