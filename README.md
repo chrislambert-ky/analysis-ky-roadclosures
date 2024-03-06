@@ -25,3 +25,77 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 - Feature list #4 choice: Utilize a Python virtual environment and include instructions in your README on how the user should set one up
 - Feature list #4 optional: I may build a custom data dictionary if I have time.
 - Feature list #5 choice: Annotate my code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
+
+
+# Setting up a Python Virtual Environment
+
+A Python virtual environment is a self-contained directory that contains a Python installation for a specific project. Using virtual environments helps manage dependencies and isolate project-specific packages. Here's how to set up a Python virtual environment:
+
+## Prerequisites
+
+- Make sure you have Python installed on your system. If not, download and install it from [python.org](https://www.python.org/).
+
+## Instructions
+
+1. **Open a Terminal/Command Prompt:**
+
+    - On Windows, you can use Command Prompt or PowerShell.
+    - On Unix-based systems (Linux, macOS), use the terminal.
+
+2. **Navigate to Your Project Directory:**
+
+    ```bash
+    cd path/to/your/project
+    ```
+
+3. **Create a Virtual Environment:**
+
+    ```bash
+    python -m venv venv
+    ```
+
+    This command creates a virtual environment named 'venv' in your project directory.
+
+4. **Activate the Virtual Environment:**
+
+    - On Windows (Command Prompt):
+
+        ```bash
+        venv\Scripts\activate
+        ```
+
+    - On Windows (PowerShell):
+
+        ```bash
+        .\venv\Scripts\Activate
+        ```
+
+    - On Unix-based systems:
+
+        ```bash
+        source venv/bin/activate
+        ```
+
+    After activation, your terminal prompt should change, indicating that the virtual environment is active.
+
+5. **Install Dependencies:**
+
+    Now that the virtual environment is active, you can install project-specific dependencies without affecting the global Python installation.
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+    Replace `requirements.txt` with the actual name of your requirements file.
+
+6. **Deactivate the Virtual Environment:**
+
+    When you're done working on your project, deactivate the virtual environment.
+
+    ```bash
+    deactivate
+    ```
+
+## Additional Notes
+
+- It's recommended to include the 'venv' directory in your project's `.gitignore` file to avoid versioning the virtual environment.
