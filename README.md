@@ -5,7 +5,7 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 
 ## Technical Insight:
 - **Python Libraries:** To begin the project, I will begin by utilizing VS Code, Python and Jupyter Notebook extensions, and a Python virtual environment with libraries such as pandas, pyarrow, and requests for data importing, cleaning, and analysis.
-- **Sources:** Road closure data will be sourced from the Transportation Operations Center (TOC) of KYTC in CSV format.
+- **Sources:** Road closure data will be sourced from the Transportation Operations Center (TOC) of KYTC in CSV format. This data source is updated in real-time during severe weather events.
 - **Access Requirements:** No special access requirements are needed as the data is openly provided by KYTC.
 - **Data Cleaning:** Standardize column names, data types (date/time), and parse/extract latitude and longitude.
 - **Data Integration:** Merge/concatenate multiple data sources.
