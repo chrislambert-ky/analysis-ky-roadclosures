@@ -405,11 +405,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,lo
 7,Fayette,US-421,LEESTOWN RD,1.1,1.1,ROAD CLOSED,2021-12-06 07:36:00,2021-12-06 16:22:01,-84.521419,38.06423,0 days 08:46:01,8.766944444444444
 7,Fayette,US-421,LEESTOWN RD,1.1,1.2,Blocked due to high water.,2021-12-06 07:40:00,2021-12-06 12:42:01,-84.522138,38.064737,0 days 05:02:01,5.033611111111111
 7,Fayette,US-421,LEESTOWN RD,6.9,6.9,Blocked due to high water.,2021-12-06 07:42:00,2021-12-06 14:32:01,-84.601705,38.120075,0 days 06:50:01,6.833611111111111
-7,Fayette,US-60,WINCHESTER RD,8.6,8.6,"Winchester Rd between Walton Ave and Midland Ave/Third St ? Flooding:
-
-Water overflowing from Midland Pl.",2021-07-01 10:20:00,2021-07-01 15:10:01,-84.480968,38.042039,0 days 04:50:01,4.833611111111111
-7,Fayette,US-60,WINCHESTER RD,8.6,8.6,"Winchester Rd between Walton Ave and Midland Ave/Third St ? Flooding:
-LEFT LANES ARE OPEN",2021-07-01 10:20:00,2021-07-01 16:08:01,-84.480968,38.042039,0 days 05:48:01,5.800277777777778
+7,Fayette,US-60,WINCHESTER RD,8.6,8.6,Winchester Rd between Walton Ave and Midland Ave/Third St ? Flooding: Water overflowing from Midland Pl.,2021-07-01 10:20:00,2021-07-01 15:10:01,-84.480968,38.042039,0 days 04:50:01,4.833611111111111
+7,Fayette,US-60,WINCHESTER RD,8.6,8.6,Winchester Rd between Walton Ave and Midland Ave/Third St ? Flooding: LEFT LANES ARE OPEN,2021-07-01 10:20:00,2021-07-01 16:08:01,-84.480968,38.042039,0 days 05:48:01,5.800277777777778
 7,Garrard,KY-1971,LEAVELL RIDGE RD,2.5,2.6,Roadway closed due to flooding. Updates as available.,2021-03-02 15:30:00,2021-03-08 17:54:00,-84.557295,37.732174,6 days 02:24:00,146.4
 7,Jessamine,KY-169,KEENE RD,12.3,12.3,Road blocked due to flooding. Updates as available.,2021-03-01 11:30:00,2021-03-04 12:12:00,-84.586544,37.904628,3 days 00:42:00,72.7
 7,Jessamine,KY-169,KEENE RD,12.3,12.3,Road closed due to flooding. Updates as available.,2021-03-01 11:34:00,2021-03-03 21:58:00,-84.586544,37.904628,2 days 10:24:00,58.4
