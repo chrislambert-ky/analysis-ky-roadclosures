@@ -1,5 +1,7 @@
 pandas
 pyarrow
-openpyxl
 jupyterlab
 notebook
+openpyxl
+matplotlib
+numpy
