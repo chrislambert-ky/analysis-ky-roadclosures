@@ -1,15 +1,13 @@
 A few notes for myself about the libraries and tools I used in this project.
 
-Since I'm unaware of who may be using this project, I should add Jupyter Lab and Notebook into my requirements.txt file.  
-That will at least provide the user with all of the libraries they need to work with my notebook, if they aren't using VS Code.
+I am using Python 3.11.7
+I am using VS Code with Juyter Notebook extension(s).
+When I installed Pandas, it produced a deprecation notice about pyarrow.
+    I am including pyarrow as a separate pip install.
+
+I have also added Jupyter Lab and Notebook into my requirements.txt file.
+That should help anyone who is not using VS Code with Jupyter extensions.
 
 A reminder on how to interact with Jupyter Notebook
     To run Jupyter Notebook classic, use "jupyter notebook"
     To run Jupyter Labs, use "jupyter lab"
-
-
-When I installed Pandas, it produced a deprecation notice about pyarrow.
-Since I won't know when this project will be graded, I'm going to include pyarrow as a separate pip install.
-
-
-
