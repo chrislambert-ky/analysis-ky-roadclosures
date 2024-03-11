@@ -4,7 +4,7 @@
 
 * _"Know before you go" Real-Time Traveler Information can be found at [GoKY](https://goky.ky.gov)_
 * _Road Closure listings and hourly email notifications can be found at [KYTC Road Closures](https://transportation.ky.gov/Pages/Weather-Related-Road-Closures.aspx)._
-* _KYTC also shares real-time data with [Waze](https://www.waze.com/en/live-map/directions?latlng=37.50318937824072%2C-85.23742675781251)._
+* _KYTC also shares real-time data with [Waze](https://www.waze.com/en/live-map/)._
 
 **-_Chris Lambert_**
 
