@@ -1,7 +1,7 @@
 # Analysis of Road Closure Data from Kentucky
 
 ## Disclaimer: 
-While I am an emloyee of the Kentucky Transportation Cabinet, this analysis of road closure data is not an official KYTC analysis.  There are many factors that contribute to road closures that are not disclosed in this dataset.  This dataset is not a complete or comprehensive list of all road closures and/or damaged roadways.  These are only the reports that were verified in real-time and displayed on the GoKY website.  As an employee of the KYTC, I want to promote safety and mobility for everyone and I would encourage you to please utilize the following resources:  -Chris Lambert
+While I am an employee of the Kentucky Transportation Cabinet, this analysis of road closure data is not an official KYTC analysis.  There are many factors that contribute to road closures that are not disclosed in this dataset.  This dataset is not a complete or comprehensive list of all road closures and/or damaged roadways.  These are only the reports that were verified in real-time and displayed on the GoKY website.  As an employee of the KYTC, I want to promote safety and mobility for everyone and I would encourage you to please utilize the following resources:  -Chris Lambert
 
 - "Know before you go" Real-Time Traveler Information can be found at [GoKY](https://goky.ky.gov)
 - Road Closure listings and hourly email notifications can be found at [KYTC Road Closures](https://www.kytc.com/traffic/road-closures/).
@@ -30,7 +30,7 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 - Feature list #1 choice: Read multiple data files (JSON, CSV, Excel, etc.)
 - Feature list #2 choice: Clean the data and perform a pandas merge, then calculate some new values based on the new data set.
 - Feature list #3 choice: Make 3 matplotlib (or another plotting library) visualizations to display your data.
-- Feature list #3 optonal: I may use Tableau if I have time.
+- Feature list #3 optional: I may use Tableau if I have time.
 - Feature list #4 choice: Utilize a Python virtual environment and include instructions in your README on how the user should set one up
 - Feature list #4 optional: I may build a custom data dictionary if I have time.
 - Feature list #5 choice: Annotate my code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
