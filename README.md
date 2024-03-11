@@ -5,7 +5,7 @@ While I am an employee of the Kentucky Transportation Cabinet, this analysis of 
 
 - "Know before you go" Real-Time Traveler Information can be found at [GoKY](https://goky.ky.gov)
 - Road Closure listings and hourly email notifications can be found at [KYTC Road Closures](https://transportation.ky.gov/Pages/Weather-Related-Road-Closures.aspx).
-- KYTC also shares real-time data with [Waze](https://www.waze.com/en-US/livemap).
+- KYTC also shares real-time data with [Waze](https://www.waze.com/en/live-map/directions?latlng=37.50318937824072%2C-85.23742675781251).
 
 
 ## Project Overview:
