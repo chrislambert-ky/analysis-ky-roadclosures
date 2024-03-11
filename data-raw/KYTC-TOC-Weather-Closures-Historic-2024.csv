@@ -10,9 +10,9 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,Ro
 1,Ballard,KY-802,LA CENTER RD,6.7,6.7,Roadway blocked due to flooding/emergency repairs. Updates as available.,2023-07-19 11:01:04,2023-07-22 20:00:01,https://goky.ky.gov/?lat=37.016686&lng=-88.955825&zoom=14KY-802
 1,Ballard,KY-802,LA CENTER RD,6.7,6.7,Road blocked due to flooding.,2023-07-26 12:27:25,2023-07-26 15:10:01,https://goky.ky.gov/?lat=37.016686&lng=-88.955825&zoom=14KY-802
 1,Ballard,US-62,CUNNINGHAM RD,0.1,1.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 10:53:59,2023-07-20 09:38:01,https://goky.ky.gov/?lat=36.9532&lng=-88.827159&zoom=14US-62
-1,Ballard,US-62,CUNNINGHAM RD,1.0,2.0,Road blocked due to flooding. Seek alternate route.,2023-03-03 08:32:16,2023-03-03 10:26:01,https://goky.ky.gov/?lat=36.965764&lng=-88.829484&zoom=14US-62
 1,Ballard,US-62,CUNNINGHAM RD,1.0,2.0,"single lane traffic with alternating flow controlled by flaggers. Expect delays.
 ",2023-03-03 08:32:16,2023-03-03 22:10:01,https://goky.ky.gov/?lat=36.965764&lng=-88.829484&zoom=14US-62
+1,Ballard,US-62,CUNNINGHAM RD,1.0,2.0,Road blocked due to flooding. Seek alternate route.,2023-03-03 08:32:16,2023-03-03 10:26:01,https://goky.ky.gov/?lat=36.965764&lng=-88.829484&zoom=14US-62
 1,Calloway,KY-121,KY-121 S,13.7,13.7,Roadway blocked due to flooding. Updates as available.,2023-07-19 12:45:27,2023-07-19 20:16:00,https://goky.ky.gov/?lat=36.591175&lng=-88.300492&zoom=14KY-121
 1,Calloway,KY-1270,EDGEHILL TRL,0.1,4.3,Both directions all lanes blocked due to flooding. Seek alternate route.,2023-07-19 12:46:43,2023-07-19 15:10:00,https://goky.ky.gov/?lat=36.510346&lng=-88.487221&zoom=14KY-1270
 1,Calloway,KY-1270,EDGEHILL TRL,0.1,4.3,Roadway blocked due to flooding. Updates as available.,2023-07-19 12:46:43,2023-07-20 10:40:01,https://goky.ky.gov/?lat=36.510346&lng=-88.487221&zoom=14KY-1270
@@ -21,13 +21,13 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,Ro
 1,Calloway,KY-783,CROSSLAND RD,4.0,4.0,,2023-01-03 07:31:05,2023-01-03 17:34:00,https://goky.ky.gov/?lat=36.574914&lng=-88.388492&zoom=14KY-783
 1,Calloway,KY-783,CROSSLAND RD,4.2,4.3,"Blocked due to flooding, find alternate route.",2023-01-04 13:27:30,2023-01-04 16:10:00,https://goky.ky.gov/?lat=36.577804&lng=-88.388444&zoom=14KY-783
 1,Carlisle,KY-121,KY-121 N,7.3,7.3,Roadway blocked due to flooding. Updates as available,2022-04-12 08:56:00,2022-04-12 10:04:00,https://goky.ky.gov/?lat=36.907913&lng=-88.917011&zoom=14
-1,Carlisle,KY-1628,KY-1628,2.0,2.0,Roadway Closed due to Flood damage,2022-04-26 08:11:00,2022-04-26 10:50:00,https://goky.ky.gov/?lat=36.922194&lng=-88.898473&zoom=14
 1,Carlisle,KY-1628,KY-1628,2.0,2.0,Roadway blocked due to flood damage. Updates as available.,2022-04-26 08:11:00,2022-04-28 08:02:01,https://goky.ky.gov/?lat=36.922194&lng=-88.898473&zoom=14
+1,Carlisle,KY-1628,KY-1628,2.0,2.0,Roadway Closed due to Flood damage,2022-04-26 08:11:00,2022-04-26 10:50:00,https://goky.ky.gov/?lat=36.922194&lng=-88.898473&zoom=14
 1,Carlisle,KY-1628,KY-1628,2.0,4.0,Rpadway blocked due to flooding. Updates as avaiable. ,2023-01-03 07:11:01,2023-01-04 10:04:01,https://goky.ky.gov/?lat=36.922201&lng=-88.898478&zoom=14KY-1628
 1,Carlisle,KY-1628,KY-1628,2.0,4.0,Both directions all lanes blocked. Seek alternate route,2023-01-03 07:11:01,2023-01-03 16:48:01,https://goky.ky.gov/?lat=36.922201&lng=-88.898478&zoom=14KY-1628
 1,Carlisle,KY-1628,KY-1628,3.0,4.0,Blocked due to flooding in the area.,2022-01-01 11:37:00,2022-02-18 17:38:00,https://goky.ky.gov/?lat=36.921224&lng=-88.871376&zoom=14
-1,Carlisle,KY-1628,KY-1628,3.0,4.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 08:27:00,2022-02-25 15:58:00,https://goky.ky.gov/?lat=36.921224&lng=-88.871376&zoom=14
 1,Carlisle,KY-1628,KY-1628,3.0,4.0,Road is blocked due to flooding. Updates as available.,2022-01-09 08:27:00,2022-01-09 18:10:01,https://goky.ky.gov/?lat=36.921224&lng=-88.871376&zoom=14
+1,Carlisle,KY-1628,KY-1628,3.0,4.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 08:27:00,2022-02-25 15:58:00,https://goky.ky.gov/?lat=36.921224&lng=-88.871376&zoom=14
 1,Carlisle,KY-1628,KY-1628,3.0,4.0,Road blocked due to flooding. Updates as available.,2022-02-18 07:09:00,2022-02-23 16:12:00,https://goky.ky.gov/?lat=36.921224&lng=-88.871376&zoom=14
 1,Carlisle,KY-1628,KY-1628,3.0,3.0,Road blocked due to flooding at this location.,2023-03-25 09:21:07,2023-03-25 22:14:02,https://goky.ky.gov/?lat=36.921871&lng=-88.880394&zoom=14KY-1628
 1,Carlisle,KY-1628,KY-1628,3.0,4.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 18:09:48,2024-01-17 12:18:01,https://goky.ky.gov/?lat=36.921871&lng=-88.880394&zoom=14KY-1628
@@ -36,8 +36,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,Ro
 1,Carlisle,KY-1628,KY-1628,3.0,4.0,Roadway is blocked due to water over the road signs are posted,2023-08-05 10:53:21,2023-08-05 15:04:00,https://goky.ky.gov/?lat=36.921871&lng=-88.880394&zoom=14KY-1628
 1,Carlisle,KY-1628,KY-1628,3.0,4.0,Roadway is blocked due to flooding. Updates as available.,2023-08-05 10:53:21,2023-08-05 16:06:01,https://goky.ky.gov/?lat=36.921871&lng=-88.880394&zoom=14KY-1628
 1,Carlisle,KY-1628,KY-1628,3.0,4.0,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-01-12 11:47:16,2024-01-12 16:10:01,https://goky.ky.gov/?lat=36.921871&lng=-88.880394&zoom=14KY-1628
-1,Carlisle,KY-1820,KY-1820,1.0,3.0,Blocked due to flooding in the area.,2022-01-01 11:36:00,2022-01-02 21:44:00,https://goky.ky.gov/?lat=36.935156&lng=-88.88507&zoom=14
 1,Carlisle,KY-1820,KY-1820,1.0,3.0,Roadway blocked due to flooding. Updates as available.,2022-01-01 11:36:00,2022-02-25 15:58:00,https://goky.ky.gov/?lat=36.935156&lng=-88.88507&zoom=14
+1,Carlisle,KY-1820,KY-1820,1.0,3.0,Blocked due to flooding in the area.,2022-01-01 11:36:00,2022-01-02 21:44:00,https://goky.ky.gov/?lat=36.935156&lng=-88.88507&zoom=14
 1,Carlisle,KY-1820,KY-1820,1.0,3.0,Road is blocked due to flooding. Updates as available.,2022-01-09 08:26:00,2022-01-09 18:08:01,https://goky.ky.gov/?lat=36.935156&lng=-88.88507&zoom=14
 1,Carlisle,KY-1820,KY-1820,1.0,3.0,Road blocked due to flooding. Updates as available.,2022-02-22 16:51:00,2022-02-23 16:14:01,https://goky.ky.gov/?lat=36.935156&lng=-88.88507&zoom=14
 1,Carlisle,KY-1820,KY-1820,1.0,2.0,Both directions all lanes blocked. Seek alternate route.,2023-01-03 07:12:36,2023-01-03 16:48:01,https://goky.ky.gov/?lat=36.922127&lng=-88.88978&zoom=14KY-1820
@@ -55,21 +55,21 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,Ro
 1,Carlisle,KY-307,KY-307,1.0,1.0,Roadway blocked due to water over the road,2023-07-19 06:57:23,2023-07-19 15:12:01,https://goky.ky.gov/?lat=36.787286&lng=-88.862916&zoom=14KY-307
 1,Carlisle,KY-307,KY-307,7.0,7.0,Road blocked due to flooding. Updates as available.,2023-03-03 06:32:51,2023-03-03 10:26:01,https://goky.ky.gov/?lat=36.874876&lng=-88.862291&zoom=14KY-307
 1,Carlisle,KY-307,KY-307,7.2,7.2,ROAD BLOCKED TO HIGH WATER,2022-04-06 08:13:00,2022-04-06 12:16:01,https://goky.ky.gov/?lat=36.877816&lng=-88.862246&zoom=14
-1,Carlisle,KY-307,KY-307,8.0,8.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 06:19:29,2023-07-19 20:18:01,https://goky.ky.gov/?lat=36.889663&lng=-88.862205&zoom=14KY-307
 1,Carlisle,KY-307,KY-307,8.0,8.0,Roadway is blocked at this location due to water over the road.,2023-07-19 06:19:29,2023-07-19 15:14:01,https://goky.ky.gov/?lat=36.889663&lng=-88.862205&zoom=14KY-307
+1,Carlisle,KY-307,KY-307,8.0,8.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 06:19:29,2023-07-19 20:18:01,https://goky.ky.gov/?lat=36.889663&lng=-88.862205&zoom=14KY-307
 1,Carlisle,KY-80,KY-80 W,2.8,2.8,road blocked due to high water,2022-04-06 07:31:00,2022-04-06 12:16:01,https://goky.ky.gov/?lat=36.788629&lng=-89.015263&zoom=14
 1,Carlisle,KY-80,KY-80 W,2.8,2.8,Road blocked due to flooding. Updates as available.,2023-03-03 06:26:59,2023-03-03 22:12:01,https://goky.ky.gov/?lat=36.788636&lng=-89.015268&zoom=14KY-80
 1,Carlisle,KY-80,KY-80 W,2.8,2.8,Road blocked due to flooding at this location.,2023-03-25 09:27:29,2023-03-25 11:50:00,https://goky.ky.gov/?lat=36.788636&lng=-89.015268&zoom=14KY-80
-1,Carlisle,KY-80,KY-80 W,2.8,2.8,Roadway blocked due to flooding. Updates as available.,2023-07-19 06:15:57,2023-07-19 20:18:01,https://goky.ky.gov/?lat=36.788636&lng=-89.015268&zoom=14KY-80
 1,Carlisle,KY-80,KY-80 W,2.8,2.8,Roadway ia blocked in at this location due to water over the road.,2023-07-19 06:15:57,2023-07-19 15:14:01,https://goky.ky.gov/?lat=36.788636&lng=-89.015268&zoom=14KY-80
+1,Carlisle,KY-80,KY-80 W,2.8,2.8,Roadway blocked due to flooding. Updates as available.,2023-07-19 06:15:57,2023-07-19 20:18:01,https://goky.ky.gov/?lat=36.788636&lng=-89.015268&zoom=14KY-80
 1,Carlisle,KY-80,KY-80 W,2.8,2.8,Both directions all lanes blocked due to flooding. Seek alternate route.,2023-08-05 09:37:07,2023-08-05 13:06:01,https://goky.ky.gov/?lat=36.788636&lng=-89.015268&zoom=14KY-80
 1,Carlisle,KY-80,KY-80 W,2.8,2.8,Roadway is blocked due to water over the roadway. Signs and barricades are in place,2023-08-05 09:39:39,2023-08-05 10:54:01,https://goky.ky.gov/?lat=36.788636&lng=-89.015268&zoom=14KY-80
 1,Carlisle,US-62,US-62,0.0,6.0,Road is blocked due to flooding. Updates as available.,2022-01-09 08:20:00,2022-01-09 10:32:00,https://goky.ky.gov/?lat=36.892297&lng=-88.966634&zoom=14
 1,Carlisle,US-62,US-62,3.0,4.0,Roadway blocked due to flooding. Updates as available.,2023-01-03 07:14:05,2023-01-03 22:16:00,https://goky.ky.gov/?lat=36.892304&lng=-88.966639&zoom=14US-62
 1,Carlisle,US-62,US-62,3.0,4.0,Both directions all lanes blocked. Seek alternate route.,2023-01-03 07:14:05,2023-01-03 16:40:01,https://goky.ky.gov/?lat=36.892304&lng=-88.966639&zoom=14US-62
 1,Carlisle,US-62,US-62,4.0,6.0,Road closed due to flooding. Updates as available.,2022-01-01 15:52:00,2022-01-02 09:26:00,https://goky.ky.gov/?lat=36.907393&lng=-88.935914&zoom=14
-1,Carlisle,US-62,US-62,4.0,5.0,Road is blocked due to flooding. Updates as available.,2022-01-09 08:20:00,2022-01-09 18:08:01,https://goky.ky.gov/?lat=36.903716&lng=-88.943648&zoom=14
 1,Carlisle,US-62,US-62,4.0,5.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 08:20:00,2022-04-14 15:08:00,https://goky.ky.gov/?lat=36.903716&lng=-88.943648&zoom=14
+1,Carlisle,US-62,US-62,4.0,5.0,Road is blocked due to flooding. Updates as available.,2022-01-09 08:20:00,2022-01-09 18:08:01,https://goky.ky.gov/?lat=36.903716&lng=-88.943648&zoom=14
 1,Carlisle,US-62,US-62,4.0,5.0,Road blocked due to flooding. Updates as available.,2022-02-22 17:33:00,2022-04-07 08:34:01,https://goky.ky.gov/?lat=36.903716&lng=-88.943648&zoom=14
 1,Carlisle,US-62,US-62,4.0,5.0,Water Over Road,2022-03-07 05:54:00,2022-03-07 06:12:00,https://goky.ky.gov/?lat=36.903716&lng=-88.943648&zoom=14
 1,Carlisle,US-62,US-62,4.0,5.0,"Road blocked due to flooding.  Updates as available.
@@ -81,7 +81,7 @@ Motorists may self-detour via KY 1905, KY 1371, and KY 408.",2023-02-16 19:02:08
 1,Carlisle,US-62,US-62,4.0,5.0,Roadway is blocked at this location due to water over the road.,2023-07-19 06:56:58,2023-07-19 15:12:01,https://goky.ky.gov/?lat=36.899912&lng=-88.951315&zoom=14US-62
 1,Carlisle,US-62,US-62,4.0,6.0,Roadway blocked due to flooding. Updates as available.,2023-08-05 16:55:59,2024-01-13 09:04:01,https://goky.ky.gov/?lat=36.899912&lng=-88.951315&zoom=14US-62
 1,Carlisle,US-62,US-62,10.0,10.0,Road blocked due to flooding. Seek alternate route.,2023-03-03 11:24:49,2023-03-03 22:12:01,https://goky.ky.gov/?lat=36.917142&lng=-88.851756&zoom=14US-62
-1,Crittenden,KY-135,KY-135,4.5,4.5,Roadway blocked due to flooding. Updates as available.,2022-03-01 10:00:00,2022-03-08 09:12:11,https://goky.ky.gov/?lat=37.428112&lng=-88.275722&zoom=14
+1,Crittenden,KY-135,KY-135,4.5,4.5,Roadway blocked due to flooding. Updates as available.,2022-03-01 10:00:00,2022-03-08 09:12:11,https://goky.ky.gov/?lat=37.42663&lng=-88.281778&zoom=14
 1,Crittenden,KY-855,KY-855 N,5.0,5.0,Roadway blocked due to flooding. Updates as available.,2022-02-17 16:00:00,2022-02-18 08:56:00,https://goky.ky.gov/?lat=37.239678&lng=-88.157955&zoom=14
 1,Crittenden,KY-855,KY-855 N,5.0,5.0,Roadway blocked due to flooding. Updates as available.,2023-02-16 08:51:58,2023-03-05 11:28:01,https://goky.ky.gov/?lat=37.239685&lng=-88.157961&zoom=14KY-855
 1,Crittenden,KY-855,KY-855 N,5.0,5.0,Road blocked due to flooding. Seek alternate route.,2023-03-03 11:26:29,2023-03-04 15:24:02,https://goky.ky.gov/?lat=37.239685&lng=-88.157961&zoom=14KY-855
@@ -128,11 +128,11 @@ Updates as appropriate.
 1,Fulton,KY-2140,KY-2140,3.0,3.0,Both directions all lanes blocked. Seek alternate route.,2023-08-04 12:03:19,2023-08-05 15:08:00,https://goky.ky.gov/?lat=36.549454&lng=-89.114676&zoom=14KY-2140
 1,Fulton,KY-94,CATLETT ST,12.0,12.0,Both directions all lanes blocked. Seek alternate route.,2023-08-04 10:16:56,2023-08-05 13:06:01,https://goky.ky.gov/?lat=36.567821&lng=-89.20286&zoom=14KY-94
 1,Fulton,KY-94,E CARROLL ST,12.8,12.8,Roadway blocked due to a mudslide. Seek alternate route.,2023-08-04 10:16:56,2023-08-16 10:12:00,https://goky.ky.gov/?lat=36.572408&lng=-89.192692&zoom=14KY-94
-1,Fulton,KY-94,E CARROLL ST,12.8,12.8,Both directions all lanes blocked. Seek alternate route.,2023-08-04 10:16:56,2023-08-05 15:06:00,https://goky.ky.gov/?lat=36.572408&lng=-89.192692&zoom=14KY-94
 1,Fulton,KY-94,E CARROLL ST,12.8,12.8,Roadway blocked due to a mudslide. Updates as available.,2023-08-04 10:16:56,2023-08-07 20:22:01,https://goky.ky.gov/?lat=36.572408&lng=-89.192692&zoom=14KY-94
+1,Fulton,KY-94,E CARROLL ST,12.8,12.8,Both directions all lanes blocked. Seek alternate route.,2023-08-04 10:16:56,2023-08-05 15:06:00,https://goky.ky.gov/?lat=36.572408&lng=-89.192692&zoom=14KY-94
 1,Fulton,KY-94,KY-94 E,23.0,26.0,Blocked due to water over the road in the area.,2022-01-02 09:28:00,2022-01-02 18:52:00,https://goky.ky.gov/?lat=36.55379&lng=-88.989229&zoom=14
-1,Fulton,KY-94,KY-94 E,23.0,26.0,Road is blocked due to flooding. Updates as available.,2022-01-09 14:44:00,2022-01-09 18:06:01,https://goky.ky.gov/?lat=36.55379&lng=-88.989229&zoom=14
 1,Fulton,KY-94,KY-94 E,23.0,26.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 14:44:00,2022-04-14 17:14:00,https://goky.ky.gov/?lat=36.55379&lng=-88.989229&zoom=14
+1,Fulton,KY-94,KY-94 E,23.0,26.0,Road is blocked due to flooding. Updates as available.,2022-01-09 14:44:00,2022-01-09 18:06:01,https://goky.ky.gov/?lat=36.55379&lng=-88.989229&zoom=14
 1,Fulton,KY-94,KY-94 E,23.0,26.0,Blocked due to flooding in the area.,2022-02-18 07:12:00,2022-04-14 14:58:00,https://goky.ky.gov/?lat=36.55379&lng=-88.989229&zoom=14
 1,Fulton,KY-94,KY-94 E,23.0,26.0,Water over roads between KY 1907 and KY 1125.,2023-01-03 11:49:44,2023-01-03 16:50:01,https://goky.ky.gov/?lat=36.554348&lng=-89.016468&zoom=14KY-94
 1,Fulton,KY-94,KY-94 E,23.0,26.0,Road blocked due to flooding. Seek alternate route.,2023-03-03 08:20:54,2023-03-03 10:44:00,https://goky.ky.gov/?lat=36.554348&lng=-89.016468&zoom=14KY-94
@@ -142,8 +142,8 @@ Updates as appropriate.
 1,Fulton,KY-94,KY-94 E,23.0,26.0,Roadway blocked due to flooding. Updates as available,2024-01-28 06:36:21,2024-01-28 14:22:01,https://goky.ky.gov/?lat=36.554348&lng=-89.016468&zoom=14KY-94
 1,Fulton,KY-94,KY-94 W,7.0,11.0,Road closed due to flooding. Updates as available.,2022-01-01 13:32:00,2022-01-02 05:58:00,https://goky.ky.gov/?lat=36.548059&lng=-89.249199&zoom=14
 1,Fulton,KY-94,KY-94 W,7.0,11.0,Blocked due to water over the road in the area.,2022-01-02 09:27:00,2022-01-02 18:52:00,https://goky.ky.gov/?lat=36.548059&lng=-89.249199&zoom=14
-1,Fulton,KY-94,KY-94 W,7.0,11.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 14:43:00,2022-05-25 17:44:00,https://goky.ky.gov/?lat=36.548059&lng=-89.249199&zoom=14
 1,Fulton,KY-94,KY-94 W,7.0,11.0,Road is blocked due to flooding. Updates as available.,2022-01-09 14:43:00,2022-01-09 18:06:01,https://goky.ky.gov/?lat=36.548059&lng=-89.249199&zoom=14
+1,Fulton,KY-94,KY-94 W,7.0,11.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 14:43:00,2022-05-25 17:44:00,https://goky.ky.gov/?lat=36.548059&lng=-89.249199&zoom=14
 1,Fulton,KY-94,KY-94 W,7.0,11.0,Blocked due to flooding in the area.,2022-02-22 10:47:00,2022-04-07 14:54:01,https://goky.ky.gov/?lat=36.548059&lng=-89.249199&zoom=14
 1,Fulton,KY-94,KY-94 W,7.0,11.0,ROAD BLOCKED DUE TO HIGH WATER,2022-04-07 14:45:00,2022-04-07 14:54:01,https://goky.ky.gov/?lat=36.548059&lng=-89.249199&zoom=14
 1,Fulton,KY-94,KY-94 W,7.0,11.0,Water over roads in the Lower Bottom Dip Area between KY 311 and KY 1099.,2023-01-03 11:48:28,2023-01-03 16:50:01,https://goky.ky.gov/?lat=36.556571&lng=-89.281954&zoom=14KY-94
@@ -222,8 +222,8 @@ Updates as appropriate.
 1,Hickman,KY-1686,KY-1686 E,0.1,2.7,Roadway blocked due to flooding/emergency repairs. Updates as available.,2023-07-19 18:14:32,2023-07-22 20:18:00,https://goky.ky.gov/?lat=36.767455&lng=-88.864949&zoom=14KY-1686
 1,Hickman,KY-1686,KY-1686 E,0.1,2.7,Road blocked due to flooding at this location.,2023-07-26 12:35:40,2023-07-26 15:12:01,https://goky.ky.gov/?lat=36.767455&lng=-88.864949&zoom=14KY-1686
 1,Hickman,KY-1748,KY-1748,0.0,3.4,Blocked due to flooding in the area.,2022-02-22 11:09:00,2022-02-22 15:06:00,https://goky.ky.gov/?lat=36.755824&lng=-88.843487&zoom=14
-1,Hickman,KY-1826,KY-1826,4.0,5.0,Blocked due to flooding in the area.,2022-02-22 11:10:00,2022-02-22 15:30:01,https://goky.ky.gov/?lat=36.672314&lng=-89.003708&zoom=14
 1,Hickman,KY-1826,KY-1826,4.0,5.0,Road blocked due to flooding. Updates as available.,2022-02-22 11:10:00,2022-02-23 12:12:01,https://goky.ky.gov/?lat=36.672314&lng=-89.003708&zoom=14
+1,Hickman,KY-1826,KY-1826,4.0,5.0,Blocked due to flooding in the area.,2022-02-22 11:10:00,2022-02-22 15:30:01,https://goky.ky.gov/?lat=36.672314&lng=-89.003708&zoom=14
 1,Hickman,KY-2206,KY-2206,0.1,1.0,Road blocked due to flooding. Seek alternate route.,2023-03-03 11:30:28,2023-03-04 00:16:01,https://goky.ky.gov/?lat=36.685895&lng=-88.986795&zoom=14KY-2206
 1,Hickman,KY-2206,KY-2206,1.0,2.0,Road blocked due to flooding. Updates as available.,2022-02-22 11:19:00,2022-02-23 12:12:01,https://goky.ky.gov/?lat=36.705016&lng=-88.982607&zoom=14
 1,Hickman,KY-2206,KY-2206,1.0,2.0,Blocked due to flooding in the area.,2022-02-22 11:19:00,2022-02-22 15:30:01,https://goky.ky.gov/?lat=36.705016&lng=-88.982607&zoom=14
@@ -233,8 +233,8 @@ Updates as appropriate.
 1,Hickman,KY-3061,KY-3061,3.0,6.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 15:32:52,2023-07-20 09:50:00,https://goky.ky.gov/?lat=36.666761&lng=-88.834996&zoom=14KY-3061
 1,Hickman,KY-3061,KY-3061,3.0,7.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 15:32:52,2023-07-19 20:24:00,https://goky.ky.gov/?lat=36.666761&lng=-88.834996&zoom=14KY-3061
 1,Hickman,KY-3061,KY-3061,3.0,4.0,Roadway blocked due to flooding. Updates as available.,2023-08-08 01:19:37,2023-08-08 15:18:01,https://goky.ky.gov/?lat=36.666761&lng=-88.834996&zoom=14KY-3061
-1,Hickman,KY-307,KY-307 N,13.0,14.0,Blocked due to flooding in the area.,2022-02-22 11:08:00,2022-02-22 15:28:00,https://goky.ky.gov/?lat=36.737592&lng=-88.868696&zoom=14
 1,Hickman,KY-307,KY-307 N,13.0,14.0,Road blocked due to flooding. Updates as available.,2022-02-22 11:08:00,2022-02-23 12:12:01,https://goky.ky.gov/?lat=36.737592&lng=-88.868696&zoom=14
+1,Hickman,KY-307,KY-307 N,13.0,14.0,Blocked due to flooding in the area.,2022-02-22 11:08:00,2022-02-22 15:28:00,https://goky.ky.gov/?lat=36.737592&lng=-88.868696&zoom=14
 1,Hickman,KY-307,KY-307 N,13.0,14.0,Road blocked due to flooding. Seek alternate route.,2023-03-03 08:29:08,2023-03-04 07:38:01,https://goky.ky.gov/?lat=36.730359&lng=-88.868748&zoom=14KY-307
 1,Hickman,KY-307,KY-307 N,14.0,16.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 08:25:59,2023-07-20 06:36:01,https://goky.ky.gov/?lat=36.744848&lng=-88.868668&zoom=14KY-307
 1,Hickman,KY-307,KY-307 N,14.0,16.0,Both directions all lanes blocked due to flooding. Seek alternate route.,2023-07-19 08:25:59,2023-08-05 10:58:01,https://goky.ky.gov/?lat=36.744848&lng=-88.868668&zoom=14KY-307
@@ -294,8 +294,8 @@ Updates as appropriate.
 1,Livingston,KY-723,PINCKNEYVILLE RD,4.0,6.0,Road blocked due to flooding. Seek alternate route.,2023-03-25 09:30:59,2023-03-25 15:18:01,https://goky.ky.gov/?lat=37.242517&lng=-88.248996&zoom=14KY-723
 1,Livingston,KY-763,MAXFIELD RD,1.0,2.0,Blocked due to flooding in the area.,2022-02-18 07:18:00,2022-02-18 11:56:00,https://goky.ky.gov/?lat=37.257455&lng=-88.449029&zoom=14
 1,Livingston,KY-763,MAXFIELD RD,5.0,6.0,Blocked due to flooding in the area.,2022-02-18 07:20:00,2022-02-18 11:56:00,https://goky.ky.gov/?lat=37.24402&lng=-88.38447&zoom=14
-1,Livingston,KY-917,STRINGTOWN RD,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2022-02-17 13:54:00,2022-02-18 07:20:01,https://goky.ky.gov/?lat=37.049291&lng=-88.236922&zoom=14
 1,Livingston,KY-917,STRINGTOWN RD,1.0,2.0,Blocked due to flooding in the area.,2022-02-17 13:54:00,2022-02-18 11:54:01,https://goky.ky.gov/?lat=37.049291&lng=-88.236922&zoom=14
+1,Livingston,KY-917,STRINGTOWN RD,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2022-02-17 13:54:00,2022-02-18 07:20:01,https://goky.ky.gov/?lat=37.049291&lng=-88.236922&zoom=14
 1,Livingston,KY-917,TUCKER TEMPLE RD,7.0,7.5,Roadway blocked due to flooding. Updates as available.,2022-02-28 08:32:00,2022-03-10 09:18:00,https://goky.ky.gov/?lat=37.124162&lng=-88.229324&zoom=14
 1,Livingston,KY-917,TUCKER TEMPLE RD,7.0,7.5,Blocked due to flooding in the area.,2022-02-28 08:32:00,2022-02-28 15:02:01,https://goky.ky.gov/?lat=37.124162&lng=-88.229324&zoom=14
 1,Livingston,US-60,US-60,2.0,2.0,Blocked due to flooding in the area.,2022-02-22 08:50:00,2022-02-22 15:10:00,https://goky.ky.gov/?lat=37.046434&lng=-88.499405&zoom=14
@@ -305,8 +305,8 @@ Updates as appropriate.
 1,Livingston,US-60,US-60,11.4,11.4,"Roadway blocked due to flooding, Seek alternate route.",2023-01-03 00:33:54,2023-01-03 11:58:01,https://goky.ky.gov/?lat=37.1318&lng=-88.405254&zoom=14US-60
 1,Lyon,KY-1943,KY-1943,3.1,3.1,Roadway blocked due to flooding. Updates as available.,2023-07-24 21:24:47,2023-07-25 07:12:00,https://goky.ky.gov/?lat=37.141283&lng=-88.114541&zoom=14KY-1943
 1,Lyon,KY-1943,KY-1943,3.4,3.4,Roadway blocked due to flooding. Updates as available.,2022-02-17 16:00:00,2022-02-18 08:52:00,https://goky.ky.gov/?lat=37.14558&lng=-88.114212&zoom=14
-1,Lyon,KY-1943,KY-1943,3.4,3.4,Blocked due to flooding in the area.,2022-02-22 12:19:00,2022-02-22 15:10:00,https://goky.ky.gov/?lat=37.14558&lng=-88.114212&zoom=14
 1,Lyon,KY-1943,KY-1943,3.4,3.4,Road blocked due to flooding. Updates as available.,2022-02-22 12:19:00,2022-02-22 15:44:01,https://goky.ky.gov/?lat=37.14558&lng=-88.114212&zoom=14
+1,Lyon,KY-1943,KY-1943,3.4,3.4,Blocked due to flooding in the area.,2022-02-22 12:19:00,2022-02-22 15:10:00,https://goky.ky.gov/?lat=37.14558&lng=-88.114212&zoom=14
 1,Lyon,KY-1943,KY-1943,3.4,3.4,Roadway blocked due to flooding. Updates as available.,2023-02-16 08:41:04,2023-02-17 08:44:00,https://goky.ky.gov/?lat=37.145587&lng=-88.114218&zoom=14KY-1943
 1,Lyon,KY-1943,KY-1943,3.4,3.4,Road blocked due to flooding. Seek alternate route.,2023-03-03 09:40:38,2023-03-04 07:26:01,https://goky.ky.gov/?lat=37.145587&lng=-88.114218&zoom=14KY-1943
 1,Lyon,KY-295,KY-295 N,0.0,0.0,Roadway blocked due to flooding. Updates as available.,2022-03-07 08:48:00,2022-03-07 18:42:12,https://goky.ky.gov/?lat=37.133905&lng=-88.153304&zoom=14
@@ -318,15 +318,15 @@ Updates as appropriate.
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,0.9,2.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 16:05:03,2023-07-20 22:38:01,https://goky.ky.gov/?lat=36.866876&lng=-88.331429&zoom=14KY-1462
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 14:42:00,2022-04-15 19:50:01,https://goky.ky.gov/?lat=36.873238&lng=-88.32393&zoom=14
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,Road is blocked due to flooding. Updates as available.,2022-01-09 14:42:00,2022-01-09 18:10:01,https://goky.ky.gov/?lat=36.873238&lng=-88.32393&zoom=14
-1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,Blocked due to flooding in the area.,2022-02-18 11:58:00,2022-03-09 10:16:01,https://goky.ky.gov/?lat=36.873238&lng=-88.32393&zoom=14
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,Road blocked due to flooding. Updates as available.,2022-02-18 11:58:00,2022-03-23 20:06:00,https://goky.ky.gov/?lat=36.873238&lng=-88.32393&zoom=14
+1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,Blocked due to flooding in the area.,2022-02-18 11:58:00,2022-03-09 10:16:01,https://goky.ky.gov/?lat=36.873238&lng=-88.32393&zoom=14
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,"WATER OVER ROAD, ROAD IS BLOCKED",2022-03-25 09:14:00,2022-03-25 13:42:00,https://goky.ky.gov/?lat=36.873238&lng=-88.32393&zoom=14
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2023-01-03 22:16:11,2023-03-27 20:40:02,https://goky.ky.gov/?lat=36.868042&lng=-88.33022&zoom=14KY-1462
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,ROAD CLOSED DUE TO FLOODING,2023-02-17 08:47:43,2023-02-17 17:02:01,https://goky.ky.gov/?lat=36.868042&lng=-88.33022&zoom=14KY-1462
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,Roadway Closed due to high water,2023-03-24 23:20:14,2023-03-27 15:38:02,https://goky.ky.gov/?lat=36.868042&lng=-88.33022&zoom=14KY-1462
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.0,2.0,Roadway blocked due to flooding.  Updates as available.,2023-08-13 16:12:49,2023-08-16 15:50:01,https://goky.ky.gov/?lat=36.868042&lng=-88.33022&zoom=14KY-1462
-1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,2.0,2.0,Both directions all lanes blocked. Seek alternate route.,2023-08-05 14:46:57,2023-08-05 16:06:01,https://goky.ky.gov/?lat=36.876923&lng=-88.316464&zoom=14KY-1462
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,2.0,2.0,Roadway blocked due to flooding. Updates as available.,2023-08-05 14:46:57,2024-02-14 16:08:02,https://goky.ky.gov/?lat=36.876923&lng=-88.316464&zoom=14KY-1462
+1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,2.0,2.0,Both directions all lanes blocked. Seek alternate route.,2023-08-05 14:46:57,2023-08-05 16:06:01,https://goky.ky.gov/?lat=36.876923&lng=-88.316464&zoom=14KY-1462
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,2.0,2.0,Roadway blocked due to flooding. Updates as available,2024-01-28 06:39:40,2024-01-29 17:50:01,https://goky.ky.gov/?lat=36.876923&lng=-88.316464&zoom=14KY-1462
 1,Marshall,KY-1949,WADESBORO RD N,7.0,9.0,Roadway blocked due to flooding. Updates as available,2022-01-09 11:39:00,2022-01-10 14:44:00,https://goky.ky.gov/?lat=36.838689&lng=-88.449233&zoom=14
 1,Marshall,KY-1949,WADESBORO RD N,7.0,7.0,Roadway blocked due to flooding. Updates as available.,2022-04-12 07:49:00,2022-04-12 15:06:01,https://goky.ky.gov/?lat=36.828025&lng=-88.438054&zoom=14
@@ -349,25 +349,25 @@ Updates as appropriate.
 1,Marshall,US-641,US-641 N,12.9,19.2,Water Over Road signs posted at numerous locations between KY Dam Village State Park and Draffenville,2022-02-17 11:40:00,2022-02-18 11:56:00,https://goky.ky.gov/?lat=36.957148&lng=-88.301829&zoom=14
 1,McCracken,KY-1014,KY-1014,3.0,3.7,Blocked due to flooding in the area.,2022-01-01 11:37:00,2022-01-02 21:46:01,https://goky.ky.gov/?lat=37.013225&lng=-88.632276&zoom=14
 1,McCracken,KY-1014,KY-1014,3.2,3.7,Roadway blocked due to flooding. Updates as available.,2022-02-17 11:46:00,2022-02-18 07:26:01,https://goky.ky.gov/?lat=37.014646&lng=-88.632503&zoom=14
-1,McCracken,KY-1014,KY-1014,3.2,3.7,Blocked due to flooding in the area.,2022-02-22 10:22:00,2022-02-22 15:32:01,https://goky.ky.gov/?lat=37.014646&lng=-88.632503&zoom=14
 1,McCracken,KY-1014,KY-1014,3.2,3.7,Road blocked due to flooding. Updates as available.,2022-02-22 10:22:00,2022-02-22 15:42:01,https://goky.ky.gov/?lat=37.014646&lng=-88.632503&zoom=14
+1,McCracken,KY-1014,KY-1014,3.2,3.7,Blocked due to flooding in the area.,2022-02-22 10:22:00,2022-02-22 15:32:01,https://goky.ky.gov/?lat=37.014646&lng=-88.632503&zoom=14
 1,McCracken,KY-1014,KY-1014,3.2,3.7,Roadway blocked due to flooding. Updates as available.,2022-04-13 20:00:00,2022-04-13 21:58:01,https://goky.ky.gov/?lat=37.014798&lng=-88.632524&zoom=14
 1,McCracken,KY-1014,KY-1014,3.2,3.7,Road blocked due to flooding. Updates as available.,2023-03-03 06:46:48,2023-03-03 22:18:01,https://goky.ky.gov/?lat=37.011159&lng=-88.632748&zoom=14KY-1014
 1,McCracken,KY-1014,KY-1014,3.2,3.7,Roadway blocked due to flooding. Updates as available.,2023-07-19 11:01:04,2023-07-20 10:06:00,https://goky.ky.gov/?lat=37.011159&lng=-88.632748&zoom=14KY-1014
-1,McCracken,KY-1014,KY-1014,3.2,3.7,Roadway blocked due to flooding. Updates as available.Roadway blocked due to flooding. Updates as available.,2023-07-19 11:01:04,2023-07-19 16:10:00,https://goky.ky.gov/?lat=37.011159&lng=-88.632748&zoom=14KY-1014
 1,McCracken,KY-1014,KY-1014,3.2,3.7,,2023-07-19 11:01:04,2023-07-19 15:42:01,https://goky.ky.gov/?lat=37.011159&lng=-88.632748&zoom=14KY-1014
+1,McCracken,KY-1014,KY-1014,3.2,3.7,Roadway blocked due to flooding. Updates as available.Roadway blocked due to flooding. Updates as available.,2023-07-19 11:01:04,2023-07-19 16:10:00,https://goky.ky.gov/?lat=37.011159&lng=-88.632748&zoom=14KY-1014
 1,McCracken,KY-1014,KY-1014,3.5,3.7,Road blocked due to flooding. Updates as available.,2022-03-22 19:19:00,2022-03-22 20:14:00,https://goky.ky.gov/?lat=37.016242&lng=-88.631031&zoom=14
 1,McCracken,KY-1014,KY-1014,3.7,3.7,Roadway blocked due to flooding. Updates as available.,2022-04-11 22:00:00,2022-04-12 08:56:01,https://goky.ky.gov/?lat=37.017119&lng=-88.629605&zoom=14
 1,McCracken,KY-1255,BONDS RD,0.0,2.3,Road closed due to flooding. Updates as available.,2022-01-01 12:46:00,2022-01-02 00:44:01,https://goky.ky.gov/?lat=36.955881&lng=-88.564585&zoom=14
-1,McCracken,KY-1255,BONDS RD,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 09:00:00,2022-04-17 17:58:01,https://goky.ky.gov/?lat=36.955014&lng=-88.558039&zoom=14
 1,McCracken,KY-1255,BONDS RD,1.0,2.0,Road is blocked due to flooding. Updates as available.,2022-01-09 09:00:00,2022-01-09 18:10:01,https://goky.ky.gov/?lat=36.955014&lng=-88.558039&zoom=14
+1,McCracken,KY-1255,BONDS RD,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 09:00:00,2022-04-17 17:58:01,https://goky.ky.gov/?lat=36.955014&lng=-88.558039&zoom=14
 1,McCracken,KY-1255,BONDS RD,1.0,2.0,Road is blocked due to flooding. Updates as available,2022-01-09 10:33:00,2022-01-09 11:32:01,https://goky.ky.gov/?lat=36.955014&lng=-88.558039&zoom=14
 1,McCracken,KY-1255,BONDS RD,1.0,2.0,Road blocked due to flooding. Updates as available.,2022-03-22 19:17:00,2022-03-23 20:04:00,https://goky.ky.gov/?lat=36.955014&lng=-88.558039&zoom=14
-1,McCracken,KY-1255,BONDS RD,1.0,2.3,Roadway blocked due to flooding. Updates as available.,2022-03-25 09:12:00,2022-03-28 16:12:00,https://goky.ky.gov/?lat=36.954689&lng=-88.555612&zoom=14
 1,McCracken,KY-1255,BONDS RD,1.0,2.3,"WATER OVER ROAD, ROAD IS BLOCKED",2022-03-25 09:12:00,2022-03-25 14:58:00,https://goky.ky.gov/?lat=36.954689&lng=-88.555612&zoom=14
+1,McCracken,KY-1255,BONDS RD,1.0,2.3,Roadway blocked due to flooding. Updates as available.,2022-03-25 09:12:00,2022-03-28 16:12:00,https://goky.ky.gov/?lat=36.954689&lng=-88.555612&zoom=14
 1,McCracken,KY-1255,BONDS RD,1.0,2.0,Roadway closed due to High water,2022-04-12 06:34:00,2022-04-12 15:04:01,https://goky.ky.gov/?lat=36.955014&lng=-88.558039&zoom=14
-1,McCracken,KY-1255,BONDS RD,1.0,2.0,"Roadway blocked due to flooding, Seek alternate route.",2023-01-03 00:32:44,2023-01-03 18:14:00,https://goky.ky.gov/?lat=36.956213&lng=-88.567041&zoom=14KY-1255
 1,McCracken,KY-1255,BONDS RD,1.0,2.0,"Roadway blocked due to flooding, Updates as available.",2023-01-03 00:32:44,2023-01-04 16:16:00,https://goky.ky.gov/?lat=36.956213&lng=-88.567041&zoom=14KY-1255
+1,McCracken,KY-1255,BONDS RD,1.0,2.0,"Roadway blocked due to flooding, Seek alternate route.",2023-01-03 00:32:44,2023-01-03 18:14:00,https://goky.ky.gov/?lat=36.956213&lng=-88.567041&zoom=14KY-1255
 1,McCracken,KY-1255,BONDS RD,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2023-01-03 00:32:44,2023-07-22 13:20:01,https://goky.ky.gov/?lat=36.956213&lng=-88.567041&zoom=14KY-1255
 1,McCracken,KY-1255,BONDS RD,1.0,2.0,"Blocked due to flooding, find alternate route.",2023-01-04 13:25:56,2023-01-04 16:12:00,https://goky.ky.gov/?lat=36.956213&lng=-88.567041&zoom=14KY-1255
 1,McCracken,KY-1255,BONDS RD,1.0,2.0,Road blocked due to flooding. Updates as available.,2023-03-03 06:45:08,2023-03-04 15:26:01,https://goky.ky.gov/?lat=36.956213&lng=-88.567041&zoom=14KY-1255
@@ -395,8 +395,8 @@ Updates as appropriate.
 1,McCracken,KY-1954,HUSBAND RD,2.0,2.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 11:08:57,2023-07-20 06:38:01,https://goky.ky.gov/?lat=36.993626&lng=-88.598281&zoom=14KY-1954
 1,McCracken,KY-1954,HUSBAND RD,2.5,2.5,Blocked due to high water.,2023-02-16 13:54:12,2023-02-16 16:36:01,https://goky.ky.gov/?lat=36.99986&lng=-88.599314&zoom=14KY-1954
 1,McCracken,KY-1954,HUSBAND RD,2.5,2.5,Roadway blocked due to flooding Updates as available.,2023-02-16 13:54:12,2023-02-16 17:24:01,https://goky.ky.gov/?lat=36.99986&lng=-88.599314&zoom=14KY-1954
-1,McCracken,KY-1954,HUSBAND RD,2.7,2.9,Roadway blocked due to flooding. Updates as available.,2022-02-17 11:44:00,2022-02-18 07:26:01,https://goky.ky.gov/?lat=37.004168&lng=-88.598575&zoom=14
 1,McCracken,KY-1954,HUSBAND RD,2.7,2.9,Blocked due to flooding in the area.,2022-02-17 11:44:00,2022-02-17 14:54:01,https://goky.ky.gov/?lat=37.004168&lng=-88.598575&zoom=14
+1,McCracken,KY-1954,HUSBAND RD,2.7,2.9,Roadway blocked due to flooding. Updates as available.,2022-02-17 11:44:00,2022-02-18 07:26:01,https://goky.ky.gov/?lat=37.004168&lng=-88.598575&zoom=14
 1,McCracken,KY-1954,HUSBAND RD,2.8,2.8,Both directions all lanes blocked. Updates as available,2023-02-16 08:42:28,2023-02-16 17:00:00,https://goky.ky.gov/?lat=37.004175&lng=-88.59858&zoom=14KY-1954
 1,McCracken,KY-305,KY-305,6.0,6.0,Roadway blocked due to flooding. Updates as available.,2023-07-19 15:47:54,2023-07-20 10:06:00,https://goky.ky.gov/?lat=37.086989&lng=-88.732054&zoom=14KY-305
 1,McCracken,KY-339,CLINTON RD,0.0,2.0,Roadway blocked due to flooding. Updates as available.,2022-04-12 07:36:00,2022-04-13 09:04:00,https://goky.ky.gov/?lat=36.960566&lng=-88.721117&zoom=14
@@ -442,8 +442,8 @@ Updates as appropriate.
 1,McCracken,US-45,HC MATHIS DR,11.7,11.7,Roadway blocked due to flooding. Updates as available.,2023-07-19 09:26:15,2023-07-19 18:22:01,https://goky.ky.gov/?lat=37.092597&lng=-88.632133&zoom=14US-45
 1,McCracken,US-45,HC MATHIS DR,11.7,11.7,,2023-07-19 09:26:15,2023-07-19 16:14:00,https://goky.ky.gov/?lat=37.092597&lng=-88.632133&zoom=14US-45
 1,McCracken,US-45,JACKSON ST,9.6,9.6,"Roadway blocked due to flooding, Seek alternate route.",2023-01-03 00:02:57,2023-01-03 16:26:00,https://goky.ky.gov/?lat=37.066345&lng=-88.63219&zoom=14US-45
-1,McCracken,US-45,JACKSON ST,9.6,9.6,Roadway blocked due to flooding. Updates as available.,2022-02-17 11:38:00,2022-02-18 07:22:01,https://goky.ky.gov/?lat=37.06653&lng=-88.631713&zoom=14
 1,McCracken,US-45,JACKSON ST,9.6,9.6,Blocked due to flooding in the area.,2022-02-17 11:38:00,2022-02-17 14:52:01,https://goky.ky.gov/?lat=37.06653&lng=-88.631713&zoom=14
+1,McCracken,US-45,JACKSON ST,9.6,9.6,Roadway blocked due to flooding. Updates as available.,2022-02-17 11:38:00,2022-02-18 07:22:01,https://goky.ky.gov/?lat=37.06653&lng=-88.631713&zoom=14
 1,McCracken,US-45,S 28TH ST,10.0,10.0,,2023-07-19 09:31:05,2023-07-19 16:16:00,https://goky.ky.gov/?lat=37.069862&lng=-88.628869&zoom=14US-45
 1,McCracken,US-45,US-45,3.8,3.8,U.S. 45/North 8th Street has Water Over Road signs posted at the 3.8mm between Ellis Street and Northview Street,2024-01-12 18:17:23,2024-01-12 18:26:01,https://goky.ky.gov/?lat=36.997052&lng=-88.675301&zoom=14US-45
 1,McCracken,US-60,JACKSON ST,13.5,14.4,Road blocked due to flooding at this location.,2023-03-03 10:01:08,2023-03-03 22:16:01,https://goky.ky.gov/?lat=37.068771&lng=-88.626182&zoom=14US-60
@@ -454,8 +454,8 @@ Updates as appropriate.
 1,Trigg,KY-1507,BAREFIELD RD,0.9,1.1,Both directions all lanes blocked between KY 958/Montgomery Rd and KY 128/Wallonia Road. Seek alternate route.,2023-01-03 08:20:14,2023-01-03 17:36:00,https://goky.ky.gov/?lat=36.911512&lng=-87.70703&zoom=14KY-1507
 1,Trigg,KY-1507,BAREFIELD RD,1.0,1.0,Roadway blocked due to flooding.  Updates as available.,2023-08-27 16:58:09,2023-08-29 09:56:00,https://goky.ky.gov/?lat=36.912897&lng=-87.706762&zoom=14KY-1507
 1,Trigg,KY-164,ROARING SPG RD,18.0,22.0,Roadway blocked due to flooding. Updates as available.,2022-02-17 19:00:00,2022-02-17 20:10:00,https://goky.ky.gov/?lat=36.718872&lng=-87.773581&zoom=14
-1,Trigg,KY-272,CALEDONIA RD,5.6,5.6,"Blocked between Cliffwood Dr. and Glenwood Mill Rd. Motorists may detour via KY 139 (South Rd), US 68 and KY 1585 (South Montgomery Rd).",2022-01-10 14:46:00,2022-01-14 16:46:01,https://goky.ky.gov/?lat=36.839937&lng=-87.783147&zoom=14
 1,Trigg,KY-272,CALEDONIA RD,5.6,5.6,Blocked due to a sinkhole in the area.,2022-01-10 14:46:00,2022-01-10 15:52:01,https://goky.ky.gov/?lat=36.839937&lng=-87.783147&zoom=14
+1,Trigg,KY-272,CALEDONIA RD,5.6,5.6,"Blocked between Cliffwood Dr. and Glenwood Mill Rd. Motorists may detour via KY 139 (South Rd), US 68 and KY 1585 (South Montgomery Rd).",2022-01-10 14:46:00,2022-01-14 16:46:01,https://goky.ky.gov/?lat=36.839937&lng=-87.783147&zoom=14
 1,Trigg,KY-276,ROCKY RIDGE RD,11.5,11.5,The roadway is expected to remain closed until sometime Thursday afternoon.,2022-05-09 12:57:00,2022-05-09 15:44:11,https://goky.ky.gov/?lat=36.910859&lng=-87.759915&zoom=14
 2,Caldwell,KY-126,KY-126,0.9,1.0,Open with high water.,2023-01-03 12:47:41,2023-01-03 16:56:01,https://goky.ky.gov/?lat=36.985743&lng=-87.775001&zoom=14KY-126
 2,Caldwell,KY-128,KY-128,3.3,3.3,Road blocked due to flooding. Updates as available.,2022-04-06 20:19:00,2022-04-09 20:18:00,https://goky.ky.gov/?lat=37.040055&lng=-87.836682&zoom=14
@@ -503,12 +503,12 @@ Updates as appropriate.
 2,Hancock,KY-334,KY-334,0.0,19.5,Roadway blocked due to flooding. Updates as available.,2022-02-23 18:45:00,2022-02-24 17:16:00,https://goky.ky.gov/?lat=37.967959&lng=-86.848822&zoom=14
 2,Hancock,KY-334,KY-334,11.0,13.0,Blocked due to flooding in the area.,2022-01-06 09:16:00,2022-01-09 09:14:00,https://goky.ky.gov/?lat=37.986048&lng=-86.819121&zoom=14
 2,Hancock,KY-334,KY-334,11.0,13.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 15:00:00,2022-03-09 17:58:00,https://goky.ky.gov/?lat=37.986048&lng=-86.819121&zoom=14
-2,Henderson,KY-136,KY-136 WEST,0.0,8.0,Roadway blocked due to flooding. Updates as available.,2022-01-08 18:25:00,2022-01-10 19:22:01,https://goky.ky.gov/?lat=37.878421&lng=-87.844962&zoom=14
 2,Henderson,KY-136,KY-136 WEST,0.0,5.0,Roadway blocked due to flooding. Updates as available.,2022-01-08 18:25:00,2022-03-27 17:58:00,https://goky.ky.gov/?lat=37.89442&lng=-87.863325&zoom=14
 2,Henderson,KY-136,KY-136 WEST,0.0,6.0,Road is blocked due to flooding. Updates as available.,2022-01-08 18:25:00,2022-01-09 16:14:00,https://goky.ky.gov/?lat=37.88854&lng=-87.85801&zoom=14
+2,Henderson,KY-136,KY-136 WEST,0.0,8.0,Roadway blocked due to flooding. Updates as available.,2022-01-08 18:25:00,2022-01-10 19:22:01,https://goky.ky.gov/?lat=37.878421&lng=-87.844962&zoom=14
 2,Henderson,KY-136,KY-136 WEST,0.0,8.0,Road is blocked due to flooding. Updates as available.,2022-01-08 18:25:00,2022-01-09 18:04:01,https://goky.ky.gov/?lat=37.878421&lng=-87.844962&zoom=14
-2,Henderson,KY-136,KY-136 WEST,0.0,5.0,Blocked due to flooding in the area.,2022-02-09 08:48:00,2022-03-24 16:06:00,https://goky.ky.gov/?lat=37.89442&lng=-87.863325&zoom=14
 2,Henderson,KY-136,KY-136 WEST,0.0,5.0,Roadway blocked due to high water. Updates as available.,2022-02-09 08:48:00,2022-02-12 17:58:01,https://goky.ky.gov/?lat=37.89442&lng=-87.863325&zoom=14
+2,Henderson,KY-136,KY-136 WEST,0.0,5.0,Blocked due to flooding in the area.,2022-02-09 08:48:00,2022-03-24 16:06:00,https://goky.ky.gov/?lat=37.89442&lng=-87.863325&zoom=14
 2,Henderson,KY-136,KY-136 WEST,0.0,5.0,Blocked in both directions at the Brookport Bridge over the Ohio River due to icing.,2022-02-23 18:45:00,2022-02-23 18:50:01,https://goky.ky.gov/?lat=37.89442&lng=-87.863325&zoom=14
 2,Henderson,KY-136,KY-136 WEST,0.0,5.0,Road blocked due to flooding. Updates as available.,2022-05-13 19:34:00,2022-05-16 20:32:01,https://goky.ky.gov/?lat=37.89442&lng=-87.863325&zoom=14
 2,Henderson,KY-136,KY-136 WEST,0.1,5.0,Roadway blocked due to flooding. Updates as available.,2023-03-28 11:42:56,2023-04-05 09:26:01,https://goky.ky.gov/?lat=37.919931&lng=-87.892449&zoom=14KY-136
@@ -517,8 +517,8 @@ Updates as appropriate.
 2,Henderson,KY-136,KY-136 WEST,1.0,0.0,Roadway blocked due to flooding. Updates as available.,2022-03-29 10:05:00,2022-04-01 17:58:00,https://goky.ky.gov/?lat=37.917195&lng=-87.885925&zoom=14
 2,Henderson,KY-1557,HOUSEBRIDGE RD,2.0,3.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 15:00:00,2022-03-11 17:58:01,https://goky.ky.gov/?lat=37.713226&lng=-87.729134&zoom=14
 2,Henderson,KY-1557,HOUSEBRIDGE RD,2.0,3.7,Roadway blocked due to flooding. Updates as available.,2022-02-17 19:00:00,2022-02-18 14:02:01,https://goky.ky.gov/?lat=37.716982&lng=-87.725482&zoom=14
-2,Henderson,KY-1557,HOUSEBRIDGE RD,2.0,3.0,Blocked due to flooding in the area.,2022-03-07 10:48:00,2022-03-07 16:00:01,https://goky.ky.gov/?lat=37.713226&lng=-87.729134&zoom=14
 2,Henderson,KY-1557,HOUSEBRIDGE RD,2.0,3.0,Roadway blocked due to flooding in the area. Updates as available.,2022-03-07 10:48:00,2022-03-09 14:28:00,https://goky.ky.gov/?lat=37.713226&lng=-87.729134&zoom=14
+2,Henderson,KY-1557,HOUSEBRIDGE RD,2.0,3.0,Blocked due to flooding in the area.,2022-03-07 10:48:00,2022-03-07 16:00:01,https://goky.ky.gov/?lat=37.713226&lng=-87.729134&zoom=14
 2,Henderson,KY-1557,HOUSEBRIDGE RD,2.0,3.0,Road blocked due to flooding at this location.,2023-03-25 11:57:03,2023-03-27 11:22:00,https://goky.ky.gov/?lat=37.707397&lng=-87.734611&zoom=14KY-1557
 2,Henderson,KY-1557,HOUSEBRIDGE RD,2.0,3.0,Roadway is blocked due to flooding. Updates as appropriate,2024-03-06 00:45:42,2024-03-06 08:04:01,https://goky.ky.gov/?lat=37.707397&lng=-87.734611&zoom=14KY-1557
 2,Henderson,KY-268,KY-268,2.5,2.5,Roadway blocked due to flooding. Updates as available.,2022-03-03 12:00:00,2022-03-09 17:58:00,https://goky.ky.gov/?lat=37.837216&lng=-87.720792&zoom=14
@@ -539,8 +539,8 @@ Updates as appropriate.
 2,Hopkins,US-41A,NEBO RD,11.0,12.0,Road blocked due to flooding.,2023-03-25 07:27:59,2023-03-27 11:24:00,https://goky.ky.gov/?lat=37.385029&lng=-87.681137&zoom=14US-41A
 2,Muhlenberg,KY-1379,KY-1379,0.0,3.7,Blocked due to flooding in the area.,2022-01-06 09:18:00,2022-01-08 14:02:00,https://goky.ky.gov/?lat=37.337321&lng=-87.09177&zoom=14
 2,Muhlenberg,KY-1379,KY-1379,0.0,3.7,Roadway blocked due to flooding. Updates as available.,2022-01-09 15:00:00,2022-01-14 21:06:01,https://goky.ky.gov/?lat=37.337321&lng=-87.09177&zoom=14
-2,Muhlenberg,KY-1379,KY-1379,0.0,2.8,Roadway blocked due to flooding. Updates as available.,2022-02-28 11:10:00,2022-03-01 22:14:00,https://goky.ky.gov/?lat=37.331545&lng=-87.090499&zoom=14
 2,Muhlenberg,KY-1379,KY-1379,0.0,2.8,Blocked due to flooding in the area.,2022-02-28 11:10:00,2022-02-28 15:02:01,https://goky.ky.gov/?lat=37.331545&lng=-87.090499&zoom=14
+2,Muhlenberg,KY-1379,KY-1379,0.0,2.8,Roadway blocked due to flooding. Updates as available.,2022-02-28 11:10:00,2022-03-01 22:14:00,https://goky.ky.gov/?lat=37.331545&lng=-87.090499&zoom=14
 2,Muhlenberg,KY-1379,KY-1379,8.0,8.1,Road blocked due to a slide at this location. Seek alternate route.,2023-01-06 13:34:37,2023-01-13 19:38:01,https://goky.ky.gov/?lat=37.32796&lng=-87.052224&zoom=14KY-1379
 2,Muhlenberg,KY-181,KY-181,15.2,16.5,Roadway blocked due to flooding. Updates as available.,2023-01-03 12:59:54,2023-01-06 11:24:00,https://goky.ky.gov/?lat=37.253082&lng=-87.197764&zoom=14KY-181
 2,Muhlenberg,KY-181,W DEPOT ST,12.4,12.7,Both directions all lanes blocked due to flooding. Seek alternate route.,2023-01-03 13:00:21,2023-01-03 16:58:01,https://goky.ky.gov/?lat=37.215583&lng=-87.188262&zoom=14KY-181
@@ -559,8 +559,8 @@ Updates as appropriate.
 2,Ohio,KY-2720,HAPPY HOLLOW RD,0.0,0.0,Roadway blocked due to flooding. Updates as available.,2022-02-19 13:23:00,2022-02-21 08:46:01,https://goky.ky.gov/?lat=37.347494&lng=-86.929023&zoom=14
 2,Ohio,KY-2720,HAPPY HOLLOW RD,0.0,0.0,Road blocked due to flooding. Updates as available.,2022-02-19 13:23:00,2022-02-20 14:58:00,https://goky.ky.gov/?lat=37.347494&lng=-86.929023&zoom=14
 2,Ohio,KY-69,KY-69,21.0,24.0,Roadway blocked due to flooding. Aupdates as available.,2023-01-03 09:06:41,2023-01-04 16:26:01,https://goky.ky.gov/?lat=37.518606&lng=-86.815944&zoom=14KY-69
-2,Ohio,KY-69,KY-69,21.0,24.0,Both directions all lanes blocked. Seek alternate route.,2023-01-03 09:06:41,2023-01-03 17:06:01,https://goky.ky.gov/?lat=37.518606&lng=-86.815944&zoom=14KY-69
 2,Ohio,KY-69,KY-69,21.0,24.0,Roadway blocked due to flooding. Uupdates as available.,2023-01-03 09:06:41,2023-01-05 11:24:01,https://goky.ky.gov/?lat=37.518606&lng=-86.815944&zoom=14KY-69
+2,Ohio,KY-69,KY-69,21.0,24.0,Both directions all lanes blocked. Seek alternate route.,2023-01-03 09:06:41,2023-01-03 17:06:01,https://goky.ky.gov/?lat=37.518606&lng=-86.815944&zoom=14KY-69
 2,Ohio,KY-919,KY-919,0.0,6.4,Blocked due to flooding in the area.,2022-02-18 14:05:00,2022-02-18 15:18:01,https://goky.ky.gov/?lat=37.553263&lng=-86.697758&zoom=14
 2,Ohio,KY-919,KY-919,0.0,6.4,Road blocked due to flooding. Updates as available.,2022-02-18 14:05:00,2022-02-20 14:58:00,https://goky.ky.gov/?lat=37.553263&lng=-86.697758&zoom=14
 2,Ohio,KY-919,KY-919,0.0,6.4,Roadway blocked due to flooding. Updates as available.,2022-02-18 14:05:00,2022-02-21 08:46:01,https://goky.ky.gov/?lat=37.553263&lng=-86.697758&zoom=14
@@ -574,8 +574,8 @@ Updates as appropriate.
 2,Ohio,KY-919,KY-919,3.0,4.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 12:30:23,2023-02-17 21:16:00,https://goky.ky.gov/?lat=37.552943&lng=-86.701499&zoom=14KY-919
 2,Ohio,US-62,US-62,9.0,10.0,Roadway blocked due to flooding. Updates as available.,2023-01-03 09:04:52,2023-01-05 11:24:01,https://goky.ky.gov/?lat=37.400062&lng=-86.889303&zoom=14US-62
 2,Ohio,US-62,US-62,9.0,10.0,,2023-01-03 09:04:52,2023-01-03 17:04:01,https://goky.ky.gov/?lat=37.400062&lng=-86.889303&zoom=14US-62
-2,Union,KY-130,MILL ST,15.7,16.0,Roadway blocked due to flooding. Updates as availbable.,2023-03-08 10:13:01,2023-03-13 16:12:01,https://goky.ky.gov/?lat=37.770648&lng=-87.938173&zoom=14KY-130
 2,Union,KY-130,MILL ST,15.7,16.0,Road blocked due to flooding. Seek alternate route.,2023-03-08 10:13:01,2023-03-09 18:08:01,https://goky.ky.gov/?lat=37.770648&lng=-87.938173&zoom=14KY-130
+2,Union,KY-130,MILL ST,15.7,16.0,Roadway blocked due to flooding. Updates as availbable.,2023-03-08 10:13:01,2023-03-13 16:12:01,https://goky.ky.gov/?lat=37.770648&lng=-87.938173&zoom=14KY-130
 2,Union,KY-130,MILL ST,15.7,16.0,Roadway blocked due to flooding. Updates as avialable.,2024-01-31 14:14:13,2024-02-05 14:56:01,https://goky.ky.gov/?lat=37.770648&lng=-87.938173&zoom=14KY-130
 2,Union,KY-1452,KY-1452,0.0,2.0,Roadway blocked due to flooding. Updates as available.,2022-01-04 18:00:00,2022-01-21 17:58:01,https://goky.ky.gov/?lat=37.814701&lng=-87.876844&zoom=14
 2,Union,KY-1452,KY-1452,0.0,2.0,Blocked due to flooding in the area.,2022-01-06 09:20:00,2022-04-19 15:34:00,https://goky.ky.gov/?lat=37.814701&lng=-87.876844&zoom=14
@@ -594,8 +594,8 @@ Updates as appropriate.
 2,Union,KY-1637,KY-1637,0.0,2.9,Road blocked due to flooding. Updates as available.,2022-05-13 19:38:00,2022-05-16 20:36:01,https://goky.ky.gov/?lat=37.795305&lng=-87.863817&zoom=14
 2,Union,KY-1637,KY-1637,0.1,2.9,Road blocked due to flooding. Updates as available.,2023-02-22 17:01:55,2023-02-24 14:50:01,https://goky.ky.gov/?lat=37.778045&lng=-87.874629&zoom=14KY-1637
 2,Union,KY-1637,KY-1637,0.1,2.9,Road blocked due to flooding.  Updates as available.,2024-02-02 15:07:20,2024-02-05 14:56:01,https://goky.ky.gov/?lat=37.778045&lng=-87.874629&zoom=14KY-1637
-2,Union,KY-1637,KY-1637,0.2,3.0,Blocked due to flooding in the area.,2022-04-19 08:15:00,2022-04-19 15:36:00,https://goky.ky.gov/?lat=37.797053&lng=-87.863029&zoom=14
 2,Union,KY-1637,KY-1637,0.2,3.0,Road blocked due to flooding. Updates as available.,2022-04-19 08:15:00,2022-04-19 16:24:01,https://goky.ky.gov/?lat=37.797053&lng=-87.863029&zoom=14
+2,Union,KY-1637,KY-1637,0.2,3.0,Blocked due to flooding in the area.,2022-04-19 08:15:00,2022-04-19 15:36:00,https://goky.ky.gov/?lat=37.797053&lng=-87.863029&zoom=14
 2,Union,KY-1637,KY-1637,0.2,0.9,ALL LANES BLOCKED DUE TO FLOODING,2023-03-08 10:08:27,2023-03-08 15:30:01,https://goky.ky.gov/?lat=37.779299&lng=-87.873629&zoom=14KY-1637
 2,Union,KY-1637,KY-1637,0.2,0.9,Roadway blocked due to flooding. Updates as available.,2023-03-08 10:08:27,2023-03-15 16:08:01,https://goky.ky.gov/?lat=37.779299&lng=-87.873629&zoom=14KY-1637
 2,Union,KY-667,KY-667,0.0,16.5,Roadway blocked due to flooding. Updates as available.,2022-02-23 06:45:00,2022-03-19 17:58:01,https://goky.ky.gov/?lat=37.649061&lng=-88.147828&zoom=14
@@ -606,8 +606,8 @@ Updates as appropriate.
 2,Union,KY-667,KY-667,5.7,11.2,Road blocked due to flooding. Updates as available.,2022-04-19 08:13:00,2022-05-16 20:34:01,https://goky.ky.gov/?lat=37.651642&lng=-88.147407&zoom=14
 2,Union,KY-667,KY-667,5.7,11.2,Blocked due to flooding in the area.,2022-04-19 08:13:00,2022-04-19 15:34:00,https://goky.ky.gov/?lat=37.651642&lng=-88.147407&zoom=14
 2,Union,KY-667,KY-667,5.7,11.2,Roadway blocked due to flooding. Updates as available.,2024-01-30 17:08:17,2024-02-02 16:08:01,https://goky.ky.gov/?lat=37.623315&lng=-88.130245&zoom=14KY-667
-2,Union,KY-667,KY-667,5.7,11.2,Roadway blocked due to flooding. Updates as available.,2022-01-03 11:07:00,2022-01-19 15:34:00,https://goky.ky.gov/?lat=37.652003&lng=-88.147345&zoom=14
 2,Union,KY-667,KY-667,5.7,11.2,Blocked due to flooding in the area.,2022-01-03 11:07:00,2022-01-04 15:42:01,https://goky.ky.gov/?lat=37.652003&lng=-88.147345&zoom=14
+2,Union,KY-667,KY-667,5.7,11.2,Roadway blocked due to flooding. Updates as available.,2022-01-03 11:07:00,2022-01-19 15:34:00,https://goky.ky.gov/?lat=37.652003&lng=-88.147345&zoom=14
 2,Union,KY-667,KY-667,5.8,11.2,The road is blocked for flooding updates as available.,2022-02-09 20:49:00,2022-02-12 20:48:00,https://goky.ky.gov/?lat=37.652291&lng=-88.147296&zoom=14
 2,Union,KY-667,KY-667,12.0,16.5,"In both directions, the road is blocked due to an embankment collapse.",2023-03-08 10:15:16,2023-03-27 11:24:00,https://goky.ky.gov/?lat=37.695998&lng=-88.119221&zoom=14KY-667
 2,Union,KY-668,KY-668,0.0,1.0,Blocked due to flooding in the area.,2022-01-06 09:20:00,2022-01-09 09:18:00,https://goky.ky.gov/?lat=37.627605&lng=-88.122156&zoom=14
@@ -623,8 +623,8 @@ Updates as appropriate.
 2,Webster,KY-132,KY-132,11.8,13.0,Roadway blocked due to flooding. Updates as available.,2023-03-03 13:16:08,2023-03-09 11:46:00,https://goky.ky.gov/?lat=37.517053&lng=-87.767305&zoom=14KY-132
 2,Webster,KY-132,KY-132,11.8,13.0,Road is blocked due to flooding. Seek alternate route.,2023-03-03 13:16:08,2023-03-04 15:28:01,https://goky.ky.gov/?lat=37.517053&lng=-87.767305&zoom=14KY-132
 2,Webster,KY-132,KY-132,12.3,12.9,Both directions all lanes blocked. Updates as available.,2023-02-16 10:18:24,2023-02-17 17:22:00,https://goky.ky.gov/?lat=37.523257&lng=-87.76267&zoom=14KY-132
-2,Webster,KY-132,KY-132,12.3,12.9,Roadway blocked due to flooding. Updates as available.,2023-03-03 11:20:48,2023-03-09 06:14:02,https://goky.ky.gov/?lat=37.523257&lng=-87.76267&zoom=14KY-132
 2,Webster,KY-132,KY-132,12.3,12.9,Road blocked due to flooding at this location.,2023-03-03 11:20:48,2023-03-04 15:30:01,https://goky.ky.gov/?lat=37.523257&lng=-87.76267&zoom=14KY-132
+2,Webster,KY-132,KY-132,12.3,12.9,Roadway blocked due to flooding. Updates as available.,2023-03-03 11:20:48,2023-03-09 06:14:02,https://goky.ky.gov/?lat=37.523257&lng=-87.76267&zoom=14KY-132
 2,Webster,KY-132,KY-132,12.3,12.9,Road blocked due to flooding.,2023-03-25 07:18:02,2023-03-27 11:26:01,https://goky.ky.gov/?lat=37.523257&lng=-87.76267&zoom=14KY-132
 2,Webster,KY-132,KY-132,12.4,13.0,Roadway blocked due to flooding. Updates as available.,2022-02-17 17:15:00,2022-02-18 07:32:01,https://goky.ky.gov/?lat=37.525133&lng=-87.756045&zoom=14
 2,Webster,KY-138,KY-138,6.8,8.2,Roadway blocked due to flooding. Updates as available.,2023-01-03 10:54:41,2023-01-06 11:22:00,https://goky.ky.gov/?lat=37.520586&lng=-87.550584&zoom=14KY-138
@@ -635,13 +635,13 @@ Updates as appropriate.
 2,Webster,KY-138,KY-138,10.4,10.7,Both directions all lanes blocked. Updates as available.,2023-02-16 10:20:22,2023-02-16 20:36:00,https://goky.ky.gov/?lat=37.489418&lng=-87.501582&zoom=14KY-138
 2,Webster,KY-138,KY-138,10.4,10.7,Road blocked due to flooding at this location.,2023-03-03 11:22:28,2023-03-04 15:28:01,https://goky.ky.gov/?lat=37.489418&lng=-87.501582&zoom=14KY-138
 2,Webster,KY-138,KY-138,10.4,10.7,Road blocked due to flooding.,2023-03-25 07:20:40,2023-03-27 11:24:00,https://goky.ky.gov/?lat=37.489418&lng=-87.501582&zoom=14KY-138
-2,Webster,KY-138,KY-138,10.6,10.7,Blocked due to flooding in the area.,2022-02-17 14:03:00,2022-02-17 14:58:01,https://goky.ky.gov/?lat=37.48911&lng=-87.497652&zoom=14
 2,Webster,KY-138,KY-138,10.6,10.7,Roadway blocked due to flooding. Updates as available.,2022-02-17 14:03:00,2022-02-18 10:10:01,https://goky.ky.gov/?lat=37.48911&lng=-87.497652&zoom=14
+2,Webster,KY-138,KY-138,10.6,10.7,Blocked due to flooding in the area.,2022-02-17 14:03:00,2022-02-17 14:58:01,https://goky.ky.gov/?lat=37.48911&lng=-87.497652&zoom=14
 2,Webster,KY-270,KY-270,6.8,8.4,Roadway blocked due to flooding. Updates as available.,2022-02-25 10:00:00,2022-02-28 12:02:00,https://goky.ky.gov/?lat=37.465025&lng=-87.78255&zoom=14
 2,Webster,KY-270,KY-270,6.8,8.0,Roadway blocked due to flooding. Updates as available.,2022-04-14 09:37:00,2022-04-15 12:50:01,https://goky.ky.gov/?lat=37.464936&lng=-87.786049&zoom=14
 2,Webster,KY-270,KY-270,6.8,8.2,Roadway blocked due to flooding. Updates as available.,2023-01-03 10:56:53,2023-01-06 11:22:00,https://goky.ky.gov/?lat=37.468124&lng=-87.795915&zoom=14KY-270
-2,Webster,KY-270,KY-270,6.8,8.3,Roadway blocked due to flooding. Updates as available.,2023-02-16 10:20:17,2023-02-22 20:08:00,https://goky.ky.gov/?lat=37.468124&lng=-87.795915&zoom=14KY-270
 2,Webster,KY-270,KY-270,6.8,8.3,Both directions all lanes blocked. Updates as available.,2023-02-16 10:20:17,2023-02-16 20:36:00,https://goky.ky.gov/?lat=37.468124&lng=-87.795915&zoom=14KY-270
+2,Webster,KY-270,KY-270,6.8,8.3,Roadway blocked due to flooding. Updates as available.,2023-02-16 10:20:17,2023-02-22 20:08:00,https://goky.ky.gov/?lat=37.468124&lng=-87.795915&zoom=14KY-270
 2,Webster,KY-270,KY-270,6.8,8.3,road is closed due to flooding,2023-02-17 12:34:40,2023-02-17 17:20:01,https://goky.ky.gov/?lat=37.468124&lng=-87.795915&zoom=14KY-270
 2,Webster,KY-270,KY-270,6.8,6.3,Roadway blocked due to flooding. Updates as available.,2023-03-03 11:21:38,2023-03-09 11:46:00,https://goky.ky.gov/?lat=37.468124&lng=-87.795915&zoom=14KY-270
 2,Webster,KY-270,KY-270,6.8,6.3,Road blocked due to flooding at this location.,2023-03-03 11:21:38,2023-03-04 15:30:01,https://goky.ky.gov/?lat=37.468124&lng=-87.795915&zoom=14KY-270
@@ -656,8 +656,8 @@ Updates as appropriate.
 3,Barren,KY-740,HISEVILLE PARK RD,3.8,3.8,Road closed due to flooding. Updates as available.,2022-01-04 05:00:00,2022-01-07 16:50:00,https://goky.ky.gov/?lat=37.169585&lng=-85.746348&zoom=14
 3,Barren,KY-740,HISEVILLE PARK RD,10.0,10.0,Road closed due to flooding. Updates as available.,2022-01-01 16:19:00,2022-01-02 10:58:00,https://goky.ky.gov/?lat=37.127538&lng=-85.789604&zoom=14
 3,Barren,US-68,NEW BOWLING GREEN RD,0.0,0.0,Road closed due to flooding.  Updates as available.,2022-01-01 12:14:00,2022-01-04 12:00:01,https://goky.ky.gov/?lat=37.030455&lng=-86.126355&zoom=14
-3,Butler,KY-269,KY-269,3.0,5.0,Roadway blocked due to flooding. Updates as available.,2023-01-04 06:39:24,2023-01-05 12:00:01,https://goky.ky.gov/?lat=37.257486&lng=-86.798527&zoom=14KY-269
 3,Butler,KY-269,KY-269,3.0,5.0,Roadway blocked due to high water use alternate route.,2023-01-04 06:39:24,2023-01-04 16:16:00,https://goky.ky.gov/?lat=37.257486&lng=-86.798527&zoom=14KY-269
+3,Butler,KY-269,KY-269,3.0,5.0,Roadway blocked due to flooding. Updates as available.,2023-01-04 06:39:24,2023-01-05 12:00:01,https://goky.ky.gov/?lat=37.257486&lng=-86.798527&zoom=14KY-269
 3,Butler,KY-403,WOODBURY LOOP,4.0,5.0,Blocked due to water over the road in the area.,2022-01-02 11:42:00,2022-01-07 12:40:00,https://goky.ky.gov/?lat=37.19434&lng=-86.647926&zoom=14
 3,Butler,KY-403,WOODBURY LOOP,4.0,5.0,Roadway blocked due to flooding. Updates as available. ,2023-02-17 09:49:19,2023-02-21 10:12:00,https://goky.ky.gov/?lat=37.188645&lng=-86.644809&zoom=14KY-403
 3,Butler,KY-403,WOODBURY LOOP,4.0,5.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 09:49:19,2023-02-18 15:28:00,https://goky.ky.gov/?lat=37.188645&lng=-86.644809&zoom=14KY-403
@@ -666,10 +666,10 @@ Updates as appropriate.
 3,Edmonson,KY-655,SEGAL RD,2.6,2.6,Blocked due to flooding in the area.  Updates as available.,2022-01-03 14:20:00,2022-01-06 14:18:01,https://goky.ky.gov/?lat=37.219026&lng=-86.378604&zoom=14
 3,Logan,KY-107,DEER LICK RD,0.5,0.5,Blocked due to flooding in the area.,2022-01-10 10:49:00,2022-01-10 17:00:01,https://goky.ky.gov/?lat=37.014872&lng=-87.04668&zoom=14
 3,Logan,KY-107,DEER LICK RD,0.5,0.5,Roadway blocked due to flooding. Updates as available.,2022-01-10 10:49:00,2022-01-13 10:48:00,https://goky.ky.gov/?lat=37.014872&lng=-87.04668&zoom=14
-3,Logan,KY-1151,GORDONSVILLE RD,6.9,6.9,Roadway blocked due to flooding. Updates as available.,2022-01-10 10:48:00,2022-01-13 10:46:00,https://goky.ky.gov/?lat=36.840055&lng=-87.018867&zoom=14
 3,Logan,KY-1151,GORDONSVILLE RD,6.9,6.9,Blocked due to flooding in the area.,2022-01-10 10:48:00,2022-01-10 17:02:09,https://goky.ky.gov/?lat=36.840055&lng=-87.018867&zoom=14
-3,Logan,KY-1153,BEECHLAND RD,4.2,4.2,Blocked due to flooding in the area.,2022-01-10 10:49:00,2022-01-10 17:00:01,https://goky.ky.gov/?lat=37.0482&lng=-86.906182&zoom=14
+3,Logan,KY-1151,GORDONSVILLE RD,6.9,6.9,Roadway blocked due to flooding. Updates as available.,2022-01-10 10:48:00,2022-01-13 10:46:00,https://goky.ky.gov/?lat=36.840055&lng=-87.018867&zoom=14
 3,Logan,KY-1153,BEECHLAND RD,4.2,4.2,Roadway blocked due to flooding. Updates as available.,2022-01-10 10:49:00,2022-01-13 10:48:00,https://goky.ky.gov/?lat=37.0482&lng=-86.906182&zoom=14
+3,Logan,KY-1153,BEECHLAND RD,4.2,4.2,Blocked due to flooding in the area.,2022-01-10 10:49:00,2022-01-10 17:00:01,https://goky.ky.gov/?lat=37.0482&lng=-86.906182&zoom=14
 3,Logan,KY-3201,COOPERTOWN QUALITY RD,0.4,0.4,Blocked due to flooding in the area.,2022-01-10 10:50:00,2022-01-10 17:00:01,https://goky.ky.gov/?lat=36.956972&lng=-86.874536&zoom=14
 3,Logan,KY-3201,COOPERTOWN QUALITY RD,0.4,0.4,Roadway blocked due to flooding. Updates as available.,2022-01-10 10:50:00,2022-01-13 10:48:00,https://goky.ky.gov/?lat=36.956972&lng=-86.874536&zoom=14
 3,Simpson,I-65,I-65,0.1,4.0,,2024-02-12 19:46:49,2024-02-13 03:02:01,https://goky.ky.gov/?lat=36.640095&lng=-86.570751&zoom=14I-65
@@ -680,8 +680,8 @@ Updates as appropriate.
 4,Breckinridge,KY-2199,KY-2199,1.0,1.1,Roadway blocked due to flooding. Updates as available.,2023-01-03 11:38:55,2023-01-04 13:32:00,https://goky.ky.gov/?lat=37.794473&lng=-86.155524&zoom=14KY-2199
 4,Breckinridge,KY-2199,KY-2199,1.0,1.0,Roadway blocked due to flooding. Updates as available.,2023-01-03 11:38:55,2023-01-03 18:20:00,https://goky.ky.gov/?lat=37.794473&lng=-86.155524&zoom=14KY-2199
 4,Breckinridge,KY-2199,KY-2199,1.0,1.0,,2023-01-03 11:38:55,2023-01-03 18:18:00,https://goky.ky.gov/?lat=37.794473&lng=-86.155524&zoom=14KY-2199
-4,Breckinridge,KY-2199,KY-2199,1.0,3.0,Both directions all lanes blocked. Seek alternate route.,2023-02-16 13:46:37,2023-02-16 16:42:00,https://goky.ky.gov/?lat=37.794473&lng=-86.155524&zoom=14KY-2199
 4,Breckinridge,KY-2199,KY-2199,1.0,4.0,Roadway blocked due to flooding Updates as available.,2023-02-16 13:46:37,2023-02-17 13:44:00,https://goky.ky.gov/?lat=37.794473&lng=-86.155524&zoom=14KY-2199
+4,Breckinridge,KY-2199,KY-2199,1.0,3.0,Both directions all lanes blocked. Seek alternate route.,2023-02-16 13:46:37,2023-02-16 16:42:00,https://goky.ky.gov/?lat=37.794473&lng=-86.155524&zoom=14KY-2199
 4,Breckinridge,KY-2199,KY-2199,1.0,3.0,Roadway blocked due to flooding Updates as available.,2023-02-16 13:46:37,2023-02-16 17:08:01,https://goky.ky.gov/?lat=37.794473&lng=-86.155524&zoom=14KY-2199
 4,Breckinridge,KY-2199,KY-2199,1.4,1.4,Roadway blocked due to flooding. Updates as available.,2022-02-17 21:00:00,2022-02-18 13:28:00,https://goky.ky.gov/?lat=37.799336&lng=-86.152662&zoom=14
 4,Breckinridge,KY-261,KY-261,15.0,16.0,Blocked due to high water. ,2023-02-16 12:06:06,2023-02-16 17:02:01,https://goky.ky.gov/?lat=37.812909&lng=-86.434991&zoom=14KY-261
@@ -689,14 +689,14 @@ Updates as appropriate.
 4,Breckinridge,KY-261,KY-261,15.0,16.0,ROAD CLOSED DUE TO FLODING,2023-02-17 10:59:50,2023-02-17 13:46:00,https://goky.ky.gov/?lat=37.812909&lng=-86.434991&zoom=14KY-261
 4,Breckinridge,KY-261,KY-261,15.2,15.2,Road closed due to flooding. Updates as available.,2022-01-02 09:00:00,2022-01-03 10:02:00,https://goky.ky.gov/?lat=37.814128&lng=-86.431861&zoom=14
 4,Breckinridge,KY-261,KY-261,15.2,15.2,Roadway blocked due to flooding. Updates as available.,2022-02-03 12:00:00,2022-04-17 17:58:01,https://goky.ky.gov/?lat=37.814128&lng=-86.431861&zoom=14
-4,Breckinridge,KY-261,KY-261,15.2,15.2,Blocked due to flooding in the area.,2022-02-22 13:14:00,2022-02-22 13:18:00,https://goky.ky.gov/?lat=37.814128&lng=-86.431861&zoom=14
 4,Breckinridge,KY-261,KY-261,15.2,15.2,Road blocked due to flooding. Updates as available.,2022-02-22 13:14:00,2022-02-23 07:00:09,https://goky.ky.gov/?lat=37.814128&lng=-86.431861&zoom=14
+4,Breckinridge,KY-261,KY-261,15.2,15.2,Blocked due to flooding in the area.,2022-02-22 13:14:00,2022-02-22 13:18:00,https://goky.ky.gov/?lat=37.814128&lng=-86.431861&zoom=14
 4,Breckinridge,KY-261,KY-261,15.2,15.2,WATER OVER ROAD  BLOCKED,2022-04-12 09:53:00,2022-04-12 14:58:01,https://goky.ky.gov/?lat=37.814128&lng=-86.431861&zoom=14
 4,Breckinridge,KY-261,KY-261,15.2,15.3,Roadway blocked due to flooding. Updates as available.,2023-01-03 11:36:28,2023-01-04 13:32:00,https://goky.ky.gov/?lat=37.814135&lng=-86.431866&zoom=14KY-261
 4,Breckinridge,KY-261,KY-261,15.2,15.2,Road is blocked due to flooding. Seek alternate route.,2023-03-03 13:10:32,2023-03-03 20:22:01,https://goky.ky.gov/?lat=37.814135&lng=-86.431866&zoom=14KY-261
-4,Breckinridge,KY-261,KY-261,15.6,15.6,Roadway blocked due to flooding. Updates as available.,2022-03-07 10:35:00,2022-03-08 09:32:00,https://goky.ky.gov/?lat=37.814967&lng=-86.42523&zoom=14
 4,Breckinridge,KY-261,KY-261,15.6,15.6,Road blocked due to flooding. Updates as available.,2022-03-07 10:35:00,2022-03-07 16:02:01,https://goky.ky.gov/?lat=37.814967&lng=-86.42523&zoom=14
 4,Breckinridge,KY-261,KY-261,15.6,15.6,Blocked due to flooding in the area.,2022-03-07 10:35:00,2022-03-07 15:52:01,https://goky.ky.gov/?lat=37.814967&lng=-86.42523&zoom=14
+4,Breckinridge,KY-261,KY-261,15.6,15.6,Roadway blocked due to flooding. Updates as available.,2022-03-07 10:35:00,2022-03-08 09:32:00,https://goky.ky.gov/?lat=37.814967&lng=-86.42523&zoom=14
 4,Breckinridge,KY-2779,NEW BETHEL RD,3.0,4.0,Roadway blocked due to flooding Updates as available.,2023-02-16 12:38:34,2023-02-17 13:44:00,https://goky.ky.gov/?lat=37.860042&lng=-86.516264&zoom=14KY-2779
 4,Breckinridge,KY-2779,NEW BETHEL RD,3.0,4.0,Roadway blocked due to high water. ,2023-02-16 12:38:34,2023-02-16 16:42:00,https://goky.ky.gov/?lat=37.860042&lng=-86.516264&zoom=14KY-2779
 4,Breckinridge,KY-2779,NEW BETHEL RD,3.0,4.0,ROAD IS CLOSED DUE TO FLOODING,2023-02-17 11:11:05,2023-02-17 13:46:00,https://goky.ky.gov/?lat=37.860042&lng=-86.516264&zoom=14KY-2779
@@ -713,19 +713,19 @@ Updates as appropriate.
 4,Breckinridge,KY-629,TICK RIDGE RD,1.0,2.0,Blocked due to high water. ,2023-02-16 12:32:02,2023-02-16 16:42:00,https://goky.ky.gov/?lat=37.634869&lng=-86.624873&zoom=14KY-629
 4,Breckinridge,KY-690,KY-690,8.0,9.0,Roadway blocked due to flooding Updates as available.,2023-02-16 12:33:35,2023-02-17 13:46:00,https://goky.ky.gov/?lat=37.668216&lng=-86.305319&zoom=14KY-690
 4,Breckinridge,KY-690,KY-690,8.0,9.0,ROAD IS CLOSED DUE TO FLOODING,2023-02-17 11:03:59,2023-02-17 13:46:00,https://goky.ky.gov/?lat=37.668216&lng=-86.305319&zoom=14KY-690
-4,Breckinridge,KY-690,KY-690,16.0,17.0,Roadway blocked due to flooding Updates as available.,2023-02-16 12:33:35,2023-02-16 17:06:01,https://goky.ky.gov/?lat=37.758341&lng=-86.239998&zoom=14KY-690
 4,Breckinridge,KY-690,KY-690,16.0,17.0,Blocked due to high water. ,2023-02-16 12:33:35,2023-02-16 16:42:00,https://goky.ky.gov/?lat=37.758341&lng=-86.239998&zoom=14KY-690
+4,Breckinridge,KY-690,KY-690,16.0,17.0,Roadway blocked due to flooding Updates as available.,2023-02-16 12:33:35,2023-02-16 17:06:01,https://goky.ky.gov/?lat=37.758341&lng=-86.239998&zoom=14KY-690
 4,Breckinridge,KY-690,KY-690,16.0,17.0,Roadway blocked due to flooding. Updates as available.,2023-02-16 17:01:35,2023-02-17 13:46:00,https://goky.ky.gov/?lat=37.758341&lng=-86.239998&zoom=14KY-690
 4,Breckinridge,KY-690,KY-690,16.0,17.0,ROAD IS CLOSED DUE TO FLOODING,2023-02-17 11:06:09,2023-02-17 13:46:00,https://goky.ky.gov/?lat=37.758341&lng=-86.239998&zoom=14KY-690
 4,Breckinridge,KY-690,KY-690,16.6,16.6,Roadway blocked due to flooding. Updates as available.,2022-02-17 21:00:00,2022-02-18 10:08:01,https://goky.ky.gov/?lat=37.766424&lng=-86.237339&zoom=14
-4,Breckinridge,KY-690,KY-690,16.6,16.6,Roadway blocked due to flooding. Updates as available.,2023-01-03 11:37:57,2023-01-03 18:32:00,https://goky.ky.gov/?lat=37.766431&lng=-86.237344&zoom=14KY-690
 4,Breckinridge,KY-690,KY-690,16.6,16.7,Roadway blocked due to flooding. Updates as available.,2023-01-03 11:37:57,2023-01-04 09:12:01,https://goky.ky.gov/?lat=37.766431&lng=-86.237344&zoom=14KY-690
+4,Breckinridge,KY-690,KY-690,16.6,16.6,Roadway blocked due to flooding. Updates as available.,2023-01-03 11:37:57,2023-01-03 18:32:00,https://goky.ky.gov/?lat=37.766431&lng=-86.237344&zoom=14KY-690
 4,Breckinridge,KY-690,KY-690,16.7,16.7,Road closed due to flooding. Updates as available.,2022-01-02 09:00:00,2022-01-03 08:30:01,https://goky.ky.gov/?lat=37.767756&lng=-86.236821&zoom=14
+4,Green,KY-1913,KY-1913,0.0,4.8,Road closed due to flooding. Updates as necessary.,2022-01-01 08:57:00,2022-01-01 09:44:01,https://goky.ky.gov/?lat=37.188328&lng=-85.396258&zoom=14
 4,Green,KY-1913,KY-1913,0.0,4.8,Road closed due to flooding.,2022-01-01 08:57:00,2022-01-01 09:08:00,https://goky.ky.gov/?lat=37.188328&lng=-85.396258&zoom=14
 4,Green,KY-1913,KY-1913,0.0,4.8,Road closed due to flooding. Updates as available.,2022-01-01 08:57:00,2022-01-01 10:32:00,https://goky.ky.gov/?lat=37.188328&lng=-85.396258&zoom=14
-4,Green,KY-1913,KY-1913,0.0,4.8,Road closed due to flooding. Updates as necessary.,2022-01-01 08:57:00,2022-01-01 09:44:01,https://goky.ky.gov/?lat=37.188328&lng=-85.396258&zoom=14
-4,Hardin,KY-1868,NEW GLENDALE RD,0.0,6.6,Roadway blocked due to flooding. Updates as available.,2022-03-07 09:12:00,2022-03-08 14:20:00,https://goky.ky.gov/?lat=37.533106&lng=-85.944733&zoom=14
 4,Hardin,KY-1868,NEW GLENDALE RD,0.0,6.6,Blocked due to flooding in the area.,2022-03-07 09:12:00,2022-03-07 15:50:01,https://goky.ky.gov/?lat=37.533106&lng=-85.944733&zoom=14
+4,Hardin,KY-1868,NEW GLENDALE RD,0.0,6.6,Roadway blocked due to flooding. Updates as available.,2022-03-07 09:12:00,2022-03-08 14:20:00,https://goky.ky.gov/?lat=37.533106&lng=-85.944733&zoom=14
 4,Hardin,KY-1868,NEW GLENDALE RD,0.0,6.6,Road blocked due to flooding. Updates as available.,2022-03-07 09:12:00,2022-03-07 16:02:01,https://goky.ky.gov/?lat=37.533106&lng=-85.944733&zoom=14
 4,Hart,KY-1140,RAIDER HOLLOW RD,3.0,3.1,,2024-01-25 05:18:46,2024-01-25 14:18:01,https://goky.ky.gov/?lat=37.327451&lng=-85.948591&zoom=14KY-1140
 4,Hart,KY-1140,RAIDER HOLLOW RD,7.0,8.0,FLOOD,2022-02-18 10:11:00,2022-02-18 14:22:00,https://goky.ky.gov/?lat=37.378721&lng=-85.986457&zoom=14
@@ -760,8 +760,8 @@ Updates as appropriate.
 4,Meade,KY-823,HARDESTY RAYMOND RD,0.1,1.0,Roadway blocked due to flooding. Updates as available.,2023-03-03 13:12:38,2023-03-06 05:24:00,https://goky.ky.gov/?lat=37.950349&lng=-86.354103&zoom=14KY-823
 4,Meade,KY-823,HARDESTY RAYMOND RD,0.1,1.0,Road is blocked due to flooding. Seek alternate route.,2023-03-03 13:12:38,2023-03-04 15:30:01,https://goky.ky.gov/?lat=37.950349&lng=-86.354103&zoom=14KY-823
 4,Meade,KY-823,HARDESTY RAYMOND RD,1.0,3.8,FLOOD,2022-02-18 10:15:00,2022-02-18 14:24:00,https://goky.ky.gov/?lat=37.934156&lng=-86.319274&zoom=14
-4,Taylor,KY-1913,COBURG RD,0.0,0.7,Road closed due to flooding. Updates as available.,2022-01-01 08:59:00,2022-01-01 10:32:00,https://goky.ky.gov/?lat=37.19872&lng=-85.350308&zoom=14
 4,Taylor,KY-1913,COBURG RD,0.0,0.7,Road closed due to flooding.,2022-01-01 08:59:00,2022-01-01 09:08:00,https://goky.ky.gov/?lat=37.19872&lng=-85.350308&zoom=14
+4,Taylor,KY-1913,COBURG RD,0.0,0.7,Road closed due to flooding. Updates as available.,2022-01-01 08:59:00,2022-01-01 10:32:00,https://goky.ky.gov/?lat=37.19872&lng=-85.350308&zoom=14
 4,Taylor,KY-1913,COBURG RD,0.0,0.7,Road closed due to flooding. Updates as necessary.,2022-01-01 08:59:00,2022-01-01 09:44:01,https://goky.ky.gov/?lat=37.19872&lng=-85.350308&zoom=14
 4,Taylor,KY-3211,RED FERN RD,0.8,5.3,Road closed due to flooding. Updates as available.,2022-01-02 09:00:00,2022-01-03 08:30:01,https://goky.ky.gov/?lat=37.394681&lng=-85.317826&zoom=14
 4,Taylor,KY-76,KNIFLEY RD,0.0,1.0,Road closed due to flooding. Updates as available.,2022-01-01 09:34:00,2022-01-01 15:36:00,https://goky.ky.gov/?lat=37.268859&lng=-85.213153&zoom=14
@@ -772,8 +772,8 @@ Updates as appropriate.
 5,Bullitt,KY-480,CEDAR GROVE RD,9.0,10.0,WATER OVER THE ROAD,2022-01-09 09:27:00,2022-01-09 10:38:00,https://goky.ky.gov/?lat=37.971916&lng=-85.552671&zoom=14
 5,Bullitt,KY-480,CEDAR GROVE RD,9.0,11.7,Roadway blocked due to flooding. Updates as available.,2022-02-17 19:30:00,2022-02-20 17:58:00,https://goky.ky.gov/?lat=37.973991&lng=-85.537783&zoom=14
 5,Bullitt,KY-480,CEDAR GROVE RD,9.0,11.0,Roadway blocked due to flooding in the area. Updates as available.,2022-03-07 12:38:00,2022-03-07 18:04:01,https://goky.ky.gov/?lat=37.972921&lng=-85.544101&zoom=14
-5,Bullitt,KY-480,CEDAR GROVE RD,9.0,11.0,Roadway blocked due to flooding. Updates as available.,2022-03-07 12:38:00,2022-03-07 20:22:00,https://goky.ky.gov/?lat=37.972921&lng=-85.544101&zoom=14
 5,Bullitt,KY-480,CEDAR GROVE RD,9.0,11.0,Blocked due to flooding in the area.,2022-03-07 12:38:00,2022-03-07 16:14:01,https://goky.ky.gov/?lat=37.972921&lng=-85.544101&zoom=14
+5,Bullitt,KY-480,CEDAR GROVE RD,9.0,11.0,Roadway blocked due to flooding. Updates as available.,2022-03-07 12:38:00,2022-03-07 20:22:00,https://goky.ky.gov/?lat=37.972921&lng=-85.544101&zoom=14
 5,Bullitt,KY-480,CEDAR GROVE RD,9.0,10.0,Roadway blocked due to flooding Updates as available.,2023-02-16 14:05:40,2023-02-24 14:50:01,https://goky.ky.gov/?lat=37.975605&lng=-85.560493&zoom=14KY-480
 5,Bullitt,KY-480,CEDAR GROVE RD,9.0,10.0,Both directions all lanes blocked. Seek alternate route.,2023-02-16 14:05:40,2023-02-16 16:46:00,https://goky.ky.gov/?lat=37.975605&lng=-85.560493&zoom=14KY-480
 5,Bullitt,KY-480,CEDAR GROVE RD,10.0,10.0,Road closed due to flooding. Updates as available.,2022-01-03 07:00:00,2022-01-03 08:06:08,https://goky.ky.gov/?lat=37.972921&lng=-85.544101&zoom=14
@@ -786,13 +786,13 @@ Updates as appropriate.
 5,Bullitt,KY-61,PRESTON HWY,9.4,9.5,Both directions all lanes blocked. Seek alternate route.,2023-02-16 14:05:48,2023-02-16 16:46:00,https://goky.ky.gov/?lat=37.923208&lng=-85.698754&zoom=14KY-61
 5,Bullitt,US-31E,BARDSTOWN RD,3.6,4.1,Northbound right lane blocked due to a sinkhole.,2022-03-02 17:27:00,2022-03-03 19:28:01,https://goky.ky.gov/?lat=38.055962&lng=-85.539963&zoom=14
 5,Franklin,I-64,I-64,51.0,51.0,,2023-05-16 14:40:36,2023-05-16 14:46:00,https://goky.ky.gov/?lat=38.154529&lng=-84.932209&zoom=14I-64
-5,Franklin,I-64,I-64 NC,53.0,53.0,Westbound all lanes blocked.,2022-07-14 11:54:00,2022-07-14 13:54:01,https://goky.ky.gov/?lat=38.158525&lng=-84.896034&zoom=14
 5,Franklin,I-64,I-64 NC,53.0,53.0,ALL WESTBOUND LANES BLOCKED,2022-07-14 11:54:00,2022-07-14 12:56:01,https://goky.ky.gov/?lat=38.158525&lng=-84.896034&zoom=14
+5,Franklin,I-64,I-64 NC,53.0,53.0,Westbound all lanes blocked.,2022-07-14 11:54:00,2022-07-14 13:54:01,https://goky.ky.gov/?lat=38.158525&lng=-84.896034&zoom=14
 5,Franklin,I-64,I-64 NC,55.0,55.0,Westbound both lanes blocked for cleanup from an earlier crash.,2022-07-12 19:30:00,2022-07-12 23:58:00,https://goky.ky.gov/?lat=38.160085&lng=-84.859988&zoom=14
 5,Franklin,KY-1005,DEVILS HOLLOW RD,1.8,1.9,ROADWAY WASHED OUT DUE TO FLOODING,2022-09-03 22:52:43,2022-09-06 09:00:01,https://goky.ky.gov/?lat=38.212213&lng=-84.979401&zoom=14KY-1005
-5,Franklin,KY-1211,TAYLOR AVE,0.1,0.8,Road blocked due to a rockslide in this location.,2023-10-13 08:12:05,2023-10-13 16:06:00,https://goky.ky.gov/?lat=38.195889&lng=-84.883499&zoom=14KY-1211
 5,Franklin,KY-1211,TAYLOR AVE,0.1,0.8,"Road blocked to all thru-traffic between US 127 (West Plaza Connector) and US 60 (""Louisville Hill"") due to a rockslide. Local access only.  Thru-traffic should seek an alternate route.",2023-10-13 08:12:05,2023-10-13 17:20:00,https://goky.ky.gov/?lat=38.195889&lng=-84.883499&zoom=14KY-1211
-5,Franklin,KY-1211,TAYLOR AVE,0.2,0.6,Road blocked between Devils Hollow Rd and Benson Valley Rd due to a rockslide. Local access only. Thru-traffic must seek an alternate route.,2023-10-13 08:12:05,2024-03-11 00:00:01,https://goky.ky.gov/?lat=38.197151&lng=-84.884463&zoom=14KY-1211
+5,Franklin,KY-1211,TAYLOR AVE,0.1,0.8,Road blocked due to a rockslide in this location.,2023-10-13 08:12:05,2023-10-13 16:06:00,https://goky.ky.gov/?lat=38.195889&lng=-84.883499&zoom=14KY-1211
+5,Franklin,KY-1211,TAYLOR AVE,0.2,0.6,Road blocked between Devils Hollow Rd and Benson Valley Rd due to a rockslide. Local access only. Thru-traffic must seek an alternate route.,2023-10-13 08:12:05,2024-03-11 02:00:01,https://goky.ky.gov/?lat=38.197151&lng=-84.884463&zoom=14KY-1211
 5,Franklin,KY-1659,GLENNS CREEK RD,1.0,2.0,Road blocked due to a rockslide. Signed detour in operation.,2022-01-07 22:00:00,2022-03-01 10:46:01,https://goky.ky.gov/?lat=38.16512&lng=-84.853076&zoom=14
 5,Franklin,KY-1659,GLENNS CREEK RD,1.0,2.0,Both directions blocked between Glenns Creek Rd and and Harrod Carter Concrete. Motorists may detourvia KY 1681(Duncan Road) to U.S. 60 (Versailles Road) to  KY 676 (East-West Connector) .,2022-05-27 17:52:00,2022-11-01 00:28:00,https://goky.ky.gov/?lat=38.165128&lng=-84.853081&zoom=14KY-1659
 5,Franklin,KY-1659,GLENNS CREEK RD,1.0,2.0,Road blocked between Glenns Creek Rd and and Harrod Carter Concrete. Detour in place.,2022-05-27 17:52:00,2022-08-20 23:34:00,https://goky.ky.gov/?lat=38.165128&lng=-84.853081&zoom=14KY-1659
@@ -823,8 +823,8 @@ Updates as appropriate.
 6,Campbell,KY-1566,ONEONTA RD,1.6,1.6,Roadway blocked due to flooding/emergency repairs. Updates as available.,2023-07-28 06:55:00,2023-07-21 18:08:01,https://goky.ky.gov/?lat=38.972106&lng=-84.306897&zoom=14KY-1566
 6,Campbell,KY-1566,ONEONTA RD,1.6,1.6,Roadway is blocked in both directions due washed out culvert,2023-07-28 06:55:00,2023-07-19 11:06:00,https://goky.ky.gov/?lat=38.972106&lng=-84.306897&zoom=14KY-1566
 6,Harrison,KY-3016,KY-3016,0.0,1.9,Roadway blocked due to flooding. Updates as available.,2022-01-01 19:30:00,2022-01-02 11:48:00,https://goky.ky.gov/?lat=38.379141&lng=-84.305446&zoom=14
-6,Harrison,KY-3016,KY-3016,1.0,1.9,Road blocked due to flooding. Updates as available.,2022-02-18 04:21:00,2022-02-21 16:50:00,https://goky.ky.gov/?lat=38.386244&lng=-84.301833&zoom=14
 6,Harrison,KY-3016,KY-3016,1.0,1.9,ROADWAY BLOCKED DUE TO HIGH WATER,2022-02-18 04:21:00,2022-02-18 15:12:01,https://goky.ky.gov/?lat=38.386244&lng=-84.301833&zoom=14
+6,Harrison,KY-3016,KY-3016,1.0,1.9,Road blocked due to flooding. Updates as available.,2022-02-18 04:21:00,2022-02-21 16:50:00,https://goky.ky.gov/?lat=38.386244&lng=-84.301833&zoom=14
 6,Harrison,KY-3016,KY-3016,1.0,1.9,Roadway blocked due to flooding. Updates as available.,2022-02-18 04:21:00,2022-02-23 11:58:00,https://goky.ky.gov/?lat=38.386244&lng=-84.301833&zoom=14
 6,Harrison,KY-3016,KY-3016,1.0,1.0,Road blocked due to flooding. Updates as available.,2023-01-03 14:41:44,2023-01-03 17:12:00,https://goky.ky.gov/?lat=38.379535&lng=-84.306101&zoom=14KY-3016
 6,Harrison,KY-3016,KY-3016,1.0,1.0,Roadway blocked due to flooding. Updates as available.,2023-01-03 14:41:44,2023-01-10 18:38:01,https://goky.ky.gov/?lat=38.379535&lng=-84.306101&zoom=14KY-3016
@@ -889,8 +889,8 @@ Updates as appropriate.
 8,Clinton,KY-350,KY-350,1.5,2.5,Roadway blocked in both directions. Seek alternate route.,2022-02-18 08:06:00,2022-02-25 17:58:01,https://goky.ky.gov/?lat=36.695296&lng=-85.107075&zoom=14
 8,Clinton,KY-350,KY-350,1.5,2.5,Blocked in both directions due to a culvert washing out in the area. Seek alternate route.,2022-02-18 08:06:00,2022-02-21 16:52:00,https://goky.ky.gov/?lat=36.695296&lng=-85.107075&zoom=14
 8,Lincoln,KY-328,KY-328 W,1.3,2.0,Road blocked due to flooding. Updates as available.,2022-08-10 19:33:34,2022-08-16 17:42:01,https://goky.ky.gov/?lat=37.264654&lng=-84.716133&zoom=14KY-328
-8,Pulaski,KY-1642,KY-1642,5.3,5.3,Roadway blocked due to flooding. Updates as available.,2023-02-16 21:02:31,2023-02-19 16:44:00,https://goky.ky.gov/?lat=37.041026&lng=-84.614464&zoom=14KY-1642
 8,Pulaski,KY-1642,KY-1642,5.3,5.3,Roadway blocked due to flooding. ,2023-02-16 21:02:31,2023-02-18 15:32:00,https://goky.ky.gov/?lat=37.041026&lng=-84.614464&zoom=14KY-1642
+8,Pulaski,KY-1642,KY-1642,5.3,5.3,Roadway blocked due to flooding. Updates as available.,2023-02-16 21:02:31,2023-02-19 16:44:00,https://goky.ky.gov/?lat=37.041026&lng=-84.614464&zoom=14KY-1642
 8,Pulaski,KY-3260,KY-3260,0.0,1.0,Road closed due to flooding. Updates as available.,2022-01-01 12:41:00,2022-01-01 20:54:00,https://goky.ky.gov/?lat=37.107886&lng=-84.58937&zoom=14
 8,Pulaski,LN-9008,LOUIE B. NUNN CUMBERLAND EXPRESSWAY NC,86.0,86.0,Westbound all lanes blocked due to a mudeslide.,2022-02-03 22:07:00,2022-02-03 22:46:00,https://goky.ky.gov/?lat=37.103094&lng=-84.664936&zoom=14
 8,Rockcastle,I-75,I-75,73.0,73.0,Northbound right lane blocked. Expect delays.,2022-08-06 17:00:00,2022-08-08 17:58:01,https://goky.ky.gov/?lat=37.532258&lng=-84.320022&zoom=14
@@ -902,9 +902,9 @@ Updates as appropriate.
 8,Rockcastle,KY-490,S UPPER RIVER RD,0.0,7.5,Road closed due to flooding. Updates as available.,2022-01-01 20:19:00,2022-01-02 10:58:00,https://goky.ky.gov/?lat=37.288198&lng=-84.192921&zoom=14
 8,Rockcastle,KY-89,N UPPER RIVER RD,0.0,3.2,Road closed due to flooding. Updates as available.,2022-01-01 20:21:00,2022-01-02 10:58:00,https://goky.ky.gov/?lat=37.311345&lng=-84.153151&zoom=14
 9,Bath,KY-211,KY-211,5.0,6.0,Blocked due to flooding in the area.,2022-02-04 08:29:00,2022-02-04 16:56:00,https://goky.ky.gov/?lat=38.103887&lng=-83.623592&zoom=14
-9,Bath,KY-211,KY-211,6.0,6.0,Roadway blocked due to flooding. Updates as available.,2022-03-07 13:49:00,2022-03-08 08:44:01,https://goky.ky.gov/?lat=38.110941&lng=-83.623298&zoom=14
 9,Bath,KY-211,KY-211,6.0,6.0,Blocked due to flooding in the area.,2022-03-07 13:49:00,2022-03-07 16:02:01,https://goky.ky.gov/?lat=38.110941&lng=-83.623298&zoom=14
 9,Bath,KY-211,KY-211,6.0,6.0,Roadway blocked due to flooding in the area. Updates as available.,2022-03-07 13:49:00,2022-03-07 18:06:01,https://goky.ky.gov/?lat=38.110941&lng=-83.623298&zoom=14
+9,Bath,KY-211,KY-211,6.0,6.0,Roadway blocked due to flooding. Updates as available.,2022-03-07 13:49:00,2022-03-08 08:44:01,https://goky.ky.gov/?lat=38.110941&lng=-83.623298&zoom=14
 9,Bath,KY-211,KY-211,6.1,6.1,ROAD IS CLOSED DUE TO FLOODING,2023-02-17 09:34:23,2023-02-17 16:28:01,https://goky.ky.gov/?lat=38.112068&lng=-83.622167&zoom=14KY-211
 9,Bath,KY-211,KY-211,6.1,6.1,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 09:36:55,2023-02-17 18:04:01,https://goky.ky.gov/?lat=38.112068&lng=-83.622167&zoom=14KY-211
 9,Bath,KY-211,KY-211,6.1,6.1,Reduced to one lane.,2023-02-17 09:36:55,2023-02-18 09:18:00,https://goky.ky.gov/?lat=38.112068&lng=-83.622167&zoom=14KY-211
@@ -918,8 +918,8 @@ Updates as appropriate.
 9,Boyd,KY-5,KY-5,2.9,2.9,roadway is blocked due to flooding,2022-02-04 05:39:00,2022-02-04 15:10:01,https://goky.ky.gov/?lat=38.420599&lng=-82.758289&zoom=14
 9,Boyd,KY-5,KY-5,5.0,6.0,Road closed due to flooding. Updates as available.,2022-01-01 20:25:00,2022-01-02 08:24:01,https://goky.ky.gov/?lat=38.443195&lng=-82.733021&zoom=14
 9,Boyd,KY-5,KY-5,8.0,9.0,Road closed due to flooding. Updates as available.,2022-01-01 20:28:00,2022-01-02 08:26:01,https://goky.ky.gov/?lat=38.468394&lng=-82.706475&zoom=14
-9,Boyd,KY-5,KY-5,8.0,9.0,Road blcoked due to flooding. Updates as available.,2022-02-03 21:48:00,2022-02-03 22:24:01,https://goky.ky.gov/?lat=38.468394&lng=-82.706475&zoom=14
 9,Boyd,KY-5,KY-5,8.0,9.0,Roadway blocked due to flooding. Updates as available.,2022-02-03 21:48:00,2022-02-04 05:40:01,https://goky.ky.gov/?lat=38.468394&lng=-82.706475&zoom=14
+9,Boyd,KY-5,KY-5,8.0,9.0,Road blcoked due to flooding. Updates as available.,2022-02-03 21:48:00,2022-02-03 22:24:01,https://goky.ky.gov/?lat=38.468394&lng=-82.706475&zoom=14
 9,Boyd,KY-5,KY-5,8.0,9.0,Blocked due to flooding in the area.,2022-07-31 12:13:00,2022-07-31 20:18:01,https://goky.ky.gov/?lat=38.468394&lng=-82.706475&zoom=14
 9,Boyd,KY-5,KY-5,8.0,9.0,Blocked due to water over roadway. ,2023-02-16 13:21:32,2023-02-16 16:50:00,https://goky.ky.gov/?lat=38.462064&lng=-82.70834&zoom=14KY-5
 9,Boyd,KY-5,KY-5,8.0,9.0,Roadway blocked due to flooding. Updates as available.,2023-02-16 13:21:32,2023-02-16 20:30:00,https://goky.ky.gov/?lat=38.462064&lng=-82.70834&zoom=14KY-5
@@ -946,8 +946,8 @@ Updates as appropriate.
 9,Carter,I-64,I-64,174.0,174.0,Eastbound Rest Area Closed,2022-05-04 07:50:00,2022-05-04 13:48:00,https://goky.ky.gov/?lat=38.356415&lng=-82.901138&zoom=14
 9,Carter,KY-1,KY-1,7.0,8.0,Roadway blocked due to flooding. Updates as available.,2022-02-24 21:00:00,2022-02-28 17:58:00,https://goky.ky.gov/?lat=38.288702&lng=-82.919309&zoom=14
 9,Carter,KY-1,KY-1,8.0,9.0,Road blocked due to flooding.  Updates as available.,2023-02-16 16:21:50,2023-02-16 19:32:00,https://goky.ky.gov/?lat=38.295164&lng=-82.923097&zoom=14KY-1
-9,Carter,KY-1,KY-1,8.9,8.9,Roadway blocked due to flooding. Updates as available.,2022-03-07 13:49:00,2022-03-08 08:44:01,https://goky.ky.gov/?lat=38.307712&lng=-82.927199&zoom=14
 9,Carter,KY-1,KY-1,8.9,8.9,Roadway blocked due to flooding in the area. Updates as available.,2022-03-07 13:49:00,2022-03-07 18:06:01,https://goky.ky.gov/?lat=38.307712&lng=-82.927199&zoom=14
+9,Carter,KY-1,KY-1,8.9,8.9,Roadway blocked due to flooding. Updates as available.,2022-03-07 13:49:00,2022-03-08 08:44:01,https://goky.ky.gov/?lat=38.307712&lng=-82.927199&zoom=14
 9,Carter,KY-1,KY-1,8.9,8.9,Blocked due to flooding in the area.,2022-03-07 13:49:00,2022-03-07 16:04:01,https://goky.ky.gov/?lat=38.307712&lng=-82.927199&zoom=14
 9,Carter,KY-1,KY-1,9.0,10.0,Road closed due to flooding. Updates as available.,2022-01-01 10:07:00,2022-01-01 22:06:01,https://goky.ky.gov/?lat=38.315222&lng=-82.931633&zoom=14
 9,Carter,KY-1,KY-1,9.0,10.0,Blocked due to flooding in the area.,2022-01-01 11:47:00,2022-01-02 10:18:02,https://goky.ky.gov/?lat=38.315222&lng=-82.931633&zoom=14
@@ -984,22 +984,22 @@ Updates as appropriate.
 9,Greenup,KY-503,KY-503,0.5,2.0,Blocked due to flooding in the area.,2022-02-04 10:56:00,2022-02-05 20:08:00,https://goky.ky.gov/?lat=38.450117&lng=-82.776751&zoom=14
 9,Greenup,KY-503,KY-503,1.0,2.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:45:50,2023-02-17 17:54:01,https://goky.ky.gov/?lat=38.446558&lng=-82.776708&zoom=14KY-503
 9,Greenup,KY-503,KY-503,1.0,2.0,Roadway blocked due to flooding. ,2023-02-17 16:39:47,2023-02-18 09:20:00,https://goky.ky.gov/?lat=38.446558&lng=-82.776708&zoom=14KY-503
-9,Greenup,KY-693,CHINNS BR RD,0.5,0.5,Roadway blocked due to flooding. Updates as available.,2022-02-03 21:50:00,2022-02-04 05:34:01,https://goky.ky.gov/?lat=38.537453&lng=-82.763344&zoom=14
 9,Greenup,KY-693,CHINNS BR RD,0.5,0.5,Road blcoked due to flooding. Updates as available.,2022-02-03 21:50:00,2022-02-03 22:24:01,https://goky.ky.gov/?lat=38.537453&lng=-82.763344&zoom=14
+9,Greenup,KY-693,CHINNS BR RD,0.5,0.5,Roadway blocked due to flooding. Updates as available.,2022-02-03 21:50:00,2022-02-04 05:34:01,https://goky.ky.gov/?lat=38.537453&lng=-82.763344&zoom=14
 9,Greenup,KY-784,LOST CRK RD,8.0,8.0,Road blocked due to flooding.  Updates as available.,2023-02-16 20:08:47,2023-02-17 16:34:00,https://goky.ky.gov/?lat=38.445391&lng=-83.020707&zoom=14KY-784
 9,Greenup,KY-784,LOST CRK RD,8.0,12.0,Roadway blocked due to high water. ,2023-02-17 16:33:47,2023-02-18 09:20:00,https://goky.ky.gov/?lat=38.445391&lng=-83.020707&zoom=14KY-784
-9,Greenup,KY-784,LOST CRK RD,10.0,11.0,Roadway blocked due to flooding. Updates as available.,2022-02-04 05:32:00,2022-02-07 17:58:00,https://goky.ky.gov/?lat=38.466591&lng=-83.047003&zoom=14
 9,Greenup,KY-784,LOST CRK RD,10.0,11.0,roadway is blocked due to flooding,2022-02-04 05:32:00,2022-02-05 20:08:00,https://goky.ky.gov/?lat=38.466591&lng=-83.047003&zoom=14
+9,Greenup,KY-784,LOST CRK RD,10.0,11.0,Roadway blocked due to flooding. Updates as available.,2022-02-04 05:32:00,2022-02-07 17:58:00,https://goky.ky.gov/?lat=38.466591&lng=-83.047003&zoom=14
 9,Greenup,KY-784,THREE PRONG RD,12.0,12.0,Road blocked due to flooding.  Updates as available.,2023-02-16 20:24:00,2023-02-17 16:34:00,https://goky.ky.gov/?lat=38.480312&lng=-83.066161&zoom=14KY-784
 9,Lewis,KY-1306,KINNEY RD,2.0,2.0,"The road will remain closed through the weekend and until debris can be cleared. All thru traffic should detour using the AA Highway (KY 9 and KY 10), or seek alternate routes.",2022-05-07 07:31:00,2022-05-07 15:40:01,https://goky.ky.gov/?lat=38.569104&lng=-83.216044&zoom=14
 9,Lewis,KY-1306,KINNEY RD,2.0,2.0,Blocked due to a mudslide in the area. Seek alternate route.,2022-05-07 07:33:00,2022-05-07 15:38:01,https://goky.ky.gov/?lat=38.569104&lng=-83.216044&zoom=14
 9,Lewis,KY-344,KY-344,14.0,18.0,Road blocked due to flooding.  Updates as available.,2023-02-16 20:39:17,2023-02-17 15:36:00,https://goky.ky.gov/?lat=38.484138&lng=-83.372878&zoom=14KY-344
 9,Lewis,KY-989,SALT LICK RD,1.2,7.3,Roadway blocked due to flooding. Updates as available.,2023-02-16 13:15:07,2023-02-17 15:36:00,https://goky.ky.gov/?lat=38.495629&lng=-83.573298&zoom=14KY-989
 9,Lewis,KY-989,SALT LICK RD,1.2,7.3,Both directions all lanes blocked between Salt Lick Road and Toller Branch. Seek alternate route.,2023-02-16 13:15:07,2023-02-16 16:52:00,https://goky.ky.gov/?lat=38.495629&lng=-83.573298&zoom=14KY-989
-9,Lewis,KY-989,SALT LICK RD,7.0,8.0,Road blcoked due to flooding. Updates as available.,2022-02-03 22:16:00,2022-02-03 22:26:01,https://goky.ky.gov/?lat=38.512271&lng=-83.482195&zoom=14
 9,Lewis,KY-989,SALT LICK RD,7.0,8.0,Roadway blocked due to flooding. Updates as available.,2022-02-03 22:16:00,2022-02-04 16:54:00,https://goky.ky.gov/?lat=38.512271&lng=-83.482195&zoom=14
-9,Lewis,KY-989,SALT LICK RD,12.5,12.5,Road blcoked due to flooding. Updates as available.,2022-02-03 22:17:00,2022-02-03 22:26:01,https://goky.ky.gov/?lat=38.569921&lng=-83.432895&zoom=14
+9,Lewis,KY-989,SALT LICK RD,7.0,8.0,Road blcoked due to flooding. Updates as available.,2022-02-03 22:16:00,2022-02-03 22:26:01,https://goky.ky.gov/?lat=38.512271&lng=-83.482195&zoom=14
 9,Lewis,KY-989,SALT LICK RD,12.5,12.5,Roadway blocked due to flooding. Updates as available.,2022-02-03 22:17:00,2022-02-04 16:54:00,https://goky.ky.gov/?lat=38.569921&lng=-83.432895&zoom=14
+9,Lewis,KY-989,SALT LICK RD,12.5,12.5,Road blcoked due to flooding. Updates as available.,2022-02-03 22:17:00,2022-02-03 22:26:01,https://goky.ky.gov/?lat=38.569921&lng=-83.432895&zoom=14
 9,Lewis,KY-989,SALT LICK RD,12.5,3.0,Roadway blocked due to flooding. Updates as available.,2023-01-03 08:55:22,2023-01-11 09:00:00,https://goky.ky.gov/?lat=38.569928&lng=-83.432899&zoom=14KY-989
 9,Lewis,KY-989,SALT LICK RD,12.5,3.0,Road blocked due to flood damage. Updates as available.,2023-01-03 08:55:22,2023-01-03 17:14:00,https://goky.ky.gov/?lat=38.569928&lng=-83.432899&zoom=14KY-989
 9,Lewis,KY-989,SALT LICK RD,12.5,12.5,Roadway blocked due to flooding. Updates as available.,2023-02-16 13:17:04,2023-02-16 20:34:00,https://goky.ky.gov/?lat=38.569928&lng=-83.432899&zoom=14KY-989
@@ -1009,8 +1009,8 @@ Updates as appropriate.
 9,Mason,KY-324,HELENA RD,10.5,10.5,,2023-01-03 08:59:08,2023-01-03 17:14:00,https://goky.ky.gov/?lat=38.497496&lng=-83.760927&zoom=14KY-324
 9,Mason,KY-324,HELENA RD,10.5,10.5,Roadway blocked due to flooding. Updates as available.,2023-01-03 08:59:08,2023-01-03 18:20:00,https://goky.ky.gov/?lat=38.497496&lng=-83.760927&zoom=14KY-324
 9,Nicholas,KY-1244,BARTERVILLE RD,0.0,3.0,Blocked due to flooding in the area.,2022-01-01 14:47:00,2022-01-02 02:46:01,https://goky.ky.gov/?lat=38.34476&lng=-84.059914&zoom=14
-9,Nicholas,KY-1244,BARTERVILLE RD,4.0,4.1,Roadway blocked due to flooding. Updates as available.,2023-01-03 08:57:53,2023-01-11 09:00:00,https://goky.ky.gov/?lat=38.379225&lng=-84.068959&zoom=14KY-1244
 9,Nicholas,KY-1244,BARTERVILLE RD,4.0,4.0,Roadway blocked due to flooding. Updates as available.,2023-01-03 08:57:53,2023-01-03 17:14:00,https://goky.ky.gov/?lat=38.379225&lng=-84.068959&zoom=14KY-1244
+9,Nicholas,KY-1244,BARTERVILLE RD,4.0,4.1,Roadway blocked due to flooding. Updates as available.,2023-01-03 08:57:53,2023-01-11 09:00:00,https://goky.ky.gov/?lat=38.379225&lng=-84.068959&zoom=14KY-1244
 9,Nicholas,KY-1244,BARTERVILLE RD,4.0,4.0,,2023-01-03 08:57:53,2023-01-03 17:12:00,https://goky.ky.gov/?lat=38.379225&lng=-84.068959&zoom=14KY-1244
 9,Nicholas,KY-1285,E UNION RD,0.0,6.3,Blocked due to flooding in the area.,2022-01-01 14:47:00,2022-01-02 02:46:01,https://goky.ky.gov/?lat=38.277586&lng=-83.997009&zoom=14
 9,Nicholas,KY-36,CONCRETE RD,3.0,4.0,Water over the road but passable.,2022-01-01 14:49:00,2022-01-01 16:38:02,https://goky.ky.gov/?lat=38.311772&lng=-84.048166&zoom=14
@@ -1021,9 +1021,9 @@ Updates as appropriate.
 10,Breathitt,KY-15,KY-15,1.0,2.0,Road closed due to flooding. Updates as available.,2022-01-01 10:41:00,2022-01-01 10:50:01,https://goky.ky.gov/?lat=37.415908&lng=-83.279316&zoom=14
 10,Breathitt,KY-15,KY-15,7.7,7.6,Road blocked due to flooding south of Jackson at Lost Creek near the KY 476 intersection.,2022-07-28 21:23:00,2022-07-29 14:02:01,https://goky.ky.gov/?lat=37.477958&lng=-83.322078&zoom=14
 10,Breathitt,KY-15,KY-15,17.7,17.7,"Road blocked due to flooding. Updates as available. Seek an alternate route such as I-75 and the Hal Rogers Pkwy through London and Manchester, or the Mountain Pkwy, KY 114, US 23, and KY 80 through Prestonsburg.",2022-07-28 21:30:00,2022-07-30 09:08:01,https://goky.ky.gov/?lat=37.557322&lng=-83.385758&zoom=14
+10,Breathitt,KY-15,KY-15,20.0,20.0,Road blocked to non emergency vehicle traffic due to flooding (). Updates as available.,2022-07-29 07:33:00,2022-07-29 17:28:00,https://goky.ky.gov/?lat=37.586228&lng=-83.388924&zoom=14
 10,Breathitt,KY-15,KY-15,20.0,20.0,Road blocked due to flooding (for non emergency vehicle traffic). Updates as available.,2022-07-29 07:33:00,2022-07-29 14:06:05,https://goky.ky.gov/?lat=37.586228&lng=-83.388924&zoom=14
 10,Breathitt,KY-15,KY-15,20.0,20.0,Road blocked to non emergency vehicle traffic due to flooding. Updates as available.,2022-07-29 07:33:00,2022-07-30 09:08:01,https://goky.ky.gov/?lat=37.586228&lng=-83.388924&zoom=14
-10,Breathitt,KY-15,KY-15,20.0,20.0,Road blocked to non emergency vehicle traffic due to flooding (). Updates as available.,2022-07-29 07:33:00,2022-07-29 17:28:00,https://goky.ky.gov/?lat=37.586228&lng=-83.388924&zoom=14
 10,Breathitt,KY-1812,KY-1812,2.9,2.9,Roadway blocked due to a rockslide. Motorists may detour via KY 15.,2023-02-19 20:42:13,2023-02-20 14:12:01,https://goky.ky.gov/?lat=37.550563&lng=-83.378713&zoom=14KY-1812
 10,Breathitt,KY-315,KY-315,0.0,11.5,Road blocked due to flooding. Updates as available.,2022-07-30 20:50:00,2022-07-30 22:18:01,https://goky.ky.gov/?lat=37.431565&lng=-83.475037&zoom=14
 10,Breathitt,KY-315,KY-315,1.0,2.0,Road closed due to flooding. Updates as available.,2022-01-01 10:46:00,2022-01-01 22:44:00,https://goky.ky.gov/?lat=37.39215&lng=-83.476819&zoom=14
@@ -1040,8 +1040,8 @@ Updates as appropriate.
 10,Estill,KY-1571,MILLERS CREEK RD,4.0,5.6,Roadway blocked due to flooding. Updates as available.,2022-01-10 19:00:00,2022-01-11 14:12:04,https://goky.ky.gov/?lat=37.667839&lng=-83.870602&zoom=14
 10,Estill,KY-1571,MILLERS CREEK RD,4.0,5.0,Road blocked due to flooding. Updates as available.,2022-07-28 17:16:00,2022-08-01 09:48:01,https://goky.ky.gov/?lat=37.668135&lng=-83.875646&zoom=14
 10,Estill,KY-1571,MILLERS CREEK RD,4.5,4.5,Roadway blocked due to flooding. Updates as available.,2023-02-16 22:51:00,2023-02-20 09:06:01,https://goky.ky.gov/?lat=37.668143&lng=-83.875651&zoom=14KY-1571
-10,Estill,KY-1645,KIRKLAND AVE,0.0,2.2,WATER OVER ROAD,2022-07-29 12:20:00,2022-07-29 16:28:01,https://goky.ky.gov/?lat=37.686416&lng=-83.962251&zoom=14
 10,Estill,KY-1645,KIRKLAND AVE,0.0,2.2,Road blocked due to flooding. Updates as available.,2022-07-29 12:20:00,2022-07-31 17:28:00,https://goky.ky.gov/?lat=37.686416&lng=-83.962251&zoom=14
+10,Estill,KY-1645,KIRKLAND AVE,0.0,2.2,WATER OVER ROAD,2022-07-29 12:20:00,2022-07-29 16:28:01,https://goky.ky.gov/?lat=37.686416&lng=-83.962251&zoom=14
 10,Estill,KY-1645,KIRKLAND AVE,1.0,2.0,Blocked due to flooding in the area.,2022-01-03 10:16:00,2022-01-04 12:32:00,https://goky.ky.gov/?lat=37.682658&lng=-83.957262&zoom=14
 10,Estill,KY-1645,KIRKLAND AVE,1.0,2.0,Road blocked due to flooding. Updates as available.,2022-07-29 12:20:00,2022-07-31 22:04:01,https://goky.ky.gov/?lat=37.682658&lng=-83.957262&zoom=14
 10,Estill,KY-3328,RED LICK RD,0.0,1.0,ROADWAY IS BLOCKED DUE TO FLOODING,2022-01-01 23:45:00,2022-01-02 17:28:01,https://goky.ky.gov/?lat=37.668606&lng=-84.002219&zoom=14
@@ -1080,12 +1080,12 @@ Updates as appropriate.
 10,Menifee,KY-1274,KY-1274,3.0,3.0,,2024-03-06 13:31:43,2024-03-06 13:36:01,https://goky.ky.gov/?lat=37.974558&lng=-83.564365&zoom=14KY-1274
 10,Menifee,KY-1274,KY-1274,3.0,3.0,Lane blocked due to a rock slide at this location.,2024-03-06 13:31:43,2024-03-06 14:16:01,https://goky.ky.gov/?lat=37.974558&lng=-83.564365&zoom=14KY-1274
 10,Menifee,KY-713,HAWKINS BRANCH RD,3.0,4.0,Road blocked due to flooding.  Updates as available.,2023-02-16 17:28:45,2023-02-18 13:38:00,https://goky.ky.gov/?lat=37.945265&lng=-83.772297&zoom=14KY-713
-10,Menifee,KY-713,INDIAN CREEK RD,9.2,9.6,Full closure between Dennis Lane and Hidden Hollow Rd due to a culvert collapse.,2022-03-21 16:43:00,2022-03-23 14:58:01,https://goky.ky.gov/?lat=37.919583&lng=-83.680492&zoom=14
 10,Menifee,KY-713,INDIAN CREEK RD,9.2,9.6,Reduced to one lane between Dennis Lane and Hidden Hollow Rd due to a culvert collapse.,2022-03-21 16:43:00,2022-03-23 14:18:00,https://goky.ky.gov/?lat=37.919583&lng=-83.680492&zoom=14
+10,Menifee,KY-713,INDIAN CREEK RD,9.2,9.6,Full closure between Dennis Lane and Hidden Hollow Rd due to a culvert collapse.,2022-03-21 16:43:00,2022-03-23 14:58:01,https://goky.ky.gov/?lat=37.919583&lng=-83.680492&zoom=14
 10,Menifee,US-460,US-460 W,1.0,2.0,Road blocked due to flooding.  Updates as available.,2023-02-16 17:19:36,2023-02-18 13:38:00,https://goky.ky.gov/?lat=37.948516&lng=-83.756291&zoom=14US-460
 10,Morgan,KY-191,KY-191,7.8,8.8,Road blocked due to flooding.  Updates as available.,2023-02-16 19:19:35,2023-02-20 10:06:01,https://goky.ky.gov/?lat=37.820415&lng=-83.25592&zoom=14KY-191
-10,Morgan,KY-191,KY-191,7.9,7.9,Roadway blocked due to flooding. Updates as available.,2022-01-09 14:16:00,2022-01-09 16:52:01,https://goky.ky.gov/?lat=37.821514&lng=-83.254715&zoom=14
 10,Morgan,KY-191,KY-191,7.9,7.9,Road is blocked due to flooding. Updates as available.,2022-01-09 14:16:00,2022-01-09 16:52:01,https://goky.ky.gov/?lat=37.821514&lng=-83.254715&zoom=14
+10,Morgan,KY-191,KY-191,7.9,7.9,Roadway blocked due to flooding. Updates as available.,2022-01-09 14:16:00,2022-01-09 16:52:01,https://goky.ky.gov/?lat=37.821514&lng=-83.254715&zoom=14
 10,Morgan,KY-364,KY-364,5.5,5.5,Roadway is under water,2022-07-29 06:37:00,2022-07-29 17:30:01,https://goky.ky.gov/?lat=37.876306&lng=-83.184484&zoom=14
 10,Morgan,KY-7,KY-7,7.8,7.9,Road blocked due to flooding.  Updates as available.,2023-02-16 17:31:07,2023-02-20 10:08:00,https://goky.ky.gov/?lat=38.017441&lng=-83.271645&zoom=14KY-7
 10,Morgan,KY-711,KY-711,3.0,4.0,Roadway blocked due to flooding. Updates as available.,2022-02-03 22:15:00,2022-02-04 16:44:00,https://goky.ky.gov/?lat=38.023359&lng=-83.280431&zoom=14
@@ -1105,16 +1105,16 @@ Updates as appropriate.
 10,Owsley,KY-3347,SHEPHERD RD,0.4,0.8,Road blocked due to flooding.  Updates as available.,2023-02-16 21:42:03,2023-02-17 09:18:01,https://goky.ky.gov/?lat=37.476612&lng=-83.660415&zoom=14KY-3347
 10,Perry,KY-1087,BALLS FORK RD,1.2,1.2,Road blocked due to flood damage. Updates as available.,2022-07-31 19:44:00,2022-09-06 10:08:00,https://goky.ky.gov/?lat=37.384076&lng=-83.132323&zoom=14KY-1087
 10,Perry,KY-1146,HARDBURLY RD,0.3,0.3,Culvert washed out,2022-07-31 15:41:00,2022-08-03 16:40:01,https://goky.ky.gov/?lat=37.301229&lng=-83.129456&zoom=14
-10,Perry,KY-2021,COUCHTOWN RD,1.0,7.8,mud and trees are in road,2022-07-28 10:26:00,2022-07-28 22:16:01,https://goky.ky.gov/?lat=37.279698&lng=-83.278891&zoom=14
 10,Perry,KY-2021,COUCHTOWN RD,1.0,7.8,Road blocked due to debris. Updates as available.,2022-07-28 10:26:00,2022-07-30 19:08:01,https://goky.ky.gov/?lat=37.279698&lng=-83.278891&zoom=14
+10,Perry,KY-2021,COUCHTOWN RD,1.0,7.8,mud and trees are in road,2022-07-28 10:26:00,2022-07-28 22:16:01,https://goky.ky.gov/?lat=37.279698&lng=-83.278891&zoom=14
 10,Perry,KY-2022,KY-2022,0.0,8.2,Road blocked due to flooding. Updates as available.,2022-07-30 21:02:00,2022-07-30 22:08:00,https://goky.ky.gov/?lat=37.319703&lng=-83.528818&zoom=14
 10,Perry,KY-2022,KY-2022,0.1,0.1,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 09:15:40,2023-02-18 13:36:00,https://goky.ky.gov/?lat=37.264358&lng=-83.512162&zoom=14KY-2022
 10,Perry,KY-2022,KY-2022,3.2,3.2,Bridge closed due to flooding.,2022-07-31 09:07:00,2022-07-31 17:22:00,https://goky.ky.gov/?lat=37.310115&lng=-83.535342&zoom=14
 10,Perry,KY-2022,KY-2022,3.2,3.2,Bridge out due to flooding.,2022-08-01 09:41:00,2022-08-01 15:04:01,https://goky.ky.gov/?lat=37.310115&lng=-83.535342&zoom=14
 10,Perry,KY-267,SIXTEENMILE CREEK RD,0.0,12.6,Road blocked due to flooding. Updates as available.,2022-07-30 20:56:00,2022-07-30 22:22:01,https://goky.ky.gov/?lat=37.329175&lng=-83.2112&zoom=14
 10,Perry,KY-267,SIXTEENMILE CREEK RD,8.5,8.5,Blocked due to a slide.,2022-07-30 23:03:00,2022-07-31 14:42:01,https://goky.ky.gov/?lat=37.356738&lng=-83.223907&zoom=14
-10,Perry,KY-267,SIXTEENMILE CREEK RD,8.5,8.5,Roadway is blocked due to a slide.,2022-07-31 08:19:00,2022-07-31 08:22:01,https://goky.ky.gov/?lat=37.356738&lng=-83.223907&zoom=14
 10,Perry,KY-267,SIXTEENMILE CREEK RD,8.5,8.5,Roadway is blocked due to a slide. Seek an alternate route.,2022-07-31 08:19:00,2022-08-03 17:58:01,https://goky.ky.gov/?lat=37.356738&lng=-83.223907&zoom=14
+10,Perry,KY-267,SIXTEENMILE CREEK RD,8.5,8.5,Roadway is blocked due to a slide.,2022-07-31 08:19:00,2022-07-31 08:22:01,https://goky.ky.gov/?lat=37.356738&lng=-83.223907&zoom=14
 10,Perry,KY-267,SIXTEENMILE CREEK RD,8.5,8.5,All lanes blocked. Traffic can use KY 15 or KY 476 to bypass either side of the closure,2022-08-08 10:57:00,2022-08-23 20:30:00,https://goky.ky.gov/?lat=37.356738&lng=-83.223907&zoom=14KY-267
 10,Perry,KY-267,SIXTEENMILE CREEK RD,8.5,8.5,Lane blocked for cleanup efforts. Expect delays.,2022-08-08 10:57:00,2022-09-06 09:54:01,https://goky.ky.gov/?lat=37.356738&lng=-83.223907&zoom=14KY-267
 10,Perry,KY-3351,PIGEONROOST RD,3.4,3.4,Bridge out due to flooding. Updates as available.,2022-07-30 13:49:00,2022-08-09 11:10:07,https://goky.ky.gov/?lat=37.367283&lng=-83.151354&zoom=14
@@ -1151,11 +1151,11 @@ Updates as appropriate.
 11,Bell,KY-1534,KY-1534,1.7,2.7,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:08:47,2023-02-18 08:58:01,https://goky.ky.gov/?lat=36.703618&lng=-83.667389&zoom=14KY-1534
 11,Bell,KY-188,KY-188,0.1,2.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:08:46,2023-02-17 19:16:00,https://goky.ky.gov/?lat=36.667694&lng=-83.686319&zoom=14KY-188
 11,Bell,KY-2013,KY-2013,0.0,1.0,roadway is blocked due to flooding,2022-02-04 06:09:00,2022-02-05 09:56:01,https://goky.ky.gov/?lat=36.776851&lng=-83.625966&zoom=14
-11,Bell,KY-2013,KY-2013,0.0,1.0,Blocked due to flooding in the area.,2022-02-23 08:48:00,2022-02-23 15:44:01,https://goky.ky.gov/?lat=36.776851&lng=-83.625966&zoom=14
 11,Bell,KY-2013,KY-2013,0.0,1.0,Road blocked due to flooding. Updates as available.,2022-02-23 08:48:00,2022-02-23 16:14:01,https://goky.ky.gov/?lat=36.776851&lng=-83.625966&zoom=14
+11,Bell,KY-2013,KY-2013,0.0,1.0,Blocked due to flooding in the area.,2022-02-23 08:48:00,2022-02-23 15:44:01,https://goky.ky.gov/?lat=36.776851&lng=-83.625966&zoom=14
 11,Bell,KY-2013,KY-2013,0.0,1.0,Roadway blocked due to flooding. Updates as available.,2022-02-23 08:48:00,2022-02-28 08:32:01,https://goky.ky.gov/?lat=36.776851&lng=-83.625966&zoom=14
-11,Bell,KY-2013,KY-2013,0.1,1.9,Roadway blocked due to flooding. Updates as available.,2023-02-17 06:33:44,2023-02-17 18:46:01,https://goky.ky.gov/?lat=36.776173&lng=-83.63269&zoom=14KY-2013
 11,Bell,KY-2013,KY-2013,0.1,2.0,Roadway blocked due to flooding. Updates as available.,2023-02-17 06:33:44,2023-02-18 09:00:01,https://goky.ky.gov/?lat=36.776173&lng=-83.63269&zoom=14KY-2013
+11,Bell,KY-2013,KY-2013,0.1,1.9,Roadway blocked due to flooding. Updates as available.,2023-02-17 06:33:44,2023-02-17 18:46:01,https://goky.ky.gov/?lat=36.776173&lng=-83.63269&zoom=14KY-2013
 11,Bell,KY-2013,KY-2013,0.1,2.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:08:47,2023-02-17 16:54:00,https://goky.ky.gov/?lat=36.776173&lng=-83.63269&zoom=14KY-2013
 11,Bell,KY-2013,KY-2013,0.1,1.9,ROAD CLOSED DUE TO FLOODING,2023-02-17 08:24:05,2023-02-17 16:56:01,https://goky.ky.gov/?lat=36.776173&lng=-83.63269&zoom=14KY-2013
 11,Bell,KY-2014,KY-2014,0.2,0.3,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:08:43,2023-02-18 08:58:01,https://goky.ky.gov/?lat=36.791911&lng=-83.743386&zoom=14KY-2014
@@ -1173,8 +1173,8 @@ Updates as appropriate.
 11,Clay,KY-11,KY-11,19.6,20.0,Road blocked due to mudslide. Updates as available,2022-07-29 10:11:00,2022-07-29 21:34:01,https://goky.ky.gov/?lat=37.269313&lng=-83.654499&zoom=14
 11,Clay,KY-11,KY-11,19.6,19.6,Road blocked due to flooding. Updates as available.,2022-07-28 16:40:00,2022-07-28 18:26:01,https://goky.ky.gov/?lat=37.267689&lng=-83.652178&zoom=14
 11,Clay,KY-11,KY-11,22.0,22.0,Road blocked due to slide.,2022-07-28 16:45:00,2022-07-28 17:40:01,https://goky.ky.gov/?lat=37.288728&lng=-83.67546&zoom=14
-11,Clay,KY-11,KY-11,26.6,26.6,Reduced to one lane due to a rockslide in the area.,2022-01-10 07:11:00,2022-01-10 17:04:00,https://goky.ky.gov/?lat=37.336592&lng=-83.689402&zoom=14
 11,Clay,KY-11,KY-11,26.6,26.6,Roadway reduced to one lane. Expect delays.,2022-01-10 07:11:00,2022-01-11 17:24:00,https://goky.ky.gov/?lat=37.336592&lng=-83.689402&zoom=14
+11,Clay,KY-11,KY-11,26.6,26.6,Reduced to one lane due to a rockslide in the area.,2022-01-10 07:11:00,2022-01-10 17:04:00,https://goky.ky.gov/?lat=37.336592&lng=-83.689402&zoom=14
 11,Clay,KY-1482,KY-1482,0.0,9.5,Road blocked due to culvert washing out. Updates as available.  Seek an alternate route.,2022-07-28 16:43:00,2022-07-29 21:34:01,https://goky.ky.gov/?lat=37.246064&lng=-83.588822&zoom=14
 11,Clay,KY-1482,KY-1482,1.0,1.0,All lanes blocked. Updates as available.,2022-07-28 14:11:00,2022-07-28 22:14:01,https://goky.ky.gov/?lat=37.244422&lng=-83.532582&zoom=14
 11,Clay,KY-1482,KY-1482,1.0,1.0,Road blocked due to roadway damage. Updates as available.,2022-07-28 14:11:00,2022-07-29 21:34:01,https://goky.ky.gov/?lat=37.244422&lng=-83.532582&zoom=14
@@ -1191,8 +1191,8 @@ Updates as appropriate.
 11,Clay,KY-80,KY-80,5.5,5.8,Roadway blocked due to flooding. Updates as available.,2023-02-17 06:37:41,2023-02-17 10:06:01,https://goky.ky.gov/?lat=37.123254&lng=-83.787084&zoom=14KY-80
 11,Harlan,KY-2006,KY-2006,2.0,3.0,Roadway blocked due to flooding. Updates as available.,2022-02-24 15:28:00,2022-02-28 08:52:00,https://goky.ky.gov/?lat=36.93605&lng=-82.98534&zoom=14
 11,Harlan,KY-2006,KY-2006,2.0,3.0,Road blocked due to flooding. Updates as available.,2022-02-24 15:28:00,2022-02-26 12:10:01,https://goky.ky.gov/?lat=36.93605&lng=-82.98534&zoom=14
-11,Harlan,KY-2007,KY-2007,3.3,3.3,Road blocked due to flooding. Updates as available.,2022-02-24 15:30:00,2022-02-26 12:08:01,https://goky.ky.gov/?lat=36.824974&lng=-83.4135&zoom=14
 11,Harlan,KY-2007,KY-2007,3.3,3.3,Roadway blocked due to flooding. Updates as available.,2022-02-24 15:30:00,2022-02-28 08:52:00,https://goky.ky.gov/?lat=36.824974&lng=-83.4135&zoom=14
+11,Harlan,KY-2007,KY-2007,3.3,3.3,Road blocked due to flooding. Updates as available.,2022-02-24 15:30:00,2022-02-26 12:08:01,https://goky.ky.gov/?lat=36.824974&lng=-83.4135&zoom=14
 11,Harlan,KY-2008,KY-2008,0.5,0.5,Roadway blocked due to flooding. Updates as available.,2023-02-17 06:38:39,2023-02-17 16:26:01,https://goky.ky.gov/?lat=36.985562&lng=-83.231525&zoom=14KY-2008
 11,Harlan,KY-3467,OLD PIKE HWY,0.3,0.3,ROAD IS CLOSED DUE TO ROCKSLIDE,2023-02-17 08:10:15,2023-02-17 19:46:01,https://goky.ky.gov/?lat=36.82994&lng=-83.449638&zoom=14KY-3467
 11,Harlan,KY-38,KY-38,7.6,7.6,1 lane open. Traffic running intermittently,2023-03-02 08:43:49,2023-03-02 19:04:01,https://goky.ky.gov/?lat=36.861897&lng=-83.206941&zoom=14KY-38
@@ -1203,8 +1203,8 @@ Updates as appropriate.
 11,Harlan,KY-72,KY-72 W,11.1,11.1,Reduced to one lane. US 421 can be used as an alternate route.,2022-07-06 07:00:00,2022-07-12 18:58:01,https://goky.ky.gov/?lat=36.834911&lng=-83.32452&zoom=14
 11,Harlan,KY-991,KY-991,0.4,0.4,Road blocked due to flooding. Updates as available,2022-07-29 14:48:00,2022-07-29 15:56:01,https://goky.ky.gov/?lat=36.764849&lng=-83.254764&zoom=14
 11,Knox,KY-11,DANIEL BOONE DR,10.0,12.0,Road blocked due to flooding.  Updates as available.,2023-02-17 20:30:29,2023-02-19 09:00:01,https://goky.ky.gov/?lat=36.867053&lng=-83.881866&zoom=14KY-11
-11,Knox,KY-11,N KY-11,11.0,12.0,Road is blocked due to flooding. Updates as available.,2022-01-09 14:18:00,2022-01-09 16:32:01,https://goky.ky.gov/?lat=36.895766&lng=-83.874689&zoom=14
 11,Knox,KY-11,N KY-11,11.0,12.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 14:18:00,2022-02-04 07:08:01,https://goky.ky.gov/?lat=36.895766&lng=-83.874689&zoom=14
+11,Knox,KY-11,N KY-11,11.0,12.0,Road is blocked due to flooding. Updates as available.,2022-01-09 14:18:00,2022-01-09 16:32:01,https://goky.ky.gov/?lat=36.895766&lng=-83.874689&zoom=14
 11,Knox,KY-11,N KY-11,13.0,15.0,Roadway blocked due to flooding. Updates as available.,2022-02-24 19:00:00,2022-02-25 10:32:00,https://goky.ky.gov/?lat=36.921977&lng=-83.855797&zoom=14
 11,Knox,KY-11,N KY-11,13.0,15.0,Road blocked due to flooding. Updates as available.,2022-05-06 23:23:00,2022-05-09 09:44:01,https://goky.ky.gov/?lat=36.921977&lng=-83.855797&zoom=14
 11,Knox,KY-11,N KY-11,13.0,15.0,ROADWAY IS BLOCKED DUE TO HIGH WATER,2022-05-06 23:23:00,2022-05-07 15:42:01,https://goky.ky.gov/?lat=36.921977&lng=-83.855797&zoom=14
@@ -1218,8 +1218,8 @@ Updates as appropriate.
 11,Knox,KY-1487,MANCHESTER ST,0.0,1.0,Roadway blocked due to flooding. Updates as available.,2022-02-24 21:00:00,2022-02-28 09:06:01,https://goky.ky.gov/?lat=36.877546&lng=-83.889054&zoom=14
 11,Knox,KY-1487,MANCHESTER ST,0.1,1.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 10:47:23,2023-02-18 15:34:00,https://goky.ky.gov/?lat=36.872131&lng=-83.890029&zoom=14KY-1487
 11,Knox,KY-1487,MANCHESTER ST,0.1,1.0,Roadway blocked due to flooding. Updates as available.,2023-02-17 10:47:23,2023-02-20 10:10:01,https://goky.ky.gov/?lat=36.872131&lng=-83.890029&zoom=14KY-1487
-11,Knox,KY-1527,KY-1527,0.0,2.4,Road is blocked due to flooding. Updates as available.,2022-01-09 14:19:00,2022-01-09 16:32:01,https://goky.ky.gov/?lat=36.931729&lng=-83.918967&zoom=14
 11,Knox,KY-1527,KY-1527,0.0,2.4,Roadway blocked due to flooding. Updates as available.,2022-01-09 14:19:00,2022-01-11 07:04:11,https://goky.ky.gov/?lat=36.931729&lng=-83.918967&zoom=14
+11,Knox,KY-1527,KY-1527,0.0,2.4,Road is blocked due to flooding. Updates as available.,2022-01-09 14:19:00,2022-01-09 16:32:01,https://goky.ky.gov/?lat=36.931729&lng=-83.918967&zoom=14
 11,Knox,KY-1527,KY-1527,0.0,1.0,Roadway blocked due to flooding. Updates as available.,2022-02-03 20:30:00,2022-02-04 07:08:01,https://goky.ky.gov/?lat=36.923307&lng=-83.922895&zoom=14
 11,Knox,KY-1527,KY-1527,0.0,1.0,roadway is blocked due to flooding,2022-02-04 05:58:00,2022-02-04 07:08:01,https://goky.ky.gov/?lat=36.923307&lng=-83.922895&zoom=14
 11,Knox,KY-1527,KY-1527,2.0,2.4,Roadway blocked due to flooding. Updates as available.,2022-02-04 07:10:00,2022-02-28 09:04:00,https://goky.ky.gov/?lat=36.921645&lng=-83.907578&zoom=14
@@ -1229,9 +1229,9 @@ Updates as appropriate.
 11,Knox,KY-1527,KY-1527,2.0,2.0,Road blocked due to flooding. Updates as available.,2023-02-18 07:53:48,2023-02-18 19:18:00,https://goky.ky.gov/?lat=36.924354&lng=-83.908755&zoom=14KY-1527
 11,Knox,KY-1527,KY-1527,2.0,2.5,Roadway blocked due to flooding. Updates as available.,2023-02-18 20:08:51,2023-02-19 17:52:00,https://goky.ky.gov/?lat=36.924354&lng=-83.908755&zoom=14KY-1527
 11,Knox,KY-1527,KY-1527,2.0,2.5,Both directions all lanes blocked due to high water. Seek alternate route.,2024-01-10 10:08:11,2024-01-12 09:44:01,https://goky.ky.gov/?lat=36.924354&lng=-83.908755&zoom=14KY-1527
-11,Knox,KY-223,KY-223,7.0,9.0,Road blocked due to flooding. Updates as available.,2022-02-23 12:14:00,2022-02-23 16:14:01,https://goky.ky.gov/?lat=36.927281&lng=-83.74263&zoom=14
 11,Knox,KY-223,KY-223,7.0,9.0,Roadway blocked due to flooding. Updates as available.,2022-02-23 12:14:00,2022-02-28 09:04:00,https://goky.ky.gov/?lat=36.927281&lng=-83.74263&zoom=14
 11,Knox,KY-223,KY-223,7.0,9.0,Blocked due to flooding in the area.,2022-02-23 12:14:00,2022-02-23 15:44:01,https://goky.ky.gov/?lat=36.927281&lng=-83.74263&zoom=14
+11,Knox,KY-223,KY-223,7.0,9.0,Road blocked due to flooding. Updates as available.,2022-02-23 12:14:00,2022-02-23 16:14:01,https://goky.ky.gov/?lat=36.927281&lng=-83.74263&zoom=14
 11,Knox,KY-223,KY-223,7.0,9.0,Roadway blocked due to flooding. Updates as available.,2023-02-17 08:28:20,2023-02-19 09:04:01,https://goky.ky.gov/?lat=36.914021&lng=-83.740835&zoom=14KY-223
 11,Knox,KY-223,KY-223,7.0,9.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:28:20,2023-02-18 15:34:00,https://goky.ky.gov/?lat=36.914021&lng=-83.740835&zoom=14KY-223
 11,Knox,KY-225,KY-225,4.0,4.0,Blocked due to flooding in the area.,2022-02-04 09:22:00,2022-02-05 20:10:00,https://goky.ky.gov/?lat=36.751195&lng=-83.828912&zoom=14
@@ -1265,8 +1265,8 @@ Updates as appropriate.
 11,Laurel,I-75,I-75,31.4,31.4,Northbound left and center lanes blocked due to flooding.  Expect delays.,2023-02-16 21:30:29,2023-02-16 21:38:01,https://goky.ky.gov/?lat=37.012881&lng=-84.101857&zoom=14I-75
 11,Laurel,I-75,I-75,31.4,31.4,Northbound leftlanes blocke due to flooding.  Expect delays.,2023-02-16 21:30:29,2023-02-17 14:56:00,https://goky.ky.gov/?lat=37.012881&lng=-84.101857&zoom=14I-75
 11,Laurel,I-75,I-75,31.4,31.4,Southbound left lane blocked due to flooding.  Expect delays.,2023-02-16 21:33:11,2023-02-17 14:56:00,https://goky.ky.gov/?lat=37.012881&lng=-84.101857&zoom=14I-75
-11,Leslie,KY-1780,MIDDLE FORK RD,11.7,11.7,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 11:54:52,2023-02-17 18:18:00,https://goky.ky.gov/?lat=37.019362&lng=-83.420248&zoom=14KY-1780
 11,Leslie,KY-1780,MIDDLE FORK RD,11.7,11.7,"In both directions, road blocked due to a mudslide. Seek alternate route.",2023-02-17 11:54:52,2023-02-18 21:04:00,https://goky.ky.gov/?lat=37.019362&lng=-83.420248&zoom=14KY-1780
+11,Leslie,KY-1780,MIDDLE FORK RD,11.7,11.7,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 11:54:52,2023-02-17 18:18:00,https://goky.ky.gov/?lat=37.019362&lng=-83.420248&zoom=14KY-1780
 11,Leslie,KY-1850,KY-1850,4.9,4.9,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:24:48,2023-02-17 18:16:00,https://goky.ky.gov/?lat=36.972047&lng=-83.449408&zoom=14KY-1850
 11,Leslie,KY-2009,GREASY CREEK RD,12.0,12.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:24:47,2023-02-17 18:16:00,https://goky.ky.gov/?lat=37.046083&lng=-83.37222&zoom=14KY-2009
 11,Leslie,KY-2009,GREASY CREEK RD,13.0,13.0,Road blocked due to a rockslide.  Seek an alternate route.,2022-12-15 21:32:40,2022-12-16 18:30:00,https://goky.ky.gov/?lat=37.058154&lng=-83.372533&zoom=14KY-2009
@@ -1287,8 +1287,8 @@ Updates as appropriate.
 11,Whitley,KY-26,KY-26,2.0,2.0,ROAD IS OPEN,2023-02-17 06:30:24,2023-02-17 07:58:01,https://goky.ky.gov/?lat=36.788399&lng=-84.132611&zoom=14KY-26
 11,Whitley,KY-26,KY-26,2.1,2.1,Roadway blocked due to flooding. Updates as available.,2022-01-09 15:30:00,2022-01-10 06:02:09,https://goky.ky.gov/?lat=36.789597&lng=-84.131586&zoom=14
 11,Whitley,KY-26,KY-26,2.1,2.1,Blocked due to flooding in the area.,2022-02-24 14:56:00,2022-02-24 15:28:00,https://goky.ky.gov/?lat=36.789597&lng=-84.131586&zoom=14
-11,Whitley,KY-26,KY-26,2.1,2.1,Reduced to one lane due to flooding. Updates as available.,2022-02-24 14:56:00,2022-02-26 12:04:00,https://goky.ky.gov/?lat=36.789597&lng=-84.131586&zoom=14
 11,Whitley,KY-26,KY-26,2.1,2.1,Road blocked due to flooding. Updates as available.,2022-02-24 14:56:00,2022-02-25 15:42:00,https://goky.ky.gov/?lat=36.789597&lng=-84.131586&zoom=14
+11,Whitley,KY-26,KY-26,2.1,2.1,Reduced to one lane due to flooding. Updates as available.,2022-02-24 14:56:00,2022-02-26 12:04:00,https://goky.ky.gov/?lat=36.789597&lng=-84.131586&zoom=14
 11,Whitley,KY-26,KY-26,7.9,7.9,Roadway blocked due to flooding. Updates as available.,2022-01-09 15:30:00,2022-01-10 06:04:01,https://goky.ky.gov/?lat=36.865209&lng=-84.120729&zoom=14
 11,Whitley,KY-26,KY-26,13.0,13.0,Roadway blocked due to flooding. Updates as available.,2022-01-09 15:30:00,2022-01-10 06:04:01,https://goky.ky.gov/?lat=36.91501&lng=-84.087114&zoom=14
 11,Whitley,KY-26,KY-26,13.0,13.0,,2023-02-17 06:33:48,2023-02-17 07:54:01,https://goky.ky.gov/?lat=36.915017&lng=-84.087119&zoom=14KY-26
@@ -1296,13 +1296,13 @@ Updates as appropriate.
 11,Whitley,KY-2996,WOLF CREEK RIVER RD,3.5,3.5,Roadway blocked due to flooding. Updates as available.,2023-02-17 07:57:38,2023-02-19 10:42:00,https://goky.ky.gov/?lat=36.660372&lng=-84.142077&zoom=14KY-2996
 11,Whitley,KY-2996,WOLF CREEK RIVER RD,3.5,3.5,Road blocked due to flooding.  Updates as available.,2023-02-17 07:57:38,2023-02-18 15:40:00,https://goky.ky.gov/?lat=36.660372&lng=-84.142077&zoom=14KY-2996
 11,Whitley,KY-2996,WOLF CREEK RIVER RD,3.7,3.7,water over road,2022-08-01 08:06:00,2022-08-01 08:52:01,https://goky.ky.gov/?lat=36.663096&lng=-84.140942&zoom=14
-11,Whitley,KY-511,KY-511,2.5,2.5,Reduced to one lane due to flooding in the area.,2022-02-24 12:56:00,2022-02-24 15:26:00,https://goky.ky.gov/?lat=36.852063&lng=-84.191937&zoom=14
 11,Whitley,KY-511,KY-511,2.5,2.5,Road blocked due to flooding. Updates as available.,2022-02-24 12:56:00,2022-02-24 15:28:00,https://goky.ky.gov/?lat=36.852063&lng=-84.191937&zoom=14
+11,Whitley,KY-511,KY-511,2.5,2.5,Reduced to one lane due to flooding in the area.,2022-02-24 12:56:00,2022-02-24 15:26:00,https://goky.ky.gov/?lat=36.852063&lng=-84.191937&zoom=14
 11,Whitley,KY-511,KY-511,2.5,2.5,Reduced to one lane due to flooding. Updates as available.,2022-02-24 12:56:00,2022-02-25 14:08:01,https://goky.ky.gov/?lat=36.852063&lng=-84.191937&zoom=14
 11,Whitley,KY-511,KY-511,2.5,2.5,REDUCED TO ONE LANE DUE TO HIGH WATER,2022-02-24 13:03:00,2022-02-24 14:50:00,https://goky.ky.gov/?lat=36.852063&lng=-84.191937&zoom=14
-11,Whitley,KY-779,KY-779,10.7,12.7,WATER OVER RD,2022-02-25 07:45:00,2022-02-25 15:42:00,https://goky.ky.gov/?lat=36.757565&lng=-83.987456&zoom=14
-11,Whitley,KY-779,KY-779,10.7,12.7,Roadway blocked due to flooding. Updates as available.,2022-02-25 07:45:00,2022-02-27 17:58:00,https://goky.ky.gov/?lat=36.757565&lng=-83.987456&zoom=14
 11,Whitley,KY-779,KY-779,10.7,12.7,Road blocked due to flooding. Updates as available.,2022-02-25 07:45:00,2022-02-26 12:04:00,https://goky.ky.gov/?lat=36.757565&lng=-83.987456&zoom=14
+11,Whitley,KY-779,KY-779,10.7,12.7,Roadway blocked due to flooding. Updates as available.,2022-02-25 07:45:00,2022-02-27 17:58:00,https://goky.ky.gov/?lat=36.757565&lng=-83.987456&zoom=14
+11,Whitley,KY-779,KY-779,10.7,12.7,WATER OVER RD,2022-02-25 07:45:00,2022-02-25 15:42:00,https://goky.ky.gov/?lat=36.757565&lng=-83.987456&zoom=14
 11,Whitley,KY-779,KY-779,11.0,12.0,Roadway blocked due to flooding. Updates as available.,2023-02-18 11:05:43,2023-02-21 09:10:00,https://goky.ky.gov/?lat=36.767078&lng=-83.988301&zoom=14KY-779
 11,Whitley,KY-779,KY-779,11.0,12.0,ROAD CLOSED DUE TO FLOODING,2023-02-18 11:05:43,2023-02-18 15:40:00,https://goky.ky.gov/?lat=36.767078&lng=-83.988301&zoom=14KY-779
 11,Whitley,KY-92,KY-92 E,23.6,23.6,Single lane traffic with alternating flow controlled by temporary traffic signals with a 11 ft. width restriction in effect. Monday- Fridays 7 AM to 7 PM with possible extended hours and weekend work possible. Expect delays. Consider alternate route.,2023-04-10 07:00:00,2023-04-14 23:02:02,https://goky.ky.gov/?lat=36.735699&lng=-83.989518&zoom=14KY-92
@@ -1311,8 +1311,8 @@ Updates as appropriate.
 12,Floyd,KY-1210,KY-1210,0.0,1.0,Road blocked due to flooding. Updates as available,2022-07-29 10:46:00,2022-07-29 16:32:01,https://goky.ky.gov/?lat=37.557557&lng=-82.778584&zoom=14
 12,Floyd,KY-1210,KY-1210,0.1,1.0,Roadway blocked due to flooding. Updates as available.,2023-02-17 05:28:50,2023-02-18 10:04:00,https://goky.ky.gov/?lat=37.557168&lng=-82.772692&zoom=14KY-1210
 12,Floyd,KY-122,KY-122,7.0,8.0,Roadway blocked due to flooding. Updates as available.,2023-02-17 05:29:59,2023-02-17 16:00:00,https://goky.ky.gov/?lat=37.57793&lng=-82.785536&zoom=14KY-122
-12,Floyd,KY-122,KY-122,15.7,16.5,Road blocked due to flooding in the area.,2022-07-28 11:20:00,2022-07-28 16:12:00,https://goky.ky.gov/?lat=37.478504&lng=-82.747656&zoom=14
 12,Floyd,KY-122,KY-122,15.7,16.5,Road blocked due to flooding. Updates as available.,2022-07-28 11:20:00,2022-07-29 07:56:01,https://goky.ky.gov/?lat=37.478504&lng=-82.747656&zoom=14
+12,Floyd,KY-122,KY-122,15.7,16.5,Road blocked due to flooding in the area.,2022-07-28 11:20:00,2022-07-28 16:12:00,https://goky.ky.gov/?lat=37.478504&lng=-82.747656&zoom=14
 12,Floyd,KY-122,KY-122,16.0,17.0,Both directions all lanes blocked. Seek alternate route. ,2023-02-17 07:25:13,2023-02-17 13:20:01,https://goky.ky.gov/?lat=37.47866&lng=-82.749469&zoom=14KY-122
 12,Floyd,KY-122,KY-122,18.0,24.0,Road blocked due to flooding. Updates as available,2022-07-28 08:52:00,2022-07-29 10:44:02,https://goky.ky.gov/?lat=37.428795&lng=-82.735264&zoom=14
 12,Floyd,KY-122,KY-122,18.0,24.0,Road blocked due to flooding. Updates as available.,2022-07-28 11:20:00,2022-07-29 10:44:02,https://goky.ky.gov/?lat=37.428795&lng=-82.735264&zoom=14
@@ -1327,8 +1327,8 @@ Updates as appropriate.
 12,Floyd,KY-194,KY-194,0.0,7.0,Road blocked due to flooding and multiple slides. Updates as available.,2022-07-26 18:38:00,2022-07-26 19:36:01,https://goky.ky.gov/?lat=37.648135&lng=-82.645124&zoom=14
 12,Floyd,KY-194,KY-194,0.0,1.0,Road blocked due to flooding. Updates as available,2022-08-02 12:58:00,2022-08-06 16:58:00,https://goky.ky.gov/?lat=37.63653&lng=-82.686244&zoom=14
 12,Floyd,KY-194,KY-194,1.0,2.0,Road blocked due to slides. Updates as available.,2022-07-26 17:19:00,2022-07-27 18:54:00,https://goky.ky.gov/?lat=37.634775&lng=-82.669845&zoom=14
-12,Floyd,KY-194,KY-194,5.0,6.0,Blocked due to flooding in the area.,2022-01-01 13:09:00,2022-01-02 15:22:00,https://goky.ky.gov/?lat=37.681019&lng=-82.647725&zoom=14
 12,Floyd,KY-194,KY-194,5.0,6.0,Roadway blocked due to flooding. Updates as available.,2022-01-01 13:09:00,2022-01-04 15:48:00,https://goky.ky.gov/?lat=37.681019&lng=-82.647725&zoom=14
+12,Floyd,KY-194,KY-194,5.0,6.0,Blocked due to flooding in the area.,2022-01-01 13:09:00,2022-01-02 15:22:00,https://goky.ky.gov/?lat=37.681019&lng=-82.647725&zoom=14
 12,Floyd,KY-194,KY-194,6.0,7.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:43:35,2023-02-18 15:40:00,https://goky.ky.gov/?lat=37.671043&lng=-82.653637&zoom=14KY-194
 12,Floyd,KY-194,KY-194,6.0,7.0,Roadway blocked due to flooding. Updates as available.,2023-02-17 08:43:35,2023-02-22 19:42:01,https://goky.ky.gov/?lat=37.671043&lng=-82.653637&zoom=14KY-194
 12,Floyd,KY-194,KY-194,6.0,7.0,Road blocked due to flooding. Seek alternate route.,2023-02-21 12:39:22,2023-02-21 12:48:00,https://goky.ky.gov/?lat=37.671043&lng=-82.653637&zoom=14KY-194
@@ -1339,10 +1339,10 @@ Updates as appropriate.
 12,Floyd,KY-302,KY-302,5.0,10.0,Road blocked due to flooding. Updates as available,2022-08-02 14:34:00,2022-08-05 11:38:01,https://goky.ky.gov/?lat=37.716869&lng=-82.72248&zoom=14
 12,Floyd,KY-3024,KY-3024,2.0,2.0,Blocked in both directions. Seek alternate route.,2022-02-25 13:03:00,2022-03-01 17:58:00,https://goky.ky.gov/?lat=37.687248&lng=-82.747497&zoom=14
 12,Floyd,KY-3024,KY-3024,2.0,2.0,SLIDE BLOCKING RD,2022-02-25 13:03:00,2022-02-26 12:10:01,https://goky.ky.gov/?lat=37.687248&lng=-82.747497&zoom=14
-12,Floyd,KY-3190,KY-3190,0.1,0.1,Bridge closed due to flood damage. Updates as available.,2022-07-31 23:55:00,2022-08-04 10:34:03,https://goky.ky.gov/?lat=37.572642&lng=-82.754237&zoom=14
 12,Floyd,KY-3190,KY-3190,0.1,0.1,Bridge washed out over Beaver Creek.,2022-07-31 23:55:00,2022-08-02 19:30:01,https://goky.ky.gov/?lat=37.572642&lng=-82.754237&zoom=14
-12,Floyd,KY-321,KY-321,1.6,2.0,Roadway is blocked in both directions due to a rockslide,2022-01-03 07:00:00,2022-01-10 14:58:01,https://goky.ky.gov/?lat=37.700609&lng=-82.766931&zoom=14
+12,Floyd,KY-3190,KY-3190,0.1,0.1,Bridge closed due to flood damage. Updates as available.,2022-07-31 23:55:00,2022-08-04 10:34:03,https://goky.ky.gov/?lat=37.572642&lng=-82.754237&zoom=14
 12,Floyd,KY-321,KY-321,1.6,2.0,Both directions blocked. Seek alternate route.,2022-01-03 07:00:00,2022-01-10 16:58:00,https://goky.ky.gov/?lat=37.700609&lng=-82.766931&zoom=14
+12,Floyd,KY-321,KY-321,1.6,2.0,Roadway is blocked in both directions due to a rockslide,2022-01-03 07:00:00,2022-01-10 14:58:01,https://goky.ky.gov/?lat=37.700609&lng=-82.766931&zoom=14
 12,Floyd,KY-321,KY-321,1.6,2.1,Roadway is blocked at this location due to a rockslide,2022-01-04 00:04:00,2022-01-04 12:02:01,https://goky.ky.gov/?lat=37.701289&lng=-82.767225&zoom=14
 12,Floyd,KY-3381,KY-3381,0.0,1.0,Blocked due to flooding in the area.,2022-01-01 12:28:00,2022-01-02 12:20:08,https://goky.ky.gov/?lat=37.549574&lng=-82.720273&zoom=14
 12,Floyd,KY-3381,KY-3381,2.8,2.8,water over road,2022-07-29 08:32:00,2022-07-29 16:32:01,https://goky.ky.gov/?lat=37.576747&lng=-82.730921&zoom=14
@@ -1354,17 +1354,17 @@ Updates as appropriate.
 12,Floyd,KY-466,KY-466,0.0,1.0,Road blocked due to roadway damage.  Seek an alternate route.,2022-07-28 08:47:00,2022-07-29 08:18:01,https://goky.ky.gov/?lat=37.306547&lng=-82.703919&zoom=14
 12,Floyd,KY-466,KY-466,0.0,4.1,The road is closed. Updates as available,2022-07-28 08:55:00,2022-07-28 08:58:01,https://goky.ky.gov/?lat=37.326263&lng=-82.69344&zoom=14
 12,Floyd,KY-550,KY-550,0.0,4.6,Road blocked due to flooding. Updates as available,2022-07-28 08:53:00,2022-07-29 10:42:01,https://goky.ky.gov/?lat=37.517941&lng=-82.833911&zoom=14
-12,Floyd,KY-550,KY-550,2.1,2.1,Bridge closed due to flooding. Updates as available.,2022-08-01 09:30:00,2022-08-04 10:34:03,https://goky.ky.gov/?lat=37.515127&lng=-82.836118&zoom=14
 12,Floyd,KY-550,KY-550,2.1,2.1,Bridge out due to flooding.,2022-08-01 09:30:00,2022-08-02 19:32:01,https://goky.ky.gov/?lat=37.515127&lng=-82.836118&zoom=14
+12,Floyd,KY-550,KY-550,2.1,2.1,Bridge closed due to flooding. Updates as available.,2022-08-01 09:30:00,2022-08-04 10:34:03,https://goky.ky.gov/?lat=37.515127&lng=-82.836118&zoom=14
 12,Floyd,KY-680,KY-680,5.0,6.0,Blocked due to flooding in the area.,2022-01-01 09:44:00,2022-01-02 12:20:08,https://goky.ky.gov/?lat=37.454515&lng=-82.732468&zoom=14
 12,Floyd,KY-7,KY-7,0.0,12.8,Road blocked due to flooding. Updates as available,2022-07-28 08:49:00,2022-07-29 08:00:01,https://goky.ky.gov/?lat=37.482034&lng=-82.831717&zoom=14
 12,Floyd,KY-7,KY-7,2.0,3.0,Both directions all lanes blocked. Seek alternate route.,2023-02-17 07:21:38,2023-02-17 13:20:01,https://goky.ky.gov/?lat=37.435383&lng=-82.805844&zoom=14KY-7
 12,Floyd,KY-777,KY-777,0.0,1.0,water over road,2022-07-28 09:23:00,2022-07-29 10:44:02,https://goky.ky.gov/?lat=37.477306&lng=-82.83031&zoom=14
-12,Floyd,KY-777,KY-777,0.0,1.0,Road blocked due to flooding. Updates as available.,2022-07-28 10:51:00,2022-07-29 10:42:01,https://goky.ky.gov/?lat=37.477306&lng=-82.83031&zoom=14
 12,Floyd,KY-777,KY-777,0.0,1.0,Road blocked due to flooding in the area.,2022-07-28 10:51:00,2022-07-28 16:12:00,https://goky.ky.gov/?lat=37.477306&lng=-82.83031&zoom=14
+12,Floyd,KY-777,KY-777,0.0,1.0,Road blocked due to flooding. Updates as available.,2022-07-28 10:51:00,2022-07-29 10:42:01,https://goky.ky.gov/?lat=37.477306&lng=-82.83031&zoom=14
 12,Floyd,KY-777,KY-777,6.0,7.0,Both directions all lanes blocked. Seek alternate route.,2023-02-17 07:23:04,2023-02-17 13:20:01,https://goky.ky.gov/?lat=37.502653&lng=-82.779856&zoom=14KY-777
-12,Floyd,KY-850,KY-850,0.0,1.0,Road blocked due to flooding in the area.,2022-07-28 13:18:00,2022-07-28 16:12:00,https://goky.ky.gov/?lat=37.519901&lng=-82.84293&zoom=14
 12,Floyd,KY-850,KY-850,0.0,1.0,Road blocked due to flooding. Updates as available.,2022-07-28 13:18:00,2022-07-29 08:16:01,https://goky.ky.gov/?lat=37.519901&lng=-82.84293&zoom=14
+12,Floyd,KY-850,KY-850,0.0,1.0,Road blocked due to flooding in the area.,2022-07-28 13:18:00,2022-07-28 16:12:00,https://goky.ky.gov/?lat=37.519901&lng=-82.84293&zoom=14
 12,Floyd,KY-979,KY-979,0.0,11.0,Road blocked due to flooding. Updates as available,2022-07-28 08:53:00,2022-07-28 16:08:01,https://goky.ky.gov/?lat=37.393252&lng=-82.661213&zoom=14
 12,Floyd,KY-979,KY-979,2.0,2.0,Road blocked due to a slide.,2022-07-28 16:09:00,2022-07-28 22:16:01,https://goky.ky.gov/?lat=37.379942&lng=-82.699285&zoom=14
 12,Floyd,KY-979,KY-979,2.0,2.0,Road blocked due to a slide. Updates as available.,2022-07-28 16:09:00,2022-08-02 17:58:01,https://goky.ky.gov/?lat=37.379942&lng=-82.699285&zoom=14
@@ -1407,8 +1407,8 @@ Updates as appropriate.
 12,Knott,KY-899,KY-899,10.8,10.8,Bridge closed due to flooding. Updates as available.,2022-07-30 13:43:00,2022-08-04 10:34:03,https://goky.ky.gov/?lat=37.39183&lng=-82.829927&zoom=14
 12,Knott,KY-899,KY-899,10.8,10.8,Bridge out due to flooding. Seek an alternate route.,2022-07-30 13:43:00,2022-08-02 19:40:01,https://goky.ky.gov/?lat=37.39183&lng=-82.829927&zoom=14
 12,Knott,KY-899,KY-899,10.8,10.8,Bridge out due to flooding.,2022-07-30 13:43:00,2022-07-30 17:12:01,https://goky.ky.gov/?lat=37.39183&lng=-82.829927&zoom=14
-12,Knott,KY-899,KY-899,11.8,11.8,Bridge closed due to flooding. Seek an alternate route.,2022-07-30 13:47:00,2022-08-04 10:34:03,https://goky.ky.gov/?lat=37.398997&lng=-82.823896&zoom=14
 12,Knott,KY-899,KY-899,11.8,11.8,Bridge out due to flooding.,2022-07-30 13:47:00,2022-07-30 17:12:01,https://goky.ky.gov/?lat=37.398997&lng=-82.823896&zoom=14
+12,Knott,KY-899,KY-899,11.8,11.8,Bridge closed due to flooding. Seek an alternate route.,2022-07-30 13:47:00,2022-08-04 10:34:03,https://goky.ky.gov/?lat=37.398997&lng=-82.823896&zoom=14
 12,Knott,KY-899,KY-899,11.8,11.8,Bridge out due to flooding. Seek an alternate route.,2022-07-30 13:47:00,2022-08-02 19:40:01,https://goky.ky.gov/?lat=37.398997&lng=-82.823896&zoom=14
 12,Knott,KY-899,KY-899,12.0,12.0,Lane blocked due to flooding in the area.,2022-07-27 07:45:00,2022-07-27 08:24:01,https://goky.ky.gov/?lat=37.398733&lng=-82.820539&zoom=14
 12,Lawrence,KY-1,KY-1,4.0,4.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 11:03:42,2023-02-18 10:36:01,https://goky.ky.gov/?lat=38.163013&lng=-82.749547&zoom=14KY-1
@@ -1417,8 +1417,8 @@ Updates as appropriate.
 12,Lawrence,KY-1760,KY-1760,0.5,0.5,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:40:21,2023-02-18 15:42:00,https://goky.ky.gov/?lat=37.962612&lng=-82.678505&zoom=14KY-1760
 12,Lawrence,KY-1760,KY-1760,0.5,0.5,Roadway blocked due to flooding. Updates as available.,2023-02-17 08:40:21,2023-02-21 12:48:00,https://goky.ky.gov/?lat=37.962612&lng=-82.678505&zoom=14KY-1760
 12,Lawrence,KY-1760,KY-1760,0.5,9.2,road closed due to flooding,2023-02-17 12:45:45,2023-02-17 16:12:01,https://goky.ky.gov/?lat=37.962612&lng=-82.678505&zoom=14KY-1760
-12,Lawrence,KY-1760,KY-1760,9.2,9.2,Roadway blocked due to flooding. Updates as available.,2023-02-17 08:40:58,2023-02-21 12:48:00,https://goky.ky.gov/?lat=38.050297&lng=-82.713821&zoom=14KY-1760
 12,Lawrence,KY-1760,KY-1760,9.2,9.2,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:40:58,2023-02-18 15:42:00,https://goky.ky.gov/?lat=38.050297&lng=-82.713821&zoom=14KY-1760
+12,Lawrence,KY-1760,KY-1760,9.2,9.2,Roadway blocked due to flooding. Updates as available.,2023-02-17 08:40:58,2023-02-21 12:48:00,https://goky.ky.gov/?lat=38.050297&lng=-82.713821&zoom=14KY-1760
 12,Lawrence,KY-2033,KY-2033,2.0,2.0,ROAD CLOSED DUE TO FLOODING / SHANTANA WOODWARD / DIST 11,2023-02-18 10:35:09,2023-02-18 15:42:00,https://goky.ky.gov/?lat=37.943503&lng=-82.610785&zoom=14KY-2033
 12,Lawrence,KY-2033,KY-2033,2.0,2.0,Roadway blocked due to flooding. Updates as available.,2023-02-18 10:35:09,2023-02-21 12:48:00,https://goky.ky.gov/?lat=37.943503&lng=-82.610785&zoom=14KY-2033
 12,Lawrence,KY-2037,KY-2037,2.0,2.0,ROAD CLOSED DUE TO FLOODING,2023-02-18 10:37:52,2023-02-18 15:44:00,https://goky.ky.gov/?lat=38.014236&lng=-82.620563&zoom=14KY-2037
@@ -1427,13 +1427,13 @@ Updates as appropriate.
 12,Lawrence,KY-3,KY-3,25.0,25.0,roadway blocked due to flooding,2022-02-04 04:59:00,2022-02-04 10:58:01,https://goky.ky.gov/?lat=38.188692&lng=-82.694492&zoom=14
 12,Lawrence,KY-32,KY-32,10.0,10.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:40:19,2023-02-18 10:14:00,https://goky.ky.gov/?lat=38.026454&lng=-82.855322&zoom=14KY-32
 12,Lawrence,KY-32,KY-32,10.0,10.0,road closed due to flooding,2023-02-17 12:49:01,2023-02-17 16:14:01,https://goky.ky.gov/?lat=38.026454&lng=-82.855322&zoom=14KY-32
-12,Lawrence,KY-469,KY-469,2.0,2.0,Road closed due to flooding. Updates as available.,2022-01-01 21:41:00,2022-01-02 15:26:01,https://goky.ky.gov/?lat=38.009069&lng=-82.913372&zoom=14
 12,Lawrence,KY-469,KY-469,2.0,2.0,Blocked at the intersection with KY 32.,2022-01-01 21:41:00,2022-01-04 14:40:04,https://goky.ky.gov/?lat=38.009069&lng=-82.913372&zoom=14
+12,Lawrence,KY-469,KY-469,2.0,2.0,Road closed due to flooding. Updates as available.,2022-01-01 21:41:00,2022-01-02 15:26:01,https://goky.ky.gov/?lat=38.009069&lng=-82.913372&zoom=14
 12,Lawrence,KY-581,KY-581,5.0,5.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 11:03:44,2023-02-18 15:44:00,https://goky.ky.gov/?lat=37.936145&lng=-82.647834&zoom=14KY-581
 12,Lawrence,KY-581,KY-581,5.0,5.0,Roadway blocked due to flooding. Updates as available.,2023-02-17 11:03:44,2023-02-23 16:54:01,https://goky.ky.gov/?lat=37.936145&lng=-82.647834&zoom=14KY-581
 12,Lawrence,KY-828,KY-828,4.0,5.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 08:40:20,2023-02-17 16:12:01,https://goky.ky.gov/?lat=38.122455&lng=-82.797282&zoom=14KY-828
-12,Lawrence,KY-828,KY-828,4.0,4.0,road closed due to flooding,2023-02-17 12:50:37,2023-02-18 15:44:00,https://goky.ky.gov/?lat=38.122455&lng=-82.797282&zoom=14KY-828
 12,Lawrence,KY-828,KY-828,4.0,4.0,Roadway blocked due to flooding. Updates as available.,2023-02-17 12:50:37,2023-02-21 12:48:00,https://goky.ky.gov/?lat=38.122455&lng=-82.797282&zoom=14KY-828
+12,Lawrence,KY-828,KY-828,4.0,4.0,road closed due to flooding,2023-02-17 12:50:37,2023-02-18 15:44:00,https://goky.ky.gov/?lat=38.122455&lng=-82.797282&zoom=14KY-828
 12,Letcher,KY-160,KY-160,0.0,7.0,WATER OVER ROAD,2022-07-29 09:36:00,2022-07-29 22:00:01,https://goky.ky.gov/?lat=37.004526&lng=-83.00032&zoom=14
 12,Letcher,KY-160,KY-160,5.0,6.0,Reduced to one lane due to a slide.  Expect delays.,2023-02-17 16:24:32,2023-02-18 10:16:00,https://goky.ky.gov/?lat=37.011899&lng=-82.975438&zoom=14KY-160
 12,Letcher,KY-1811,KY-1811,0.5,0.5,Road blocked due to flooding. Updates as available.,2022-07-26 17:26:00,2022-07-26 19:28:01,https://goky.ky.gov/?lat=37.159702&lng=-82.869211&zoom=14
@@ -1441,13 +1441,13 @@ Updates as appropriate.
 12,Letcher,KY-2550,LAKESIDE DR,0.2,0.2,Road blocked due to flooding. Updates as available.,2022-07-28 11:18:00,2022-07-29 16:46:01,https://goky.ky.gov/?lat=37.163581&lng=-82.640081&zoom=14
 12,Letcher,KY-3401,KY-3401,0.5,0.5,Road blocked due to flooding. Updates as available.,2022-07-26 17:24:00,2022-07-26 19:28:01,https://goky.ky.gov/?lat=37.126053&lng=-82.868182&zoom=14
 12,Letcher,KY-3402,LITTLE DRY FRK,0.0,2.1,Road blocked due to flooding. Updates as available.,2022-07-26 17:25:00,2022-07-26 19:28:01,https://goky.ky.gov/?lat=37.148164&lng=-82.843324&zoom=14
-12,Letcher,KY-343,KY-343,0.0,4.2,Road blocked due to two bridges being out. Updates as available.,2022-07-29 10:30:00,2022-07-30 17:14:01,https://goky.ky.gov/?lat=37.202735&lng=-82.682205&zoom=14
-12,Letcher,KY-343,KY-343,0.0,4.2,Road blocked due to two bridges being out. Updates as available. Seek an alternate route.,2022-07-29 10:30:00,2022-08-02 19:52:01,https://goky.ky.gov/?lat=37.202735&lng=-82.682205&zoom=14
 12,Letcher,KY-343,KY-343,0.0,4.2,Road closed due to bridges damaged by flooding. Updates as available.,2022-07-29 10:30:00,2022-08-04 10:36:04,https://goky.ky.gov/?lat=37.202735&lng=-82.682205&zoom=14
 12,Letcher,KY-343,KY-343,0.0,4.2,Road blocked due to two bridges are out. Updates as available,2022-07-29 10:30:00,2022-07-29 16:46:01,https://goky.ky.gov/?lat=37.202735&lng=-82.682205&zoom=14
+12,Letcher,KY-343,KY-343,0.0,4.2,Road blocked due to two bridges being out. Updates as available.,2022-07-29 10:30:00,2022-07-30 17:14:01,https://goky.ky.gov/?lat=37.202735&lng=-82.682205&zoom=14
+12,Letcher,KY-343,KY-343,0.0,4.2,Road blocked due to two bridges being out. Updates as available. Seek an alternate route.,2022-07-29 10:30:00,2022-08-02 19:52:01,https://goky.ky.gov/?lat=37.202735&lng=-82.682205&zoom=14
 12,Letcher,KY-343,KY-343,1.4,1.4,Roadway Closed due to High water,2023-02-17 06:43:49,2023-02-17 16:16:01,https://goky.ky.gov/?lat=37.198009&lng=-82.691525&zoom=14KY-343
-12,Letcher,KY-343,KY-343,1.6,1.6,Bridge out due to flooding. Seek an alternate route.,2022-07-30 13:50:00,2022-08-02 19:52:01,https://goky.ky.gov/?lat=37.197475&lng=-82.687677&zoom=14
 12,Letcher,KY-343,KY-343,1.6,1.6,Bridge closed due to flooding. Updates as available.,2022-07-30 13:50:00,2022-08-04 10:36:04,https://goky.ky.gov/?lat=37.197475&lng=-82.687677&zoom=14
+12,Letcher,KY-343,KY-343,1.6,1.6,Bridge out due to flooding. Seek an alternate route.,2022-07-30 13:50:00,2022-08-02 19:52:01,https://goky.ky.gov/?lat=37.197475&lng=-82.687677&zoom=14
 12,Letcher,KY-343,KY-343,1.6,1.6,Bridge out due to flooding.,2022-07-30 13:50:00,2022-07-30 17:14:01,https://goky.ky.gov/?lat=37.197475&lng=-82.687677&zoom=14
 12,Letcher,KY-7,KY-7,12.4,12.4,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 11:47:16,2023-02-17 16:18:01,https://goky.ky.gov/?lat=37.174196&lng=-82.919087&zoom=14KY-7
 12,Letcher,KY-7,KY-7,12.4,12.4,Road blocked due to flooding.  Updates as available.,2023-02-17 11:47:16,2023-02-18 10:16:00,https://goky.ky.gov/?lat=37.174196&lng=-82.919087&zoom=14KY-7
@@ -1469,16 +1469,16 @@ Updates as appropriate.
 12,Martin,KY-292,WARFIELD,26.4,26.4,Road blocked due to flooding. Updates as available.,2022-07-29 08:07:00,2022-08-01 20:30:01,https://goky.ky.gov/?lat=37.935947&lng=-82.507298&zoom=14
 12,Martin,KY-292,WARFIELD,26.4,26.4,water over road,2022-07-29 08:34:00,2022-07-29 22:08:01,https://goky.ky.gov/?lat=37.935947&lng=-82.507298&zoom=14
 12,Martin,KY-292,WARFIELD,26.4,26.4,waTER OVER ROAD,2022-07-29 09:35:00,2022-07-29 16:40:01,https://goky.ky.gov/?lat=37.935947&lng=-82.507298&zoom=14
-12,Martin,KY-292,WARFIELD,26.7,26.7,Reduced to one lane due to an embankment failure.,2022-01-10 09:29:00,2022-01-10 19:38:02,https://goky.ky.gov/?lat=37.93994&lng=-82.508694&zoom=14
 12,Martin,KY-292,WARFIELD,26.7,26.7,Reduced to one lane between KY 3413 and KY 908. Watch for signs or temporary traffic signals.,2022-01-10 09:29:00,2022-01-14 17:58:01,https://goky.ky.gov/?lat=37.928898&lng=-82.499921&zoom=14
+12,Martin,KY-292,WARFIELD,26.7,26.7,Reduced to one lane due to an embankment failure.,2022-01-10 09:29:00,2022-01-10 19:38:02,https://goky.ky.gov/?lat=37.93994&lng=-82.508694&zoom=14
 12,Martin,KY-40,KY-40,0.0,0.0,Road blocked due to flooding. Updates as available.,2022-07-27 15:29:00,2022-07-27 18:08:01,https://goky.ky.gov/?lat=37.839811&lng=-82.436985&zoom=14
 12,Martin,KY-40,KY-40,4.5,4.5,WATER OVER ROAD,2022-07-28 08:35:00,2022-07-28 14:04:02,https://goky.ky.gov/?lat=37.865739&lng=-82.608072&zoom=14
 12,Martin,KY-40,KY-40,5.5,5.5,Road blocked due to flooding.  Updates as available.,2023-02-16 17:01:45,2023-02-17 15:42:00,https://goky.ky.gov/?lat=37.871049&lng=-82.594103&zoom=14KY-40
 12,Martin,KY-40,KY-40,5.5,5.5,ROAD IS CLOSED DUE TO FLOODING,2023-02-17 08:58:48,2023-02-17 15:36:00,https://goky.ky.gov/?lat=37.871049&lng=-82.594103&zoom=14KY-40
 12,Martin,KY-40,KY-40,6.2,6.2,Road blocked due to flooding. Updates as available,2022-07-29 08:10:00,2022-07-29 10:40:01,https://goky.ky.gov/?lat=37.877569&lng=-82.58982&zoom=14
 12,Martin,KY-40,KY-40,13.8,13.8,Road blocked due to flooding. Updates as available.,2022-07-27 15:27:00,2022-07-27 18:08:01,https://goky.ky.gov/?lat=37.840036&lng=-82.494684&zoom=14
-12,Pike,KY-1056,KY-1056,9.0,10.0,Roadway blocked due to flooding. Updates as available.,2022-01-02 13:55:00,2022-01-02 19:42:01,https://goky.ky.gov/?lat=37.597604&lng=-82.166938&zoom=14
 12,Pike,KY-1056,KY-1056,9.0,10.0,Blocked due to water over the road in the area.,2022-01-02 13:55:00,2022-01-02 15:28:01,https://goky.ky.gov/?lat=37.597604&lng=-82.166938&zoom=14
+12,Pike,KY-1056,KY-1056,9.0,10.0,Roadway blocked due to flooding. Updates as available.,2022-01-02 13:55:00,2022-01-02 19:42:01,https://goky.ky.gov/?lat=37.597604&lng=-82.166938&zoom=14
 12,Pike,KY-1056,KY-1056,10.0,10.0,Road blocked due to flooding. Updates as available.,2022-07-28 16:25:00,2022-07-29 17:46:01,https://goky.ky.gov/?lat=37.603338&lng=-82.165667&zoom=14
 12,Pike,KY-1056,KY-1056,10.0,10.0,water over road,2022-07-29 08:08:00,2022-07-29 16:40:01,https://goky.ky.gov/?lat=37.603338&lng=-82.165667&zoom=14
 12,Pike,KY-1056,KY-1056,10.0,10.0,All lanes blocked due to flooding. Seek alternate route.,2023-02-17 12:47:47,2023-02-18 10:12:00,https://goky.ky.gov/?lat=37.603345&lng=-82.165671&zoom=14KY-1056
@@ -1496,8 +1496,8 @@ Updates as appropriate.
 12,Pike,KY-1460,KY-1460,4.0,5.0,Blocked due to a mudslide in the area.,2022-01-01 10:20:00,2022-01-01 17:54:01,https://goky.ky.gov/?lat=37.47746&lng=-82.505525&zoom=14
 12,Pike,KY-1469,KY-1469,11.0,12.0,Road blocked due to flooding in the area.,2022-07-28 08:39:00,2022-07-28 16:22:01,https://goky.ky.gov/?lat=37.341216&lng=-82.586689&zoom=14
 12,Pike,KY-1469,KY-1469,11.0,12.0,Road blocked due to flooding. Updates as available.,2022-07-28 08:39:00,2022-07-29 08:16:01,https://goky.ky.gov/?lat=37.341216&lng=-82.586689&zoom=14
-12,Pike,KY-1469,KY-1469,14.0,14.0,Road blocked due to flooding. Updates as available.,2022-07-28 08:37:00,2022-07-29 08:02:00,https://goky.ky.gov/?lat=37.359847&lng=-82.55666&zoom=14
 12,Pike,KY-1469,KY-1469,14.0,14.0,Road blocked due to flooding in the area.,2022-07-28 08:37:00,2022-07-28 16:22:01,https://goky.ky.gov/?lat=37.359847&lng=-82.55666&zoom=14
+12,Pike,KY-1469,KY-1469,14.0,14.0,Road blocked due to flooding. Updates as available.,2022-07-28 08:37:00,2022-07-29 08:02:00,https://goky.ky.gov/?lat=37.359847&lng=-82.55666&zoom=14
 12,Pike,KY-194,KY-194,0.0,0.0,Road blocked due to flooding. Updates as available.,2022-07-26 19:06:00,2022-07-26 20:52:01,https://goky.ky.gov/?lat=37.503364&lng=-82.066149&zoom=14
 12,Pike,KY-194,KY-194,3.0,4.0,Road blocked due to flooding updates as available.,2022-08-01 12:30:00,2022-08-02 12:54:00,https://goky.ky.gov/?lat=37.648794&lng=-82.571132&zoom=14
 12,Pike,KY-194,KY-194,3.0,4.0,Road blocked due to flooding. Updates as available,2022-08-02 14:31:00,2022-08-02 14:36:01,https://goky.ky.gov/?lat=37.648794&lng=-82.571132&zoom=14
@@ -1505,8 +1505,8 @@ Updates as appropriate.
 12,Pike,KY-194,KY-194,4.0,4.0,Road blocked due to flooding.  Updates as available.,2023-02-17 15:51:18,2023-02-18 10:10:00,https://goky.ky.gov/?lat=37.64656&lng=-82.563742&zoom=14KY-194
 12,Pike,KY-194,KY-194,17.0,18.0,Blocked due to flooding in the area.,2022-01-01 09:39:00,2022-01-03 12:58:01,https://goky.ky.gov/?lat=37.557538&lng=-82.434949&zoom=14
 12,Pike,KY-194,KY-194,17.0,18.0,Road closed due to flooding. Updates as available.,2022-01-04 08:00:00,2022-01-04 15:46:00,https://goky.ky.gov/?lat=37.557538&lng=-82.434949&zoom=14
-12,Pike,KY-194,KY-194,18.9,18.9,Blocked due to flooding in the area.,2022-01-01 09:39:00,2022-01-01 14:44:00,https://goky.ky.gov/?lat=37.557758&lng=-82.41507&zoom=14
 12,Pike,KY-194,KY-194,18.9,18.9,Road closed due to flooding. Updates as available.,2022-01-01 09:39:00,2022-01-02 02:58:01,https://goky.ky.gov/?lat=37.557758&lng=-82.41507&zoom=14
+12,Pike,KY-194,KY-194,18.9,18.9,Blocked due to flooding in the area.,2022-01-01 09:39:00,2022-01-01 14:44:00,https://goky.ky.gov/?lat=37.557758&lng=-82.41507&zoom=14
 12,Pike,KY-194,KY-194,22.0,23.0,Blocked due to flooding in the area.,2022-01-01 11:09:00,2022-01-01 14:44:00,https://goky.ky.gov/?lat=37.537858&lng=-82.374356&zoom=14
 12,Pike,KY-195,KY-195,4.5,5.0,"All lanes blocked, detour via KY 611, KY 805, KY 197 and  US 23 during this time.",2022-01-02 11:00:00,2022-01-08 17:58:00,https://goky.ky.gov/?lat=37.311492&lng=-82.476811&zoom=14
 12,Pike,KY-195,KY-195,6.0,6.0,ROADWAY IS BLOCKED DUE TO A ROCKSLIDE,2022-01-01 23:46:00,2022-01-02 11:28:01,https://goky.ky.gov/?lat=37.318172&lng=-82.458976&zoom=14
@@ -1527,18 +1527,18 @@ Updates as appropriate.
 12,Pike,KY-3415,LITTLE ROBINSON CREEK RD,0.0,1.0,road blocked with water,2022-07-27 08:04:00,2022-07-27 11:40:00,https://goky.ky.gov/?lat=37.370192&lng=-82.590834&zoom=14
 12,Pike,KY-3418,KY-3418,5.0,6.0,Road blocked due to flooding in the area.,2022-07-28 10:01:00,2022-07-28 10:06:01,https://goky.ky.gov/?lat=37.462104&lng=-82.395915&zoom=14
 12,Pike,KY-468,BIG CREEK RD,3.0,4.0,Road blocked due to flooding updates as available.,2022-08-01 12:30:00,2022-08-02 12:54:00,https://goky.ky.gov/?lat=37.657635&lng=-82.373329&zoom=14
-12,Pike,KY-468,BIG CREEK RD,5.0,5.0,Blocked due to flooding in the area.,2022-01-01 14:53:00,2022-01-01 18:16:01,https://goky.ky.gov/?lat=37.675963&lng=-82.379933&zoom=14
 12,Pike,KY-468,BIG CREEK RD,5.0,5.0,Road closed due to flooding. Updates as available.,2022-01-01 14:53:00,2022-01-02 02:52:01,https://goky.ky.gov/?lat=37.675963&lng=-82.379933&zoom=14
+12,Pike,KY-468,BIG CREEK RD,5.0,5.0,Blocked due to flooding in the area.,2022-01-01 14:53:00,2022-01-01 18:16:01,https://goky.ky.gov/?lat=37.675963&lng=-82.379933&zoom=14
 12,Pike,KY-610,VIRGIE RD,0.0,1.0,WATER OVER ROAD,2022-07-28 08:39:00,2022-07-28 13:16:01,https://goky.ky.gov/?lat=37.278806&lng=-82.586715&zoom=14
-12,Pike,KY-610,VIRGIE RD,1.0,2.0,Road blocked due to flooding in the area.,2022-07-28 08:37:00,2022-07-28 16:20:01,https://goky.ky.gov/?lat=37.288064&lng=-82.597791&zoom=14
 12,Pike,KY-610,VIRGIE RD,1.0,2.0,Road blocked due to flooding. Updates as available.,2022-07-28 08:37:00,2022-07-29 08:14:01,https://goky.ky.gov/?lat=37.288064&lng=-82.597791&zoom=14
+12,Pike,KY-610,VIRGIE RD,1.0,2.0,Road blocked due to flooding in the area.,2022-07-28 08:37:00,2022-07-28 16:20:01,https://goky.ky.gov/?lat=37.288064&lng=-82.597791&zoom=14
 12,Pike,KY-610,VIRGIE RD,5.5,5.5,Roadway closed due to bridge damage. Updates as available.,2022-07-28 13:19:00,2022-07-29 08:04:03,https://goky.ky.gov/?lat=37.315277&lng=-82.584777&zoom=14
 12,Pike,KY-610,VIRGIE RD,5.9,5.9,Bridge out due to flooding. Seek an alternate route.,2022-07-30 13:52:00,2022-08-02 19:54:01,https://goky.ky.gov/?lat=37.32121&lng=-82.582332&zoom=14
 12,Pike,KY-610,VIRGIE RD,5.9,5.9,Bridge out due to flooding.,2022-07-30 13:52:00,2022-07-30 17:16:01,https://goky.ky.gov/?lat=37.32121&lng=-82.582332&zoom=14
 12,Pike,KY-610,VIRGIE RD,5.9,5.9,Bridge out due to flooding. Updates as available.,2022-07-30 13:52:00,2022-08-09 11:10:07,https://goky.ky.gov/?lat=37.32121&lng=-82.582332&zoom=14
-12,Pike,KY-610,VIRGIE RD,7.0,8.0,bridge closed Jonancy,2022-07-29 08:06:00,2022-07-29 16:34:01,https://goky.ky.gov/?lat=37.334429&lng=-82.579777&zoom=14
 12,Pike,KY-610,VIRGIE RD,7.0,8.0,Road blocked due to bridge out. Updates as available.,2022-07-29 08:06:00,2022-07-30 17:16:01,https://goky.ky.gov/?lat=37.334429&lng=-82.579777&zoom=14
 12,Pike,KY-610,VIRGIE RD,7.0,8.0,Road blocked due to bridge out. Updates as available. Seek an alternate route.,2022-07-29 08:06:00,2022-07-31 19:30:01,https://goky.ky.gov/?lat=37.334429&lng=-82.579777&zoom=14
+12,Pike,KY-610,VIRGIE RD,7.0,8.0,bridge closed Jonancy,2022-07-29 08:06:00,2022-07-29 16:34:01,https://goky.ky.gov/?lat=37.334429&lng=-82.579777&zoom=14
 12,Pike,KY-612,KY-612,1.0,2.0,Road blocked due to flooding in the area.,2022-07-28 08:36:00,2022-07-28 16:16:01,https://goky.ky.gov/?lat=37.672931&lng=-82.3472&zoom=14
 12,Pike,KY-612,KY-612,1.0,2.0,Road blocked due to flooding. Updates as available.,2022-07-28 08:36:00,2022-07-28 17:24:01,https://goky.ky.gov/?lat=37.672931&lng=-82.3472&zoom=14
 12,Pike,KY-632,KY-632,4.0,4.1,Roadway is blocked at this location due to a rockslide,2022-01-04 04:00:00,2022-01-08 16:58:01,https://goky.ky.gov/?lat=37.485424&lng=-82.289594&zoom=14
@@ -1546,7 +1546,7 @@ Updates as appropriate.
 12,Pike,KY-632,KY-632,4.0,4.0,Blocked due to water over the road in the area.,2022-01-02 11:31:00,2022-01-02 12:22:04,https://goky.ky.gov/?lat=37.48547&lng=-82.289935&zoom=14
 12,Pike,KY-632,KY-632,4.0,4.0,Blocked due to a mudslide in the area.,2022-01-02 12:23:00,2022-01-02 14:56:01,https://goky.ky.gov/?lat=37.485466&lng=-82.289918&zoom=14
 12,Pike,KY-632,KY-632,5.0,6.0,Roadway blocked due to a slide. Updates as available,2023-02-16 23:47:07,2023-02-17 05:28:00,https://goky.ky.gov/?lat=37.485077&lng=-82.273162&zoom=14KY-632
-12,Pike,KY-805,KY-805,5.0,6.0,Road blocked due to flooding in the area.,2022-07-28 08:38:00,2022-07-28 16:20:01,https://goky.ky.gov/?lat=37.262431&lng=-82.573699&zoom=14
 12,Pike,KY-805,KY-805,5.0,6.0,Road blocked due to flooding. Updates as available.,2022-07-28 08:38:00,2022-07-29 08:14:01,https://goky.ky.gov/?lat=37.262431&lng=-82.573699&zoom=14
+12,Pike,KY-805,KY-805,5.0,6.0,Road blocked due to flooding in the area.,2022-07-28 08:38:00,2022-07-28 16:20:01,https://goky.ky.gov/?lat=37.262431&lng=-82.573699&zoom=14
 12,Pike,US-119,US-119,21.0,21.0,Blocked due to flooding in the area.,2022-01-01 09:48:00,2022-01-01 14:50:01,https://goky.ky.gov/?lat=37.621868&lng=-82.268176&zoom=14
 12,Pike,US-460,FERRELLS CREEK RD,21.0,22.0,Road blocked due to a slide in the area.,2022-07-28 10:00:00,2022-07-28 16:18:01,https://goky.ky.gov/?lat=37.377849&lng=-82.270027&zoom=14
