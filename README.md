@@ -108,3 +108,4 @@ A Python virtual environment is a self-contained directory that contains a Pytho
 ## Additional Notes
 
 - It's recommended to include the 'venv' directory in your project's `.gitignore` file to avoid versioning the virtual environment.
+(I have not done this yet)
