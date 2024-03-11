@@ -1,7 +1,16 @@
 # Analysis of Road Closure Data from Kentucky
 
+## Diclaimer:
+While I am an emloyee of the Kentucky Transportation Cabinet, this analysis of road closure data is not an official KYTC analysis.  There are many factors that contribute to road closures that are not disclosed in this dataset.  This dataset is not a complete or comprehensive list of all road closures and/or damaged roadways.  These are only the reports that were verified in real-time and displayed on the GoKY website.  As an employee of the KYTC, I want to promote safety and mobility for everyone and I would encourage you to please utilize the following resources:  -Chris Lambert
+
+- "Know before you go" Real-Time Traveler Information can be found at [GoKY](https://goky.ky.gov)
+- Road Closure listings and hourly email notifications can be found at [KYTC Road Closures](https://www.kytc.com/traffic/road-closures/).
+- KYTC also shares real-time data with [Waze](https://www.waze.com/en-US/livemap).
+
+
 ## Project Overview:
 The project aims to analyze road closure data provided by the Kentucky Transportation Cabinet (KYTC). The primary objective is to identify trends in road closures to better understand network resiliency during periods of extreme weather events.
+
 
 ## Technical Insight:
 - **Python Libraries:** To begin the project, I will begin by utilizing VS Code, Python and Jupyter Notebook extensions, and a Python virtual environment with libraries such as pandas, pyarrow, and requests for data importing, cleaning, and analysis.
