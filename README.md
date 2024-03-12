@@ -35,6 +35,14 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 - Feature list #4 optional: I may build a custom data dictionary if I have time.
 - Feature list #5 choice: Annotate my code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
 
+## These libraries were used for this project:
+- pandas
+- pyarrow
+- jupyterlab
+- notebook
+- openpyxl
+- matplotlib
+- numpy
 
 # Setting up a Python Virtual Environment
 
