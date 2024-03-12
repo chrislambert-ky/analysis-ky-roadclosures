@@ -11,3 +11,23 @@ That should help anyone who is not using VS Code with Jupyter extensions.
 A reminder on how to interact with Jupyter Notebook
     To run Jupyter Notebook classic, use "jupyter notebook"
     To run Jupyter Labs, use "jupyter lab"
+
+
+Former requirements.txt file, without versioning:
+pandas
+pyarrow
+jupyterlab
+notebook
+openpyxl
+matplotlib
+numpy
+
+New requirements.txt file with versioning:
+pandas==2.2.0
+pyarrow==15.0.0
+jupyterlab==4.0.12
+notebook==7.0.7
+openpyxl==3.1.2
+matplotlib==3.8.3
+numpy==1.26.3
+
