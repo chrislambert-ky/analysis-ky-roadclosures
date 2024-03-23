@@ -10,12 +10,20 @@
 
 ---
 
+<<<<<<< HEAD
 ### Project Overview
+=======
+### Project Overview:
+>>>>>>> 82d4bfd2bbd81256d0f25c7106e22b081c7777b9
 The project aims to analyze road closure data provided by the Kentucky Transportation Cabinet (KYTC). The primary objective is to identify trends in road closures to better understand network resiliency during periods of extreme weather events.
 
 ---
 
+<<<<<<< HEAD
 ### Technical Insight
+=======
+### Technical Insight:
+>>>>>>> 82d4bfd2bbd81256d0f25c7106e22b081c7777b9
 
 - **Python Libraries:** To begin the project, I will begin by utilizing VS Code, Python and Jupyter Notebook extensions, and a Python virtual environment with libraries such as pandas, pyarrow, and requests for data importing, cleaning, and analysis.
 - **Sources:** Road closure data will be sourced from the Transportation Operations Center (TOC) of KYTC in CSV format. This data source is updated in real-time during severe weather events.
@@ -32,7 +40,11 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 
 ---
 
+<<<<<<< HEAD
 ### Methodology
+=======
+### Methodology:
+>>>>>>> 82d4bfd2bbd81256d0f25c7106e22b081c7777b9
 
 - Import/load road closure data directly from hosted web server into Pandas.
 - Parse out the Latitude and Longitude by stripping unneeded hyperlink characters.
@@ -44,7 +56,11 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 
 ---
 
+<<<<<<< HEAD
 ### Code Kentucky Feature Lists
+=======
+### Code Kentucky Feature Lists:
+>>>>>>> 82d4bfd2bbd81256d0f25c7106e22b081c7777b9
 
 - Feature list #1 choice: Read multiple data files (JSON, CSV, Excel, etc.)
 - Feature list #2 choice: Clean the data and perform a pandas merge, then calculate some new values based on the new data set.
@@ -54,14 +70,22 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 - Feature list #4 optional: I may build a custom data dictionary if I have time.
 - Feature list #5 choice: Annotate my code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
 
+<<<<<<< HEAD
 ### *I've chosen the following optional features (if time allows)*
+=======
+### *I've chosen the following optional features (if time allows):*
+>>>>>>> 82d4bfd2bbd81256d0f25c7106e22b081c7777b9
 
 - *Feature #3 (optional): Tableau and/or PowerBI visualizations.*
 - *Feature #4 (optional): Build a custom data dictionary.*
 
 ---
 
+<<<<<<< HEAD
 ### The following libraries were used for this project
+=======
+### The following libraries were used for this project:
+>>>>>>> 82d4bfd2bbd81256d0f25c7106e22b081c7777b9
  
 - pandas
 - pyarrow
