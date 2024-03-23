@@ -8,11 +8,15 @@
 
 **-_Chris Lambert_**
 
-## Project Overview:
+---
+
+### Project Overview:
 The project aims to analyze road closure data provided by the Kentucky Transportation Cabinet (KYTC). The primary objective is to identify trends in road closures to better understand network resiliency during periods of extreme weather events.
 
+---
 
-## Technical Insight:
+### Technical Insight:
+
 - **Python Libraries:** To begin the project, I will begin by utilizing VS Code, Python and Jupyter Notebook extensions, and a Python virtual environment with libraries such as pandas, pyarrow, and requests for data importing, cleaning, and analysis.
 - **Sources:** Road closure data will be sourced from the Transportation Operations Center (TOC) of KYTC in CSV format. This data source is updated in real-time during severe weather events.
 - **Access Requirements:** No special access requirements are needed as the data is openly provided by KYTC.
@@ -26,7 +30,22 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 - **Reporting:** Prepare a report/presentation summarizing key findings, insights, and visual outputs from the analysis.
 - **Optional Reporting:** If time permits, I may also utilize PowerBI or Tableau to better visualize the data.
 
-## Code Kentucky Feature Lists:
+---
+
+### Methodology:
+
+- Import/load road closure data directly from hosted web server into Pandas.
+- Parse out the Latitude and Longitude by stripping unneeded hyperlink characters.
+- Produce standalone latitude and longitude columns/fields, which is preferred for mapping in most BI software.
+- Standardize timestamps to assist with calculating duration.
+- Modify the duration calculation to show hours as float64, making it easier to use in popular BI tools.
+- Summarize the results by year, county, and roadway using record counts and caculated durations.
+- If time allows, develop an overall score that takes into consideration the frequency and duration of events.
+
+---
+
+### Code Kentucky Feature Lists:
+
 - Feature list #1 choice: Read multiple data files (JSON, CSV, Excel, etc.)
 - Feature list #2 choice: Clean the data and perform a pandas merge, then calculate some new values based on the new data set.
 - Feature list #3 choice: Make 3 matplotlib (or another plotting library) visualizations to display your data.
@@ -35,11 +54,15 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 - Feature list #4 optional: I may build a custom data dictionary if I have time.
 - Feature list #5 choice: Annotate my code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
 
-## I've chosen the following *optional* features (if time allows):
-- Feature #3 (optional): Tableau and PowerBI visualizations.
-- Feature #4 (optional): Build a custom data dictionary.
+### *I've chosen the following optional features (if time allows):*
 
-## These libraries were used for this project:
+- *Feature #3 (optional): Tableau and/or PowerBI visualizations.*
+- *Feature #4 (optional): Build a custom data dictionary.*
+
+---
+
+### The following libraries were used for this project:
+ 
 - pandas
 - pyarrow
 - jupyterlab
@@ -48,15 +71,17 @@ The project aims to analyze road closure data provided by the Kentucky Transport
 - matplotlib
 - numpy
 
-# Setting up a Python Virtual Environment
+---
+
+### Setting up a Python Virtual Environment
 
 A Python virtual environment is a self-contained directory that contains a Python installation for a specific project. Using virtual environments helps manage dependencies and isolate project-specific packages. Here's how to set up a Python virtual environment:
 
-## Prerequisites
+### Prerequisites
 
 - Make sure you have Python installed on your system. If not, download and install it from [python.org](https://www.python.org/).
 
-## Instructions
+### Instructions
 
 1. **Open a Terminal/Command Prompt:**
 
@@ -117,7 +142,9 @@ A Python virtual environment is a self-contained directory that contains a Pytho
     deactivate
     ```
 
-## Additional Notes
+---
+
+### Additional Notes
 
 - It's recommended to include the 'venv' directory in your project's `.gitignore` file to avoid versioning the virtual environment.
 (I have not done this yet)
