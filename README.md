@@ -13,6 +13,11 @@
 ### Project Overview
 The project aims to analyze road closure data provided by the Kentucky Transportation Cabinet (KYTC). The primary objective is to identify trends in road closures to better understand network resiliency during periods of extreme weather events.
 
+Thre are two primary notebooks in this repository:
+
+* [analysis-ky-roadclosures.ipynb](https://github.com/chrislambert-ky/analysis-ky-roadclosures/blob/main/analysis-ky-roadclosures.ipynb) is my first version.  During the development process, I worked through each year independently and developed code to clean only that one year.  I did this to avoid any frustrations with trying to create code that tried to do too much at once.
+* [analysis-ky-roadclosures_final_analysis_after_refactoring.ipynb](https://github.com/chrislambert-ky/analysis-ky-roadclosures/blob/main/analysis-ky-roadclosures_final_analysis_after_refactor.ipynb) was produced after refactoring.  I received feedback concerning my documentation and the need to utilize functions to produce cleaner, more efficient code.  Both notebooks produce the same results but this notebook will display cleaner code with a slightly different process of ingesting, cleaning, and reporting on the same data.
+
 ---
 
 ### Technical Insight
