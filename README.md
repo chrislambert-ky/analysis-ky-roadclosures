@@ -58,9 +58,15 @@ Thre are two primary notebooks in this repository:
 - Feature list #5 choice: Annotate my code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
 
 
-### *I've chosen the following optional features (if time allows):*
-- *Feature #3 (optional): Tableau and/or PowerBI visualizations.*
-- *Feature #4 (optional): Build a custom data dictionary.*
+### *I've chosen the following optional features:*
+- **Feature #3 (optional): Tableau and/or PowerBI visualizations.** <br>
+    - Download PowerBI from here: [PowerBI](https://powerbi.microsoft.com/en-us/downloads/)
+    - There is also a PowerBI file in the repo for anyone who downloads PowerBI
+    - [PowerBI PDF Export](https://github.com/chrislambert-ky/analysis-ky-roadclosures/blob/main/analysis-ky-roadclosures-powerbi-pdf-export.pdf) for anyone that doesn't want to use PowerBI
+- **Feature #4 (optional): Build a custom data dictionary.**<br>
+    - The Road Closure Data Dictionary has been added directly into the notebooks.
+    - The Road Closure Data Dictionary can also be found here, as a standalone document: <br>
+[Road Closure Data Dictionary](https://github.com/chrislambert-ky/analysis-ky-roadclosures/blob/main/kytc-closures-datadictionary.md)
 
 ---
 
