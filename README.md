@@ -22,48 +22,50 @@ Thre are two primary notebooks in this repository:
 
 ### Technical Insight
 
-- **Python Libraries:** To begin the project, I will begin by utilizing VS Code, Python and Jupyter Notebook extensions, and a Python virtual environment with libraries such as pandas, pyarrow, and requests for data importing, cleaning, and analysis.
-- **Sources:** Road closure data will be sourced from the Transportation Operations Center (TOC) of KYTC in CSV format. This data source is updated in real-time during severe weather events.
-- **Access Requirements:** No special access requirements are needed as the data is openly provided by KYTC.
-- **Data Cleaning:** Standardize column names, data types (date/time), and parse/extract latitude and longitude.
-- **Data Integration:** Merge/concatenate multiple data sources.
-- **Optional Integration:** I may also utilize KYTC's roadway snapping API to add additional attributes to the road closures dataset.
-- **Summary/Statistics:** Calculate descriptive statistics to understand the distribution of road closures by District, County, and Road Type.
-- **Optional Summary/Statistics:** I may also perform an analysis by roadway elevation and/or current weather conditions if time permits.
-- **Data Visualization:** Utilize libraries such as Matplotlib, Seaborn, and Plotly to create visualizations for exploring patterns and trends in road closure data.
-- **Documentation:** Document the analysis process, including data preprocessing steps, exploratory data analysis, and insights gained.
+- **Python Libraries:** To begin the project, I started by utilizing VS Code, Python and Jupyter Notebook extensions, and a Python virtual environment with libraries such as pandas, pyarrow, matplotlib and requests for data importing, cleaning, and analysis.
+- **Sources:** Road closure data was sourced from the Transportation Operations Center (TOC) of KYTC in CSV format. This data source continues to be updated during severe weather events.
+- **Access Requirements:** No special access was needed.  This data source is freely provided by KYTC.
+- **Data Cleaning:** Standardized column names, data types (date/time), and parsed/extracted latitude and longitude, removed carriage returns from comments, etc.
+- **Data Integration:** Merged/concatenated multiple data sources.
+- **Summary/Statistics:** Calculated descriptive statistics to understand the distribution of road closures by District, County, and Road Type.
+- **Data Visualization:** Utilized Matplotlib to create visualizations for exploring patterns and trends in road closure data.
+- **Documentation:** Documented the analysis process, including data preprocessing steps, exploratory data analysis, and insights gained.
 - **Reporting:** Prepare a report/presentation summarizing key findings, insights, and visual outputs from the analysis.
-- **Optional Reporting:** If time permits, I may also utilize PowerBI or Tableau to better visualize the data.
+- **Optional Visualization / Reporting:** Leveraged PowerBI to produce a more interactive and visually appealing collection of dashboards.
+- **Optional Summaries/Statistics (incomplete):** These may appear in future versions.  I hope to perform a more detailed analysis of closures by adding roadway elevations and weather conditions.
+    - For historic weather data, I plan to learn and utilize the National Weather Service [NWS API](https://www.weather.gov/documentation/services-web-api)
+    - To obtain more etailed roadway information, such as roadway elevation at the point of the closure, I will utilize KYTC's Intelligent Transportation Systems (ITS) API.
 
 ---
 
 ### Methodology
-- Import/load road closure data directly from hosted web server into Pandas.
-- Parse out the Latitude and Longitude by stripping unneeded hyperlink characters.
-- Produce standalone latitude and longitude columns/fields, which is preferred for mapping in most BI software.
-- Standardize timestamps to assist with calculating duration.
-- Modify the duration calculation to show hours as float64, making it easier to use in popular BI tools.
-- Summarize the results by year, county, and roadway using record counts and caculated durations.
-- If time allows, develop an overall score that takes into consideration the frequency and duration of events.
+- Imported/loaded road closure data directly from hosted web server into Pandas.
+- Parsed out the Latitude and Longitude by stripping unneeded hyperlink characters.
+- Produced standalone latitude and longitude columns/fields, which is preferred for mapping in most BI software.
+- Standardized timestamps to assist with calculating duration.
+- Removed carriage returns in the comments, which causes problems during importing/exporting to/from a CSV.
+- Modified the duration calculation to show hours as float64, making it easier to use in popular BI tools.
+- Summarized the results by year, county, and roadway using record counts and caculated durations.
+- OPTIONAL:  I hope to develop an overall score that takes into consideration the frequency and duration of events in future versions.
+
+
 
 ---
 
-### Code Kentucky Feature Lists:
+### Code Kentucky Required Features (there are my choices):
+Code Kentucky provided a list of requirements but then allowed developers to choose from a list of options to satisfy the requirements.  These are my choices to meet those requirements:
 - Feature list #1 choice: Read multiple data files (JSON, CSV, Excel, etc.)
 - Feature list #2 choice: Clean the data and perform a pandas merge, then calculate some new values based on the new data set.
 - Feature list #3 choice: Make 3 matplotlib (or another plotting library) visualizations to display your data.
-- Feature list #3 optional: I may use Tableau if I have time.
-- Feature list #4 choice: Utilize a Python virtual environment and include instructions in your README on how the user should set one up
-- Feature list #4 optional: I may build a custom data dictionary if I have time.
-- Feature list #5 choice: Annotate my code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
+- Feature list #4 choice: Utilize a Python virtual environment and include instructions in your README on how the user should set one up.
+- Feature list #5 choice: Annotate code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
 
-
-### *I've chosen the following optional features:*
-- **Feature #3 (optional): Tableau and/or PowerBI visualizations.** <br>
+#### *I've chosen the following optional features:*
+- Feature #3 (optional): Tableau and/or PowerBI visualizations.
     - Download PowerBI from here: [PowerBI](https://powerbi.microsoft.com/en-us/downloads/)
     - There is also a PowerBI file in the repo for anyone who downloads PowerBI
     - [PowerBI PDF Export](https://github.com/chrislambert-ky/analysis-ky-roadclosures/blob/main/analysis-ky-roadclosures-powerbi-pdf-export.pdf) for anyone that doesn't want to use PowerBI
-- **Feature #4 (optional): Build a custom data dictionary.**<br>
+- Feature #4 (optional): Build a custom data dictionary.
     - The Road Closure Data Dictionary has been added directly into the notebooks.
     - The Road Closure Data Dictionary can also be found here, as a standalone document: <br>
 [Road Closure Data Dictionary](https://github.com/chrislambert-ky/analysis-ky-roadclosures/blob/main/kytc-closures-datadictionary.md)
@@ -79,6 +81,8 @@ Thre are two primary notebooks in this repository:
 - openpyxl
 - matplotlib
 - numpy
+
+Notes:  I added in Jupyter Labs and Notebook libraries as a convenience to anyone who may not have VS Code with Jupyter extensions installed.
 
 ---
 
