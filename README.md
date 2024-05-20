@@ -52,7 +52,7 @@ Thre are two primary notebooks in this repository:
 
 ---
 
-### Code Kentucky Required Features (there are my choices):
+### Code Kentucky Required Features (here are my choices):
 Code Kentucky provided a list of requirements but then allowed developers to choose from a list of options to satisfy the requirements.  These are my choices to meet those requirements:
 - Feature list #1 choice: Read multiple data files (JSON, CSV, Excel, etc.)
 - Feature list #2 choice: Clean the data and perform a pandas merge, then calculate some new values based on the new data set.
