@@ -786,9 +786,6 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 6,Campbell,KY-1566,ONEONTA RD,0.8,1.2,Road blocked due to flooding. Updates as available.,2022-05-08 21:00:00,2022-05-11 07:38:01,38.967478,-84.316186,2 days 10:38:01,58.6336
 6,Campbell,KY-1566,ONEONTA RD,0.8,1.2,Road blocked due to flooding.  Updates as available.,2023-03-26 18:27:36,2023-03-28 18:18:00,38.96572,-84.319117,1 days 23:50:24,47.84
 6,Campbell,KY-1566,ONEONTA RD,1.6,1.6,Roadway is blocked at this location due to water over the road,2023-07-19 06:55:10,2023-07-19 09:06:01,38.972106,-84.306897,0 days 02:10:51,2.1808
-6,Campbell,KY-1566,ONEONTA RD,1.6,1.6,Roadway blocked due to flooding/washed out culvert. Updates as available.,2023-07-28 06:55:00,2023-07-19 15:08:00,38.972106,-84.306897,-9 days +08:13:00,-207.7833
-6,Campbell,KY-1566,ONEONTA RD,1.6,1.6,Roadway blocked due to flooding/emergency repairs. Updates as available.,2023-07-28 06:55:00,2023-07-21 18:08:01,38.972106,-84.306897,-7 days +11:13:01,-156.7831
-6,Campbell,KY-1566,ONEONTA RD,1.6,1.6,Roadway is blocked in both directions due washed out culvert,2023-07-28 06:55:00,2023-07-19 11:06:00,38.972106,-84.306897,-9 days +04:11:00,-211.8167
 6,Harrison,KY-3016,KY-3016,0.0,1.9,Roadway blocked due to flooding. Updates as available.,2022-01-01 19:30:00,2022-01-02 11:48:00,38.379141,-84.305446,0 days 16:18:00,16.3
 6,Harrison,KY-3016,KY-3016,1.0,1.9,Road blocked due to flooding. Updates as available.,2022-02-18 04:21:00,2022-02-21 16:50:00,38.386244,-84.301833,3 days 12:29:00,84.4833
 6,Harrison,KY-3016,KY-3016,1.0,1.9,ROADWAY BLOCKED DUE TO HIGH WATER,2022-02-18 04:21:00,2022-02-18 15:12:01,38.386244,-84.301833,0 days 10:51:01,10.8503

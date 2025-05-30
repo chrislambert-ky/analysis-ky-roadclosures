@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KY Road Closures Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <style>
+        body { background: #f8f9fa; }
+        .chart-container { height: 400px; margin-bottom: 2rem; }
+    </style>
+</head>
+<body>
+<div class="container py-4">
+    <h1 class="mb-4 text-center">KY Road Closures Dashboard</h1>
+    <div class="row mb-3">
+        <div class="col-md-4 offset-md-2">
+            <label for="districtDropdown" class="form-label">Filter by District:</label>
+            <select id="districtDropdown" class="form-select">
+                <option value="ALL">All Districts</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <label for="yearDropdown" class="form-label">Filter by Year:</label>
+            <select id="yearDropdown" class="form-select">
+                <option value="ALL">All Years</option>
+            </select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header">Closures per District</div>
+                <div class="card-body">
+                    <div id="districtCountChart" class="chart-container"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header">Top 10 Counties by Closures</div>
+                <div class="card-body">
+                    <div id="topCountiesChart" class="chart-container"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header">Closures per Year</div>
+                <div class="card-body">
+                    <div id="yearCountChart" class="chart-container"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header">Total Duration per District (Hours)</div>
+                <div class="card-body">
+                    <div id="durationDistrictChart" class="chart-container"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header">Top 10 Counties by Total Duration (Hours)</div>
+                <div class="card-body">
+                    <div id="topDurationCountiesChart" class="chart-container"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header">Map of Closures (Plotly)</div>
+                <div class="card-body">
+                    <div id="mapChart" class="chart-container"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+fetch('data-reportready/kytc-closures-2021-2025-report_dataset.csv')
+    .then(r => r.text())
+    .then(csv => {
+        const parsed = Papa.parse(csv, {header: true, skipEmptyLines: true});
+        const data = parsed.data;
+        // Build district dropdown
+        const allDistricts = Array.from(new Set(data.map(row => row.District && row.District.trim()).filter(Boolean)))
+            .map(Number).sort((a,b)=>a-b).map(String);
+        const districtDropdown = document.getElementById('districtDropdown');
+        allDistricts.forEach(d => {
+            const opt = document.createElement('option');
+            opt.value = d;
+            opt.textContent = 'District ' + d;
+            districtDropdown.appendChild(opt);
+        });
+        // Build year dropdown
+        const allYears = Array.from(new Set(data.map(row => row.Reported_On ? row.Reported_On.slice(0,4) : null).filter(Boolean))).sort();
+        const yearDropdown = document.getElementById('yearDropdown');
+        allYears.forEach(y => {
+            const opt = document.createElement('option');
+            opt.value = y;
+            opt.textContent = y;
+            yearDropdown.appendChild(opt);
+        });
+        // Chart rendering function
+        function renderCharts(selectedDistrict, selectedYear) {
+            // Filter data by district and year if needed
+            let filtered = data;
+            if (selectedDistrict && selectedDistrict !== 'ALL') {
+                filtered = filtered.filter(row => row.District && row.District.trim() === selectedDistrict);
+            }
+            if (selectedYear && selectedYear !== 'ALL') {
+                filtered = filtered.filter(row => row.Reported_On && row.Reported_On.slice(0,4) === selectedYear);
+            }
+            // 1. Closures per District (filtered)
+            const districtCounts = {};
+            const durationDistrict = {};
+            filtered.forEach(row => {
+                const district = row.District && row.District.trim();
+                if (district) {
+                    districtCounts[district] = (districtCounts[district] || 0) + 1;
+                    durationDistrict[district] = (durationDistrict[district] || 0) + parseFloat(row.Duration_Hours || 0);
+                }
+            });
+            const districtLabels = Object.keys(districtCounts)
+                .map(Number)
+                .sort((a, b) => a - b)
+                .map(String);
+            const districtVals = districtLabels.map(d => districtCounts[d]);
+            const durationDistrictVals = districtLabels.map(d => durationDistrict[d]);
+            // 2. County charts (filtered)
+            const countyCounts = {};
+            const countyDuration = {};
+            filtered.forEach(row => {
+                const county = row.County && row.County.trim();
+                if (county) {
+                    countyCounts[county] = (countyCounts[county] || 0) + 1;
+                    countyDuration[county] = (countyDuration[county] || 0) + parseFloat(row.Duration_Hours || 0);
+                }
+            });
+            const topCounties = Object.entries(countyCounts).sort((a,b)=>b[1]-a[1]).slice(0,10);
+            const topDurationCounties = Object.entries(countyDuration).sort((a,b)=>b[1]-a[1]).slice(0,10);
+            // 3. Closures per Year (filtered)
+            const yearCounts = {};
+            filtered.forEach(row => {
+                const year = row.Reported_On ? row.Reported_On.slice(0,4) : '';
+                if (year) yearCounts[year] = (yearCounts[year] || 0) + 1;
+            });
+            const yearLabels = Object.keys(yearCounts).sort();
+            const yearVals = yearLabels.map(y => yearCounts[y]);
+            // Draw charts
+            echarts.init(document.getElementById('districtCountChart')).setOption({
+                xAxis: { type: 'category', data: districtLabels },
+                yAxis: { type: 'value' },
+                series: [{ data: districtVals, type: 'bar', itemStyle: { color: '#007bff' } }],
+                tooltip: {},
+                title: { text: 'Closures per District', left: 'center' }
+            });
+            echarts.init(document.getElementById('topCountiesChart')).setOption({
+                yAxis: { type: 'category', data: topCounties.map(x=>x[0]), inverse: true },
+                xAxis: { type: 'value' },
+                series: [{ data: topCounties.map(x=>x[1]), type: 'bar', itemStyle: { color: '#28a745' } }],
+                tooltip: {},
+                title: { text: 'Top 10 Counties by Closures', left: 'center' }
+            });
+            echarts.init(document.getElementById('yearCountChart')).setOption({
+                xAxis: { type: 'category', data: yearLabels },
+                yAxis: { type: 'value' },
+                series: [{ data: yearVals, type: 'bar', itemStyle: { color: '#ffc107' } }],
+                tooltip: {},
+                title: { text: 'Closures per Year', left: 'center' }
+            });
+            echarts.init(document.getElementById('durationDistrictChart')).setOption({
+                xAxis: { type: 'category', data: districtLabels },
+                yAxis: { type: 'value' },
+                series: [{ data: durationDistrictVals, type: 'bar', itemStyle: { color: '#dc3545' } }],
+                tooltip: {},
+                title: { text: 'Total Duration per District', left: 'center' }
+            });
+            echarts.init(document.getElementById('topDurationCountiesChart')).setOption({
+                yAxis: { type: 'category', data: topDurationCounties.map(x=>x[0]), inverse: true },
+                xAxis: { type: 'value' },
+                series: [{ data: topDurationCounties.map(x=>x[1]), type: 'bar', itemStyle: { color: '#6f42c1' } }],
+                tooltip: {},
+                title: { text: 'Top 10 Counties by Total Duration', left: 'center' }
+            });
+            // Map (filtered)
+            const lats = filtered.map(r => parseFloat(r.latitude)).filter(x=>!isNaN(x));
+            const lons = filtered.map(r => parseFloat(r.longitude)).filter(x=>!isNaN(x));
+            const hover = filtered.map(r => `${r.County}, ${r.Road_Name || ''}`);
+            Plotly.newPlot('mapChart', [{
+                type: 'scattermapbox',
+                lat: lats,
+                lon: lons,
+                mode: 'markers',
+                marker: { size: 6, color: '#007bff' },
+                text: hover,
+                hoverinfo: 'text'
+            }], {
+                mapbox: {
+                    style: 'open-street-map',
+                    center: { lat: 37.6, lon: -85.7 },
+                    zoom: 5.7
+                },
+                margin: { t: 0, b: 0, l: 0, r: 0 },
+                showlegend: false
+            }, {responsive: true});
+        }
+        // Initial render
+        renderCharts('ALL', 'ALL');
+        // Dropdown events
+        districtDropdown.addEventListener('change', function() {
+            renderCharts(this.value, yearDropdown.value);
+        });
+        yearDropdown.addEventListener('change', function() {
+            renderCharts(districtDropdown.value, this.value);
+        });
+    });
+</script>
+</body>
+</html>
