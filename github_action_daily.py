@@ -1,24 +1,8 @@
-# This script is being developed as part of the Code Kentucky Python Data Analyst pathway.
-# 
-# ---
-# 
-# Goal: Quantify the impact of road closures based on three metrics:
-# 1) Total number of closures<br>
-# 2) Frequency of closures<br>
-# 3) Duration of closures.<br>
-# 
-# These are a few of the sample questions that I hope to answer:<br>
-# 1) How many closures occur statewide each year? (Typical bar graph showing count per year?)<br>
-# 2) How many road closures occur in each county per year? (Normal bar graph with year as x-axis and count of closures?)<br>
-# 3) How often, or how frequently, is a single road being closed due to rainfall? (Horizonatal bar graph with roadname as Y axis or pivot table output?)<br>
-# 4) What is the average duration of road closures?
-# 
-# DISCLAIMER:  Results may vary.  In addition to historic data, this notebook is also utilizing current year data.  The data source is updated every 1 hour but only when there are active road closures due to weather related events.
+# This script is being developed to test github actions.
+# I plan to schedule this script to run daily and download the latest data from the KYTC website.
 # 
 # -Chris Lambert
 # 
-# ---
-
 # | Field           | Data Type    | Description                                                                                               | Examples                   |
 # |-----------------|--------------|-----------------------------------------------------------------------------------------------------------|----------------------------|
 # | District        | Integer      | KYTC divides the state into 12 geographic regions. Districts start from 1 in the West to 12 in the East. | 1, 2, 3, etc.              |
@@ -36,11 +20,6 @@
 # | Duration_Hours  | Float        | The duration of the transportation event in hours.                                                        | 1.5, 2.75, etc.            |
 # 
 
-# %%
-#Pandas is used for data manipulation and analysis.
-#Matplotlib is used for data visualization.
-#os is used to create folders
-#urlretrieve is used to download files from the internet
 
 import pandas as pd
 import matplotlib.pyplot as plt  # Not used in ETL, can be removed if not needed

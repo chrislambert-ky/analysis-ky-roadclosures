@@ -1,0 +1,27 @@
+# This workflow runs the ETL script nightly at 12:01am Eastern Time (America/New_York)
+name: KY Road Closures ETL Nightly
+
+on:
+  schedule:
+    - cron: '10 5 * * *'  # 12:01am EST/EDT (America/New_York is UTC-5/UTC-4)
+  workflow_dispatch:
+
+jobs:
+  etl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run ETL script
+        run: python github_action_daily.py
