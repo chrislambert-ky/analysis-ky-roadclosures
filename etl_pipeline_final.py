@@ -1,39 +1,14 @@
-# This script is being developed to test github actions.
-# I plan to schedule this script to run daily and download the latest data from the KYTC website.
-# 
-# -Chris Lambert
-# 
-# | Field           | Data Type    | Description                                                                                               | Examples                   |
-# |-----------------|--------------|-----------------------------------------------------------------------------------------------------------|----------------------------|
-# | District        | Integer      | KYTC divides the state into 12 geographic regions. Districts start from 1 in the West to 12 in the East. | 1, 2, 3, etc.              |
-# | County          | Object       | The name of the county where the event occurred. County names are proper case.                            | Fayette, Frankfort, etc.  |
-# | Route           | Object       | The route name associated with the incident.                                                             | KY-80, US-60, I-69        |
-# | Road_Name       | Object       | The name of the road associated with the transportation records.                                          | DONALDSON CREEK RD, etc. |
-# | Begin_MP        | Float        | The milepost where the event or condition begins on the road.                                              | 10.5, 20.3, etc.           |
-# | End_MP          | Float        | The milepost where the event or condition ends on the road.                                                | 15.2, 25.7, etc.           |
-# | Comments        | Object       | Additional comments or information related to the transportation event.                                   | N/A                        |
-# | Reported_On     | Datetime     | The date and time when the transportation event was reported. All reports are in Eastern Standard Time.   | YYYY-MM-DD HH:MM:SS       |
-# | End_Date        | Datetime     | The date and time when the transportation event concluded or was resolved. All reports are in EST.        | YYYY-MM-DD HH:MM:SS       |
-# | latitude        | Float        | The latitude coordinate associated with the location of the transportation event.                         | 38.1234, 39.5678, etc.    |
-# | longitude       | Float        | The longitude coordinate associated with the location of the transportation event.                        | -84.5678, -85.1234, etc.  |
-# | Duration_Default| Timedelta    | The default duration of the transportation event.                                                        | 0 days 01:30:00, etc.     |
-# | Duration_Hours  | Float        | The duration of the transportation event in hours.                                                        | 1.5, 2.75, etc.            |
-# 
-
-
-import pandas as pd
-import matplotlib.pyplot as plt  # Not used in ETL, can be removed if not needed
 import os
-from urllib.request import urlretrieve
+import pandas as pd
 import logging
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s:%(message)s')
 
-def create_folders():
-    for folder in ['data-raw', 'data-clean', 'data-reportready', 'temp']:
-        os.makedirs(folder, exist_ok=True)
-        logging.info(f"Ensured folder exists: {folder}")
+def ensure_dirs():
+    for d in ['data-raw', 'data-clean', 'data-reportready', 'temp']:
+        os.makedirs(d, exist_ok=True)
+        logging.info(f"Ensured folder exists: {d}")
 
 def download_data():
     urls = {
@@ -52,7 +27,7 @@ def download_data():
     return dfs
 
 def clean_tl(df):
-    df['End_Date'] = df['End_Date'].str.replace('+00:00', '')
+    df['End_Date'] = df['End_Date'].str.replace('+00:00', '', regex=False)
     df['Reported_On'] = pd.to_datetime(df['Reported_On'])
     df['End_Date'] = pd.to_datetime(df['End_Date'])
     df['Duration_Default'] = df['End_Date'] - df['Reported_On']
@@ -62,8 +37,7 @@ def clean_tl(df):
 
 def clean_esri_link(df):
     df['Route_Link'] = df['Route_Link'].str.replace(
-        'https://kytc.maps.arcgis.com/apps/webappviewer/index.html?id=327a38decc8c4e5cb882dc6cd0f9d45d&zoom=14&center=',
-        '')
+        'https://kytc.maps.arcgis.com/apps/webappviewer/index.html?id=327a38decc8c4e5cb882dc6cd0f9d45d&zoom=14&center=', '', regex=False)
     df[['longitude', 'latitude']] = df['Route_Link'].str.split(",", expand=True)
     df.drop('Route_Link', axis=1, inplace=True)
     return df
@@ -78,22 +52,22 @@ def clean_google_link(df):
 
 def process_and_save_cleaned(dfs):
     order = ['District','County','Route','Road_Name','Begin_MP','End_MP','Comments','Reported_On','End_Date','latitude','longitude','Duration_Default','Duration_Hours']
+    cleaned = {}
     # 2021: ESRI link
     df2021 = clean_esri_link(dfs['2021'])
-    df2021 = clean_tl(dfs['2021'])
+    df2021 = clean_tl(df2021)
     df2021 = df2021[order]
     df2021 = df2021[df2021['Duration_Hours'] > 0]
     df2021.to_csv("data-clean/kytc-closures-2021-clean.csv", index=False)
+    cleaned['2021'] = df2021
     # 2022-2025: Google link
-    cleaned = {}
     for year in ['2022', '2023', '2024', '2025']:
         df = clean_google_link(dfs[year])
-        df = clean_tl(dfs[year])
+        df = clean_tl(df)
         df = df[order]
         df = df[df['Duration_Hours'] > 0]
         df.to_csv(f"data-clean/kytc-closures-{year}-clean.csv", index=False)
         cleaned[year] = df
-    cleaned['2021'] = df2021
     return cleaned
 
 def merge_and_export(cleaned):
@@ -113,11 +87,10 @@ def merge_and_export(cleaned):
     logging.info("Exported merged datasets to CSV, XLSX, and Parquet.")
 
 def main():
-    create_folders()
+    ensure_dirs()
     dfs = download_data()
     cleaned = process_and_save_cleaned(dfs)
     merge_and_export(cleaned)
 
 if __name__ == "__main__":
     main()
-
