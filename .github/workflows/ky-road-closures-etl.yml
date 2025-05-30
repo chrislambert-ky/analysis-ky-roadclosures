@@ -1,9 +1,9 @@
-# This workflow runs the ETL script nightly at 12:01am Eastern Time (America/New_York)
+# This workflow runs the ETL script nightly at 12:10am Eastern Time (America/New_York)
 name: KY Road Closures ETL Nightly
 
 on:
   schedule:
-    - cron: '10 5 * * *'  # 12:01am EST/EDT (America/New_York is UTC-5/UTC-4)
+    - cron: '10 5 * * *'  # 12:10am EST/EDT (America/New_York is UTC-5/UTC-4)
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,3 +27,11 @@ jobs:
 
       - name: Run ETL script
         run: python etl_pipeline_final.py
+
+      - name: Commit and push updated data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data-clean/ data-raw/ data-reportready/
+          git commit -m "Automated data update [skip ci]" || echo "No changes to commit"
+          git push
