@@ -6,6 +6,9 @@ on:
     - cron: '10 5 * * *'  # 12:10am EST/EDT (America/New_York is UTC-5/UTC-4)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   etl:
     runs-on: ubuntu-latest
