@@ -75,13 +75,22 @@ def merge_and_export(cleaned):
     dfs = [cleaned[year] for year in ['2021','2022','2023','2024','2025']]
     df = pd.concat(dfs)
     df = df[col_order]
-    df.to_csv("data-reportready/kytc-closures-2021-2025-report_dataset.csv", index=False)
+    # CSV export with error handling
+    try:
+        df.to_csv("data-reportready/kytc-closures-2021-2025-report_dataset.csv", index=False)
+        logging.info("Exported merged dataset to CSV.")
+    except Exception as e:
+        logging.warning(f"CSV export failed: {e}")
+    # XLSX export
     try:
         df.to_excel("data-reportready/kytc-closures-2021-2025-report_dataset.xlsx", index=False)
+        logging.info("Exported merged dataset to XLSX.")
     except Exception as e:
         logging.warning(f"Excel export failed: {e}")
+    # Parquet export
     try:
         df.to_parquet("data-reportready/kytc-closures-2021-2025-report_dataset.parquet", index=False)
+        logging.info("Exported merged dataset to Parquet.")
     except Exception as e:
         logging.warning(f"Parquet export failed: {e}")
     logging.info("Exported merged datasets to CSV, XLSX, and Parquet.")
