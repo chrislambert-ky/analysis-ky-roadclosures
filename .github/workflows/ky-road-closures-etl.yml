@@ -24,4 +24,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run ETL script
-        run: python github_action_daily.py
+        run: python etl_pipeline_final.py
