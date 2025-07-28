@@ -12,7 +12,7 @@ def ensure_dirs():
 
 def download_data():
     urls = {
-        # '2021': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2021.csv',
+        '2021': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2021.csv',
         '2022': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2022.csv',
         '2023': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2023.csv',
         '2024': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2024.csv',
@@ -53,13 +53,15 @@ def clean_google_link(df):
 def process_and_save_cleaned(dfs):
     order = ['District','County','Route','Road_Name','Begin_MP','End_MP','Comments','Reported_On','End_Date','latitude','longitude','Duration_Default','Duration_Hours']
     cleaned = {}
-    # # 2021: ESRI link (commented out)
-    # df2021 = clean_esri_link(dfs['2021'])
-    # df2021 = clean_tl(df2021)
-    # df2021 = df2021[order]
-    # df2021 = df2021[df2021['Duration_Hours'] > 0]
-    # df2021.to_csv("data-clean/kytc-closures-2021-clean.csv", index=False)
-    # cleaned['2021'] = df2021
+    # 2021: ESRI link
+    df2021 = clean_esri_link(dfs['2021'])
+    df2021 = clean_tl(df2021)
+    df2021 = df2021[order]
+    # Filter out records where Reported_On is prior to 2021-01-01
+    df2021 = df2021[df2021['Reported_On'] >= pd.Timestamp('2021-01-01')]
+    df2021 = df2021[df2021['Duration_Hours'] > 0]
+    df2021.to_csv("data-clean/kytc-closures-2021-clean.csv", index=False)
+    cleaned['2021'] = df2021
     # 2022-2025: Google link
     for year in ['2022', '2023', '2024', '2025']:
         df = clean_google_link(dfs[year])
@@ -72,8 +74,7 @@ def process_and_save_cleaned(dfs):
 
 def merge_and_export(cleaned):
     col_order = ['District','County','Route','Road_Name','Begin_MP','End_MP','Comments','Reported_On','End_Date','latitude','longitude','Duration_Default','Duration_Hours']
-    # dfs = [cleaned[year] for year in ['2021','2022','2023','2024','2025']]
-    dfs = [cleaned[year] for year in ['2022','2023','2024','2025']]
+    dfs = [cleaned[year] for year in ['2021','2022','2023','2024','2025']]
     df = pd.concat(dfs)
     df = df[col_order]
     # CSV export with error handling
