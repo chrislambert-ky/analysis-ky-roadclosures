@@ -1,7 +1,7 @@
 # Analysis of Road Closure Data from Kentucky
 
 ### Personal Disclaimer:
-- _While I am an employee of the Kentucky Transportation Cabinet, this analysis of road closure data is not an official KYTC analysis.  This project exists for me to learn and grow my skills in web development (HTML, CSS, Javascript)._
+- _While I am an employee of the Kentucky Transportation Cabinet, this analysis of road closure data is not an official KYTC analysis.  This project exists for me to learn and grow my skills in Python._
 - _My background is in:_
   - IT Project Manager / Data Analyst
   - SQL (Google BigQuery, Oracle)
