@@ -1,10 +1,16 @@
 # Analysis of Road Closure Data from Kentucky
 
-**Disclaimer:** _While I am an employee of the Kentucky Transportation Cabinet, this analysis of road closure data is not an official KYTC analysis.  There are many factors that contribute to road closures that are not disclosed in this dataset.  This dataset is not a complete or comprehensive list of all road closures and/or damaged roadways.  These are only the reports that were verified in real-time and displayed on the GoKY website.  As an employee of KYTC, I want to promote safety and mobility for everyone and I would encourage you to please utilize the following resources:_
-
-* _"Know before you go" Real-Time Traveler Information can be found at [GoKY](https://goky.ky.gov)_
-* _Road Closure listings and hourly email notifications can be found at [KYTC Road Closures](https://transportation.ky.gov/Pages/Weather-Related-Road-Closures.aspx)._
-* _KYTC also shares real-time data with [Waze](https://www.waze.com/en/live-map/)._
+### Personal Disclaimer:
+- _While I am an employee of the Kentucky Transportation Cabinet, this analysis of road closure data is not an official KYTC analysis.  This project exists for me to learn and grow my skills in web development (HTML, CSS, Javascript)._
+- _My background is in:_
+  - IT Project Manager / Data Analyst
+  - SQL (Google BigQuery, Oracle)
+  - BI Tools (Looker Studio, Tableau, PowerBI).
+  - Python ETLs
+### Data Disclaimer:
+- _There are many factors that contribute to road closures that are not disclosed in this dataset. This dataset is not a complete or comprehensive list of all road closures and/or damaged roadways.  These are only the reports that were verified by the Transportatioin Operatations Center in real-time and displayed on the GoKY website. As an employee of KYTC, I want to promote safety and mobility for everyone and I would encourage you to please utilize the following resources:_<br>
+- **_"Know before you go" Real-Time Traveler Information can be found at [GoKY](https://goky.ky.gov)_**
+- **_KYTC also shares real-time data with [Waze](https://www.waze.com/en/live-map/)._**
 
 **-_Chris Lambert_**
 
