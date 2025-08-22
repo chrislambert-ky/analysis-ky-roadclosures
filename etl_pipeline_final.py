@@ -22,6 +22,7 @@ def download_data():
     for year, url in urls.items():
         logging.info(f"Downloading data for {year} from {url}")
         df = pd.read_csv(url)
+        df.drop_duplicates(inplace=True)
         df.to_csv(f"data-raw/KYTC-TOC-Weather-Closures-Historic-{year}.csv", index=False)
         dfs[year] = df
     return dfs
