@@ -77,6 +77,8 @@ def merge_and_export(cleaned):
     dfs = [cleaned[year] for year in ['2021','2022','2023','2024','2025']]
     df = pd.concat(dfs)
     df = df[col_order]
+    # Remove duplicates based on latitude, longitude, Reported_On, and Comments
+    df = df.drop_duplicates(subset=['latitude', 'longitude', 'Reported_On', 'Comments'])
     # CSV export with error handling
     try:
         df.to_csv("data-reportready/kytc-closures-2021-2025-report_dataset.csv", index=False)
