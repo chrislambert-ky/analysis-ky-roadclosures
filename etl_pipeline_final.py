@@ -83,18 +83,21 @@ def merge_and_export(cleaned):
     # CSV export with error handling
     try:
         df.to_csv("data-reportready/kytc-closures-2021-2025-report_dataset.csv", index=False)
+        df.to_csv("data-reportready/kytc-closures-report_dataset.csv", index=False)
         logging.info("Exported merged dataset to CSV.")
     except Exception as e:
         logging.warning(f"CSV export failed: {e}")
     # XLSX export
     try:
         df.to_excel("data-reportready/kytc-closures-2021-2025-report_dataset.xlsx", index=False)
+        df.to_excel("data-reportready/kytc-closures-report_dataset.xlsx", index=False)
         logging.info("Exported merged dataset to XLSX.")
     except Exception as e:
         logging.warning(f"Excel export failed: {e}")
     # Parquet export
     try:
         df.to_parquet("data-reportready/kytc-closures-2021-2025-report_dataset.parquet", index=False)
+        df.to_parquet("data-reportready/kytc-closures-report_dataset.parquet", index=False)
         logging.info("Exported merged dataset to Parquet.")
     except Exception as e:
         logging.warning(f"Parquet export failed: {e}")
