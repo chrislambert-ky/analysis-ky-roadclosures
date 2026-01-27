@@ -17,6 +17,7 @@ def download_data():
         '2023': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2023.csv',
         '2024': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2024.csv',
         '2025': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2025.csv',
+        '2025': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2025.csv',
     }
     dfs = {}
     for year, url in urls.items():
@@ -75,28 +76,28 @@ def process_and_save_cleaned(dfs):
 
 def merge_and_export(cleaned):
     col_order = ['District','County','Route','Road_Name','Begin_MP','End_MP','Comments','Reported_On','End_Date','latitude','longitude','Duration_Default','Duration_Hours']
-    dfs = [cleaned[year] for year in ['2021','2022','2023','2024','2025']]
+    dfs = [cleaned[year] for year in ['2021','2022','2023','2024','2025','2026']]
     df = pd.concat(dfs)
     df = df[col_order]
     # Remove duplicates based on latitude, longitude, Reported_On, and Comments
     df = df.drop_duplicates(subset=['latitude', 'longitude', 'Reported_On', 'Comments'])
     # CSV export with error handling
     try:
-        df.to_csv("data-reportready/kytc-closures-2021-2025-report_dataset.csv", index=False)
+        df.to_csv("data-reportready/kytc-closures-2021-2026-report_dataset.csv", index=False)
         df.to_csv("data-reportready/kytc-closures-report_dataset.csv", index=False)
         logging.info("Exported merged dataset to CSV.")
     except Exception as e:
         logging.warning(f"CSV export failed: {e}")
     # XLSX export
     try:
-        df.to_excel("data-reportready/kytc-closures-2021-2025-report_dataset.xlsx", index=False)
+        df.to_excel("data-reportready/kytc-closures-2021-2026-report_dataset.xlsx", index=False)
         df.to_excel("data-reportready/kytc-closures-report_dataset.xlsx", index=False)
         logging.info("Exported merged dataset to XLSX.")
     except Exception as e:
         logging.warning(f"Excel export failed: {e}")
     # Parquet export
     try:
-        df.to_parquet("data-reportready/kytc-closures-2021-2025-report_dataset.parquet", index=False)
+        df.to_parquet("data-reportready/kytc-closures-2021-2026-report_dataset.parquet", index=False)
         df.to_parquet("data-reportready/kytc-closures-report_dataset.parquet", index=False)
         logging.info("Exported merged dataset to Parquet.")
     except Exception as e:
