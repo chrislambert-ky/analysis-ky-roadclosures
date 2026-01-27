@@ -17,7 +17,7 @@ def download_data():
         '2023': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2023.csv',
         '2024': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2024.csv',
         '2025': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2025.csv',
-        '2025': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2025.csv',
+        '2026': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2026.csv',
     }
     dfs = {}
     for year, url in urls.items():
@@ -65,7 +65,7 @@ def process_and_save_cleaned(dfs):
     df2021.to_csv("data-clean/kytc-closures-2021-clean.csv", index=False)
     cleaned['2021'] = df2021
     # 2022-2025: Google link
-    for year in ['2022', '2023', '2024', '2025']:
+    for year in ['2022', '2023', '2024', '2025','2026']:
         df = clean_google_link(dfs[year])
         df = clean_tl(df)
         df = df[order]
