@@ -64,7 +64,7 @@ def process_and_save_cleaned(dfs):
     df2021 = df2021[df2021['Duration_Hours'] > 0]
     df2021.to_csv("data-clean/kytc-closures-2021-clean.csv", index=False)
     cleaned['2021'] = df2021
-    # 2022-2025: Google link
+    # 2022-2026: Google link
     for year in ['2022', '2023', '2024', '2025','2026']:
         df = clean_google_link(dfs[year])
         df = clean_tl(df)
