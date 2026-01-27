@@ -2,16 +2,18 @@ import pandas as pd
 from collections import Counter
 import os
 
-def analyze_duplicates(csv_path, timestamp_cols=None, group_cols=None, output_summary=True):
+def analyze_duplicates(csv_path, match_cols=None, exact_duplicates=False, timestamp_cols=None, group_cols=None, output_summary=True):
     print(f"Analyzing: {csv_path}")
     df = pd.read_csv(csv_path)
     print(f"Total rows: {len(df)}")
 
-    # Duplicates based on latitude, longitude, reported_on, and comments
-    match_cols = ['Route', 'Road_Name', 'Begin_MP', 'Comments', 'Reported_On', 'Route_Link']
-    for col in match_cols:
-        if col not in df.columns:
-            raise ValueError(f"Column '{col}' not found in CSV file.")
+    if exact_duplicates:
+        match_cols = list(df.columns)
+    elif match_cols is None:
+        match_cols = ['District', 'County', 'Route', 'Road_Name', 'Begin_MP', 'Comments', 'Reported_On']
+    missing = [col for col in match_cols if col not in df.columns]
+    if missing:
+        raise ValueError(f"Columns not found in CSV file: {missing}")
     dupes = df[df.duplicated(subset=match_cols, keep=False)]
     print(f"Duplicates (identical on {match_cols}): {len(dupes)}")
 

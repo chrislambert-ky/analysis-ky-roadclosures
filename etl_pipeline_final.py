@@ -52,6 +52,10 @@ def clean_google_link(df):
     df.drop('Route_Link', axis=1, inplace=True)
     return df
 
+def drop_duplicate_events(df):
+    subset = ['latitude', 'longitude', 'Reported_On', 'Comments']
+    return df.sort_values(by='End_Date', ascending=False).drop_duplicates(subset=subset)
+
 def process_and_save_cleaned(dfs):
     order = ['District','County','Route','Road_Name','Begin_MP','End_MP','Comments','Reported_On','End_Date','latitude','longitude','Duration_Default','Duration_Hours']
     cleaned = {}
@@ -62,6 +66,7 @@ def process_and_save_cleaned(dfs):
     # Filter out records where Reported_On is prior to 2021-01-01
     df2021 = df2021[df2021['Reported_On'] >= pd.Timestamp('2021-01-01')]
     df2021 = df2021[df2021['Duration_Hours'] > 0]
+    df2021 = drop_duplicate_events(df2021)
     df2021.to_csv("data-clean/kytc-closures-2021-clean.csv", index=False)
     cleaned['2021'] = df2021
     # 2022-2026: Google link
@@ -70,6 +75,7 @@ def process_and_save_cleaned(dfs):
         df = clean_tl(df)
         df = df[order]
         df = df[df['Duration_Hours'] > 0]
+        df = drop_duplicate_events(df)
         df.to_csv(f"data-clean/kytc-closures-{year}-clean.csv", index=False)
         cleaned[year] = df
     return cleaned
