@@ -79,7 +79,8 @@ def merge_and_export(cleaned):
     dfs = [cleaned[year] for year in ['2021','2022','2023','2024','2025','2026']]
     df = pd.concat(dfs)
     df = df[col_order]
-    # Remove duplicates based on latitude, longitude, Reported_On, and Comments
+    # Keep most recent record for each location/comment tuple before dedup
+    df = df.sort_values(by='End_Date', ascending=False)
     df = df.drop_duplicates(subset=['latitude', 'longitude', 'Reported_On', 'Comments'])
     # CSV export with error handling
     try:
