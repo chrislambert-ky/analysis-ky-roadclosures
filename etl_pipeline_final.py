@@ -1,4 +1,7 @@
 import os
+from datetime import datetime
+from pathlib import Path
+
 import pandas as pd
 import logging
 
@@ -10,23 +13,18 @@ def ensure_dirs():
         os.makedirs(d, exist_ok=True)
         logging.info(f"Ensured folder exists: {d}")
 
-def download_data():
-    urls = {
-        '2021': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2021.csv',
-        '2022': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2022.csv',
-        '2023': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2023.csv',
-        '2024': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2024.csv',
-        '2025': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2025.csv',
-        '2026': 'https://storage.googleapis.com/kytc-its-2020-openrecords/toc/KYTC-TOC-Weather-Closures-Historic-2026.csv',
-    }
-    dfs = {}
-    for year, url in urls.items():
-        logging.info(f"Downloading data for {year} from {url}")
-        df = pd.read_csv(url)
-        df.drop_duplicates(inplace=True)
-        df.to_csv(f"data-raw/KYTC-TOC-Weather-Closures-Historic-{year}.csv", index=False)
-        dfs[year] = df
-    return dfs
+def download_data(year=None):
+    year = year or datetime.now().year
+    url = (
+        f"https://storage.googleapis.com/kytc-its-2020-openrecords/toc/"
+        f"KYTC-TOC-Weather-Closures-Historic-{year}.csv"
+    )
+    logging.info(f"Downloading data for {year} from {url}")
+    df = pd.read_csv(url)
+    df.drop_duplicates(inplace=True)
+    raw_path = f"data-raw/KYTC-TOC-Weather-Closures-Historic-{year}.csv"
+    df.to_csv(raw_path, index=False)
+    return {str(year): df}
 
 def clean_tl(df):
     df['End_Date'] = df['End_Date'].str.replace('+00:00', '', regex=False)
@@ -53,58 +51,73 @@ def clean_google_link(df):
     return df
 
 def drop_duplicate_events(df):
-    subset = ['latitude', 'longitude', 'Reported_On', 'Comments']
+    subset = ['District','County','Route','Road_Name','Begin_MP','End_MP',
+              'Comments','Reported_On','End_Date','latitude','longitude',
+              'Duration_Default','Duration_Hours']
     return df.sort_values(by='End_Date', ascending=False).drop_duplicates(subset=subset)
 
 def process_and_save_cleaned(dfs):
     order = ['District','County','Route','Road_Name','Begin_MP','End_MP','Comments','Reported_On','End_Date','latitude','longitude','Duration_Default','Duration_Hours']
     cleaned = {}
-    # 2021: ESRI link
-    df2021 = clean_esri_link(dfs['2021'])
-    df2021 = clean_tl(df2021)
-    df2021 = df2021[order]
-    # Filter out records where Reported_On is prior to 2021-01-01
-    df2021 = df2021[df2021['Reported_On'] >= pd.Timestamp('2021-01-01')]
-    df2021 = df2021[df2021['Duration_Hours'] > 0]
-    df2021 = drop_duplicate_events(df2021)
-    df2021.to_csv("data-clean/kytc-closures-2021-clean.csv", index=False)
-    cleaned['2021'] = df2021
-    # 2022-2026: Google link
-    for year in ['2022', '2023', '2024', '2025','2026']:
-        df = clean_google_link(dfs[year])
+    clean_dir = Path('data-clean')
+    for stale in clean_dir.glob('kytc-closures-*-clean.csv'):
+        stale.unlink()
+    for year in sorted(dfs.keys(), key=int):
+        df = dfs[year].copy()
+        if 'Route_Link' in df.columns:
+            detector = df['Route_Link'].dropna()
+            if detector.empty:
+                raise ValueError('Route_Link column is empty; cannot parse coordinates')
+            sample = detector.iloc[0].lower()
+            if 'goky.ky.gov' in sample:
+                df = clean_google_link(df)
+            elif 'maps.arcgis.com' in sample:
+                df = clean_esri_link(df)
+            else:
+                raise ValueError(f"Cannot determine how to clean Route_Link values: {sample}")
         df = clean_tl(df)
         df = df[order]
         df = df[df['Duration_Hours'] > 0]
+        df = df[df['Reported_On'] >= pd.Timestamp('2021-01-01')]
         df = drop_duplicate_events(df)
-        df.to_csv(f"data-clean/kytc-closures-{year}-clean.csv", index=False)
-        cleaned[year] = df
+        df['Reported_Year'] = df['Reported_On'].dt.year
+        for reported_year, partition in df.groupby('Reported_Year'):
+            partition = partition.drop(columns='Reported_Year').copy()
+            year_key = str(reported_year)
+            if year_key in cleaned:
+                combined = pd.concat([cleaned[year_key], partition], ignore_index=True)
+                combined = drop_duplicate_events(combined)
+                cleaned[year_key] = combined
+            else:
+                cleaned[year_key] = partition
+            clean_path = f"data-clean/kytc-closures-{year_key}-clean.csv"
+            cleaned[year_key].to_csv(clean_path, index=False)
     return cleaned
 
 def merge_and_export(cleaned):
     col_order = ['District','County','Route','Road_Name','Begin_MP','End_MP','Comments','Reported_On','End_Date','latitude','longitude','Duration_Default','Duration_Hours']
-    dfs = [cleaned[year] for year in ['2021','2022','2023','2024','2025','2026']]
+    dfs = [cleaned[year] for year in sorted(cleaned.keys(), key=int)]
     df = pd.concat(dfs)
     df = df[col_order]
     # Keep most recent record for each location/comment tuple before dedup
     df = df.sort_values(by='End_Date', ascending=False)
-    df = df.drop_duplicates(subset=['latitude', 'longitude', 'Reported_On', 'Comments'])
+    df = df.drop_duplicates(subset=['District','County','Route','Road_Name','Begin_MP','End_MP',
+                                   'Comments','Reported_On','End_Date','latitude','longitude',
+                                   'Duration_Default','Duration_Hours'])
     # CSV export with error handling
     try:
-        df.to_csv("data-reportready/kytc-closures-2021-2026-report_dataset.csv", index=False)
         df.to_csv("data-reportready/kytc-closures-report_dataset.csv", index=False)
         logging.info("Exported merged dataset to CSV.")
     except Exception as e:
         logging.warning(f"CSV export failed: {e}")
     # XLSX export
     try:
-        df.to_excel("data-reportready/kytc-closures-2021-2026-report_dataset.xlsx", index=False)
         df.to_excel("data-reportready/kytc-closures-report_dataset.xlsx", index=False)
         logging.info("Exported merged dataset to XLSX.")
     except Exception as e:
         logging.warning(f"Excel export failed: {e}")
     # Parquet export
     try:
-        df.to_parquet("data-reportready/kytc-closures-2021-2026-report_dataset.parquet", index=False)
         df.to_parquet("data-reportready/kytc-closures-report_dataset.parquet", index=False)
         logging.info("Exported merged dataset to Parquet.")
     except Exception as e:
