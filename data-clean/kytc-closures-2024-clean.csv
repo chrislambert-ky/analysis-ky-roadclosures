@@ -40,17 +40,17 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 1,Lyon,KY-1943,KY-1943,3.0,4.0,,2024-12-19 08:26:57,2024-12-19 08:32:01,37.139836,-88.114472,0 days 00:05:04,0.0844
 12,Pike,KY-197,KY-197,5.0,5.0,"In both directions, road blocked due to a rock slide.",2024-12-18 20:06:03,2024-12-18 22:18:02,37.244726,-82.504242,0 days 02:11:59,2.1997
 1,McCracken,KY-1255,BONDS RD,0.1,2.3,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-12-18 14:31:17,2024-12-18 18:04:01,36.958417,-88.583211,0 days 03:32:44,3.5456
-2,Webster,KY-138,KY-138,10.4,10.7,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-12-18 10:04:35,2024-12-18 15:28:01,37.489418,-87.501582,0 days 05:23:26,5.3906
 2,Webster,KY-270,KY-270,6.8,8.3,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-12-18 10:04:35,2024-12-18 15:28:01,37.468124,-87.795915,0 days 05:23:26,5.3906
-3,Warren,KY-263,RIVERSIDE-BENLEO RD,10.0,10.0,Roadway blocked due to flooding. Updates as available.,2024-12-18 10:07:57,2024-12-18 14:52:01,37.134117,-86.557289,0 days 04:44:04,4.7344
+2,Webster,KY-138,KY-138,10.4,10.7,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-12-18 10:04:35,2024-12-18 15:28:01,37.489418,-87.501582,0 days 05:23:26,5.3906
 3,Warren,US-31W,LOUISVILLE RD,27.0,28.0,Roadway blocked due to flooding. Updates as available.,2024-12-18 10:09:04,2024-12-18 14:52:01,37.08177,-86.237607,0 days 04:42:57,4.7158
+3,Warren,KY-263,RIVERSIDE-BENLEO RD,10.0,10.0,Roadway blocked due to flooding. Updates as available.,2024-12-18 10:07:57,2024-12-18 14:52:01,37.134117,-86.557289,0 days 04:44:04,4.7344
 3,Warren,KY-263,RICHARDSVILLE RD,6.0,7.0,Roadway blocked due to flooding. Updates as available.,2024-12-18 10:09:04,2024-12-18 14:52:01,37.138035,-86.524386,0 days 04:42:57,4.7158
 4,Breckinridge,KY-2779,NEW BETHEL RD,3.4,3.4,Both directions all lanes blocked due to high water. Seek alternate route.,2024-12-18 09:52:58,2024-12-18 12:54:00,37.86447,-86.513487,0 days 03:01:02,3.0172
 2,Daviess,KY-298,HILL BRIDGE RD,2.0,3.0,,2024-12-17 15:50:14,2024-12-17 15:52:05,37.67688,-87.101148,0 days 00:01:51,0.0308
 1,Lyon,KY-1943,KY-1943,3.0,4.0,Roadway blocked due to flooding.  Updates as available.,2024-12-16 17:18:25,2024-12-17 15:12:01,37.139836,-88.114472,0 days 21:53:36,21.8933
 1,Livingston,KY-133,SHELBY RD,3.0,4.0,Roadway blocked due to flooding. Updates as available.,2024-12-16 12:57:17,2024-12-16 14:02:01,37.254196,-88.22974,0 days 01:04:44,1.0789
-1,Livingston,KY-453,IUKA RD,13.0,14.0,Roadway blocked due to flooding. Updates as available.,2024-12-16 12:56:26,2024-12-16 13:28:01,37.108154,-88.380679,0 days 00:31:35,0.5264
 1,Livingston,US-60,US-60,10.0,11.0,Roadway blocked due to flooding. Updates as available.,2024-12-16 12:53:49,2024-12-16 13:28:01,37.111706,-88.403481,0 days 00:34:12,0.57
+1,Livingston,KY-453,IUKA RD,13.0,14.0,Roadway blocked due to flooding. Updates as available.,2024-12-16 12:56:26,2024-12-16 13:28:01,37.108154,-88.380679,0 days 00:31:35,0.5264
 2,Daviess,KY-762,KY-762,2.0,2.7,Roadway blocked due to flooding. Updates as available.,2024-11-14 10:22:22,2024-11-15 12:54:02,37.648942,-86.953344,1 days 02:31:40,26.5278
 2,Daviess,KY-762,KY-762,1.0,1.0,Roadway blocked due to flooding.  Updates as available.,2024-11-13 22:37:25,2024-11-15 12:54:02,37.648942,-86.953344,1 days 14:16:37,38.2769
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.2,1.2,Roadway blocked due to flooding. Updates as available.,2024-11-14 08:22:53,2024-11-15 08:10:05,36.870244,-88.327823,0 days 23:47:12,23.7867
@@ -62,8 +62,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 2,Daviess,KY-762,KY-762,2.0,2.7,The roadway is blocked due to flooding.  Updates as available.,2024-11-13 22:37:25,2024-11-14 10:18:01,37.648942,-86.953344,0 days 11:40:36,11.6767
 2,Webster,KY-138,KY-138,10.0,10.7,Roadway blocked due to flooding.  Updates as available.,2024-11-13 18:13:01,2024-11-14 08:54:02,37.495165,-87.502568,0 days 14:41:01,14.6836
 1,Lyon,KY-1943,KY-1943,3.4,3.4,Roadway blocked due to flooding.  Updates as available.,2024-05-14 20:24:52,2024-11-14 07:36:01,37.145587,-88.114218,183 days 11:11:09,4403.1858
-2,Webster,KY-138,KY-138,10.0,10.0,Roadway blocked due to flooding. Updates as available.,2024-11-10 13:10:23,2024-11-12 15:12:02,37.495204,-87.502614,2 days 02:01:39,50.0275
 2,Daviess,KY-298,HILL BRIDGE RD,2.8,2.9,Roadway blocked due to flooding. Updates as available.,2024-11-11 00:26:35,2024-11-12 15:12:02,37.678452,-87.089053,1 days 14:45:27,38.7575
+2,Webster,KY-138,KY-138,10.0,10.0,Roadway blocked due to flooding. Updates as available.,2024-11-10 13:10:23,2024-11-12 15:12:02,37.495204,-87.502614,2 days 02:01:39,50.0275
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.2,1.2,Roadway blocked due to flooding. Updates as avaialable. ,2024-11-11 11:06:28,2024-11-12 15:08:02,36.870244,-88.327823,1 days 04:01:34,28.0261
 1,Lyon,KY-1943,KY-1943,3.0,4.0,Roadway blocked due to high water. Updates as available. ,2024-11-10 12:51:55,2024-11-11 14:46:02,37.139836,-88.114472,1 days 01:54:07,25.9019
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,1.2,1.2,Road blocked due to flooding.,2024-11-11 11:06:28,2024-11-11 14:42:06,36.870244,-88.327823,0 days 03:35:38,3.5939
@@ -79,8 +79,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,0.1,0.1,BLOCKED DUE TO HIGH WATER 0-1.3 MM,2024-09-28 13:32:06,2024-09-30 13:12:06,36.858267,-88.340019,1 days 23:40:00,47.6667
 2,Henderson,KY-1557,HOUSEBRIDGE RD,3.0,3.0,Road blocked due to flooding.  Seek alternate route.,2024-09-27 14:29:59,2024-09-30 09:34:07,37.71899,-87.723532,2 days 19:04:08,67.0689
 2,Henderson,KY-1557,HOUSEBRIDGE RD,3.0,3.6,Road blocked due to flooding.  Seek alternate route.,2024-09-27 14:29:59,2024-09-30 08:32:05,37.71899,-87.723532,2 days 18:02:06,66.035
-1,Fulton,KY-1128,KY-1128,4.0,4.0,NO LANES BLOCKED,2024-09-27 19:53:32,2024-09-28 14:28:06,36.532283,-89.102413,0 days 18:34:34,18.5761
 1,Fulton,KY-94,KY-94 E,23.0,23.0,NO LANES BLOCKED,2024-09-27 19:48:31,2024-09-28 14:28:06,36.554134,-89.009224,0 days 18:39:35,18.6597
+1,Fulton,KY-1128,KY-1128,4.0,4.0,NO LANES BLOCKED,2024-09-27 19:53:32,2024-09-28 14:28:06,36.532283,-89.102413,0 days 18:34:34,18.5761
 1,Fulton,KY-94,KY-94 W,7.0,7.0,NO LANES BLOCKED,2024-09-27 19:43:08,2024-09-28 14:24:06,36.553336,-89.275884,0 days 18:40:58,18.6828
 12,Letcher,KY-931,KY-931,8.0,8.0,Roadway blocked due to flooding.  Updates as available.,2024-09-27 20:18:32,2024-09-28 13:52:07,37.097248,-82.851205,0 days 17:33:35,17.5597
 12,Letcher,KY-1811,KY-1811,0.1,0.1,Road blocked due to flooding.  Updates as available.,2024-09-27 20:15:50,2024-09-28 13:44:06,37.154883,-82.873004,0 days 17:28:16,17.4711
@@ -116,13 +116,13 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 11,Bell,KY-66,KY-66,10.0,10.0,ROAD OPEN,2024-08-02 13:27:42,2024-08-04 15:50:02,36.870409,-83.615654,2 days 02:22:20,50.3722
 11,Bell,KY-66,KY-66,10.0,10.0,Road blocked due to flooding.  Updates as available.,2024-08-02 13:27:42,2024-08-04 14:48:01,36.870409,-83.615654,2 days 01:20:19,49.3386
 11,Bell,KY-66,KY-66,5.0,5.0,Road blocked due to flooding.  Updates as available.,2024-08-02 13:27:42,2024-08-02 14:20:02,36.808111,-83.646386,0 days 00:52:20,0.8722
-11,Bell,KY-66,KY-66,5.0,5.0,,2024-07-31 14:03:28,2024-08-02 13:28:02,36.806658,-83.646414,1 days 23:24:34,47.4094
+11,Bell,KY-66,KY-66,5.0,5.0,,2024-07-31 14:03:28,2024-08-02 13:28:02,36.808111,-83.646386,1 days 23:24:34,47.4094
 11,Bell,KY-66,KY-66,5.0,5.0,Roadway blocked due to flooding. Updates as available.,2024-07-31 14:03:28,2024-07-31 19:04:02,36.806658,-83.646414,0 days 05:00:34,5.0094
 11,Bell,KY-66,KY-66,5.0,5.0,"Road blocked due to flooding, seek alternate route.  Updates as available.",2024-07-31 14:03:28,2024-07-31 15:44:02,36.806658,-83.646414,0 days 01:40:34,1.6761
 2,Webster,KY-270,KY-270,7.0,7.0,Road blocked due to flooding. Updates as available.,2024-07-17 08:52:30,2024-07-22 11:14:00,37.468124,-87.795915,5 days 02:21:30,122.3583
-2,Daviess,KY-1207,KY-1207,0.1,0.1,Road blocked due to flooding. Updates as available.,2024-07-17 08:48:53,2024-07-18 15:14:01,37.633919,-87.191646,1 days 06:25:08,30.4189
-2,Webster,KY-138,KY-138,10.0,10.0,Road blocked due to flooding. Updates as available.,2024-07-17 08:51:20,2024-07-18 15:14:01,37.495164,-87.502568,1 days 06:22:41,30.3781
 2,Daviess,KY-2127,TODD BRIDGE RD,0.5,0.5,Road blocked due to flooding. Updates as available.,2024-07-17 08:45:06,2024-07-18 15:14:01,37.639602,-87.17577,1 days 06:28:55,30.4819
+2,Webster,KY-138,KY-138,10.0,10.0,Road blocked due to flooding. Updates as available.,2024-07-17 08:51:20,2024-07-18 15:14:01,37.495164,-87.502568,1 days 06:22:41,30.3781
+2,Daviess,KY-1207,KY-1207,0.1,0.1,Road blocked due to flooding. Updates as available.,2024-07-17 08:48:53,2024-07-18 15:14:01,37.633919,-87.191646,1 days 06:25:08,30.4189
 2,Webster,US-41,US-41,3.0,3.0,Roadway blocked due to flooding. Updates as available.,2024-07-17 01:51:05,2024-07-17 16:22:01,37.531227,-87.480657,0 days 14:30:56,14.5156
 2,Webster,US-41,US-41,3.0,4.0,Roadway blocked due to flooding. Updates as available.,2024-07-17 01:51:05,2024-07-17 15:22:01,37.531227,-87.480657,0 days 13:30:56,13.5156
 2,Daviess,KY-2127,TODD BRIDGE RD,0.5,0.5,,2024-07-17 08:45:06,2024-07-17 08:46:02,37.639602,-87.17577,0 days 00:00:56,0.0156
@@ -148,24 +148,24 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 3,Monroe,KY-678,STRINGTOWN FLIPPIN RD,8.6,8.6,,2024-05-29 19:00:57,2024-05-29 19:02:02,36.753349,-85.851209,0 days 00:01:05,0.0181
 3,Logan,KY-1153,BEECHLAND RD,3.6,3.6,,2024-05-29 18:57:50,2024-05-29 18:58:02,37.041367,-86.912456,0 days 00:00:12,0.0033
 2,Daviess,KY-298,HILL BRIDGE RD,2.0,2.0,,2024-05-29 17:41:59,2024-05-29 18:02:01,37.67688,-87.101148,0 days 00:20:02,0.3339
-3,Logan,KY-1153,BEECHLAND RD,3.6,3.6,Roadway blocked due to flooding. Updates as available.,2024-05-09 13:45:32,2024-05-29 12:24:01,37.041367,-86.912456,19 days 22:38:29,478.6414
-1,Hickman,KY-123,KY-123 W,14.0,16.0,Roadway blocked due to flooding. Updates as avilable.,2024-05-26 19:23:10,2024-05-29 12:24:01,36.663684,-89.08069,2 days 17:00:51,65.0142
-1,Carlisle,KY-1820,KY-1820,5.0,6.0,Roadway blocked due to flooding.  Updates as available.,2024-05-28 16:10:19,2024-05-29 12:24:01,36.941257,-88.836953,0 days 20:13:42,20.2283
-2,Muhlenberg,KY-1473,KY-1473,0.1,3.0,Roadway blocked due to flooding. Updates as available.,2024-05-27 21:27:49,2024-05-29 12:24:01,37.141061,-87.261456,1 days 14:56:12,38.9367
-11,Bell,KY-66,KY-66,15.1,15.2,"KY 66 reduced to one lane, 7am - 5pm, Monday - Friday for slide repair operations.",2024-05-15 07:00:00,2024-05-29 12:24:01,36.917844,-83.569248,14 days 05:24:01,341.4003
-3,Butler,KY-369,FERRY ST,0.6,0.6,Rochester Ferry closed due to high water.,2024-05-24 11:19:50,2024-05-29 12:24:01,37.214177,-86.893904,5 days 01:04:11,121.0697
 2,Hopkins,KY-109,CHARLESTON RD,4.0,5.8,Roadway blocked due to flooding. Updates as available.,2024-05-27 03:32:17,2024-05-29 12:24:01,37.20042,-87.689188,2 days 08:51:44,56.8622
-3,Logan,KY-107,DEER LICK RD,3.6,5.0,Roadway blocked due to flooding. Updates as available. ,2024-05-09 08:23:33,2024-05-29 12:24:01,37.012597,-86.995426,20 days 04:00:28,484.0078
-2,Muhlenberg,KY-1379,KY-1379,0.1,3.0,Roadway blocked due to flooding. Updates as available.,2024-05-28 15:46:31,2024-05-29 12:24:01,37.321983,-87.106003,0 days 20:37:30,20.625
-3,Butler,KY-269,KY-269,1.6,1.6,Reeds Ferry closed due to high water conditions.,2024-05-24 08:13:49,2024-05-29 12:24:01,37.259657,-86.776629,5 days 04:10:12,124.17
-3,Monroe,KY-678,STRINGTOWN FLIPPIN RD,8.5,8.5,Roadway blocked due to flooding.  Updates as available.,2024-05-10 08:16:29,2024-05-29 12:24:01,36.753991,-85.85279,19 days 04:07:32,460.1256
-3,Simpson,KY-664,SULPHUR SPRING CHURCH RD,0.1,0.1,Roadway blocked due to fllooding.  Updates as available.,2024-05-27 19:21:51,2024-05-29 12:24:01,36.724732,-86.749788,1 days 17:02:10,41.0361
 3,Warren,KY-1435,BARREN RIVER RD,11.0,12.0,Road blocked due to flooding.,2024-05-29 11:24:31,2024-05-29 12:24:01,37.103585,-86.587709,0 days 00:59:30,0.9917
-2,Webster,KY-270,KY-270,6.6,8.3,Roadway blocked due to flooding. Updates as available.,2024-05-27 02:56:30,2024-05-29 12:24:01,37.470377,-87.798225,2 days 09:27:31,57.4586
-3,Simpson,KY-621,STEVENSON RD,6.6,6.6,Roadway blocked due to flooding. Updates as available.,2024-05-27 05:33:27,2024-05-29 12:24:01,36.803494,-86.582794,2 days 06:50:34,54.8428
+3,Butler,KY-269,KY-269,1.6,1.6,Reeds Ferry closed due to high water conditions.,2024-05-24 08:13:49,2024-05-29 12:24:01,37.259657,-86.776629,5 days 04:10:12,124.17
+3,Butler,KY-369,FERRY ST,0.6,0.6,Rochester Ferry closed due to high water.,2024-05-24 11:19:50,2024-05-29 12:24:01,37.214177,-86.893904,5 days 01:04:11,121.0697
 1,Carlisle,KY-1820,KY-1820,1.0,2.0,Roadway blocked due to flooding. Updates as avilable.,2024-05-26 15:17:59,2024-05-29 12:24:01,36.922127,-88.88978,2 days 21:06:02,69.1006
-1,McCracken,KY-1255,BONDS RD,1.0,2.0,Roadway blocked due to flooding. Updates as avilable.,2024-05-26 18:41:47,2024-05-29 06:40:01,36.956213,-88.567041,2 days 11:58:14,59.9706
+1,Hickman,KY-123,KY-123 W,14.0,16.0,Roadway blocked due to flooding. Updates as avilable.,2024-05-26 19:23:10,2024-05-29 12:24:01,36.663684,-89.08069,2 days 17:00:51,65.0142
+3,Monroe,KY-678,STRINGTOWN FLIPPIN RD,8.5,8.5,Roadway blocked due to flooding.  Updates as available.,2024-05-10 08:16:29,2024-05-29 12:24:01,36.753991,-85.85279,19 days 04:07:32,460.1256
+2,Muhlenberg,KY-1473,KY-1473,0.1,3.0,Roadway blocked due to flooding. Updates as available.,2024-05-27 21:27:49,2024-05-29 12:24:01,37.141061,-87.261456,1 days 14:56:12,38.9367
+3,Simpson,KY-621,STEVENSON RD,6.6,6.6,Roadway blocked due to flooding. Updates as available.,2024-05-27 05:33:27,2024-05-29 12:24:01,36.803494,-86.582794,2 days 06:50:34,54.8428
+3,Logan,KY-107,DEER LICK RD,3.6,5.0,Roadway blocked due to flooding. Updates as available. ,2024-05-09 08:23:33,2024-05-29 12:24:01,37.012597,-86.995426,20 days 04:00:28,484.0078
+3,Logan,KY-1153,BEECHLAND RD,3.6,3.6,Roadway blocked due to flooding. Updates as available.,2024-05-09 13:45:32,2024-05-29 12:24:01,37.041367,-86.912456,19 days 22:38:29,478.6414
+3,Simpson,KY-664,SULPHUR SPRING CHURCH RD,0.1,0.1,Roadway blocked due to fllooding.  Updates as available.,2024-05-27 19:21:51,2024-05-29 12:24:01,36.724732,-86.749788,1 days 17:02:10,41.0361
+11,Bell,KY-66,KY-66,15.1,15.2,"KY 66 reduced to one lane, 7am - 5pm, Monday - Friday for slide repair operations.",2024-05-15 07:00:00,2024-05-29 12:24:01,36.917844,-83.569248,14 days 05:24:01,341.4003
+1,Carlisle,KY-1820,KY-1820,5.0,6.0,Roadway blocked due to flooding.  Updates as available.,2024-05-28 16:10:19,2024-05-29 12:24:01,36.941257,-88.836953,0 days 20:13:42,20.2283
+2,Muhlenberg,KY-1379,KY-1379,0.1,3.0,Roadway blocked due to flooding. Updates as available.,2024-05-28 15:46:31,2024-05-29 12:24:01,37.321983,-87.106003,0 days 20:37:30,20.625
+2,Webster,KY-270,KY-270,6.6,8.3,Roadway blocked due to flooding. Updates as available.,2024-05-27 02:56:30,2024-05-29 12:24:01,37.470377,-87.798225,2 days 09:27:31,57.4586
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,0.1,2.0,Roadway blocked due to flooding. Updates as avilable.,2024-05-26 18:43:55,2024-05-29 06:40:01,36.858267,-88.340019,2 days 11:56:06,59.935
+1,McCracken,KY-1255,BONDS RD,1.0,2.0,Roadway blocked due to flooding. Updates as avilable.,2024-05-26 18:41:47,2024-05-29 06:40:01,36.956213,-88.567041,2 days 11:58:14,59.9706
 3,Simpson,KY-664,SULPHUR SPRING CHURCH RD,0.1,0.1,Roadway blodked due to fllooding.  Updates as available.,2024-05-27 19:21:51,2024-05-29 00:06:01,36.724732,-86.749788,1 days 04:44:10,28.7361
 2,Daviess,KY-762,KY-762,0.1,2.0,Roadway blocked due to flooding. Updates as available.,2024-05-26 23:48:37,2024-05-28 18:04:01,37.629098,-86.94232,1 days 18:15:24,42.2567
 2,Hopkins,KY-109,CHARLESTON RD,9.3,9.3,Roadway blocked due to flooding. Updates as available.,2024-05-27 03:32:17,2024-05-28 15:30:01,37.270356,-87.684202,1 days 11:57:44,35.9622
@@ -184,8 +184,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 1,Carlisle,US-62,US-62,4.0,6.0,Roadway blocked due to flooding. Updates as avilable.,2024-05-26 16:12:53,2024-05-27 14:20:01,36.899912,-88.951315,0 days 22:07:08,22.1189
 2,Webster,KY-2836,KY-2836,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2024-05-27 02:54:38,2024-05-27 14:02:01,37.462026,-87.692224,0 days 11:07:23,11.1231
 2,Hopkins,KY-1033,VANDETTA RD,1.0,2.0,Roadway blocked due to flooding. Updates as available.,2024-05-24 14:07:18,2024-05-27 12:28:01,37.455622,-87.438459,2 days 22:20:43,70.3453
-2,Union,KY-760,KY-760,1.5,2.6,Roadway blocked due to flooding. Updates as available.,2024-05-26 23:26:04,2024-05-27 12:26:01,37.727121,-87.792094,0 days 12:59:57,12.9992
 2,Union,KY-948,KY-948,1.0,2.3,Roadway blocked due to flooding. Updates as available.,2024-05-26 23:27:19,2024-05-27 12:26:01,37.717052,-87.937583,0 days 12:58:42,12.9783
+2,Union,KY-760,KY-760,1.5,2.6,Roadway blocked due to flooding. Updates as available.,2024-05-26 23:26:04,2024-05-27 12:26:01,37.727121,-87.792094,0 days 12:59:57,12.9992
 2,Webster,KY-270,KY-270,10.5,10.7,Roadway blocked due to flooding. Updates as available.,2024-05-25 09:57:54,2024-05-27 12:24:01,37.462234,-87.740202,2 days 02:26:07,50.4353
 3,Allen,KY-3500,OLD GALLATIN RD,0.1,4.0,Both directions all lanes blocked due to flooding Seek alternate route.,2024-05-27 08:21:42,2024-05-27 12:16:01,36.697001,-86.250987,0 days 03:54:19,3.9053
 2,Henderson,US-41,US-41 NORTH NC,16.0,17.0,Roadway blocked due to flooding. Updates as available.,2024-05-27 00:50:23,2024-05-27 11:54:01,37.857281,-87.573406,0 days 11:03:38,11.0606
@@ -195,8 +195,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 1,Carlisle,KY-80,KY-80 W,2.9,2.9,Roadway blocked due to flooding. Updates as avilable.,2024-05-26 10:29:45,2024-05-26 15:34:01,36.789039,-89.013536,0 days 05:04:16,5.0711
 2,Webster,KY-270,KY-270,10.5,10.7,Roadway blocked due to flooding. Updates as appropriate,2024-05-25 09:57:54,2024-05-25 16:08:01,37.462234,-87.740202,0 days 06:10:07,6.1686
 2,Webster,KY-138,KY-138,10.5,10.5,Roadway blocked due to flooding. Updates as appropriate,2024-05-25 09:53:33,2024-05-25 16:06:01,37.489001,-87.500455,0 days 06:12:28,6.2078
-2,Daviess,KY-298,HILL BRIDGE RD,2.0,3.0,Road blocked due to flooding.,2024-05-24 14:06:27,2024-05-25 16:06:01,37.67688,-87.101148,1 days 01:59:34,25.9928
 2,Hopkins,KY-1033,VANDETTA RD,1.0,2.0,Road blocked due to flooding.,2024-05-24 14:07:18,2024-05-25 16:06:01,37.455622,-87.438459,1 days 01:58:43,25.9786
+2,Daviess,KY-298,HILL BRIDGE RD,2.0,3.0,Road blocked due to flooding.,2024-05-24 14:06:27,2024-05-25 16:06:01,37.67688,-87.101148,1 days 01:59:34,25.9928
 2,Webster,KY-270,KY-270,10.0,10.0,Roadway blocked due to flooding. Updates as appropriate,2024-05-25 09:57:54,2024-05-25 10:02:00,37.460404,-87.748068,0 days 00:04:06,0.0683
 2,Webster,KY-120,KY-120,10.5,11.0,Roadway blocked due to flooding.  Updates as available.,2024-05-23 19:07:54,2024-05-23 21:48:01,37.438587,-87.67696,0 days 02:40:07,2.6686
 2,Union,KY-1637,KY-1637,0.1,2.9,Roadway blocked due to flooding. Updates as appropriate,2024-05-12 21:38:57,2024-05-20 11:52:01,37.778045,-87.874629,7 days 14:13:04,182.2178
@@ -219,8 +219,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 7,Jessamine,KY-169,TATES CREEK RD,0.1,0.1,Valley View ferry closed due to flooding. Updates as available.,2024-05-10 12:49:29,2024-05-12 07:10:01,37.848476,-84.437698,1 days 18:20:32,42.3422
 8,Pulaski,KY-1642,KY-1642,3.9,4.6,Roadway blocked due to flooding. Updates as available.,2024-05-09 06:55:56,2024-05-11 22:38:01,37.031832,-84.640432,2 days 15:42:05,63.7014
 2,Webster,KY-270,KY-270,7.0,8.5,Roadway blocked due to flooding. Updates as available.,2024-05-09 13:51:07,2024-05-11 18:16:00,37.466621,-87.792794,2 days 04:24:53,52.4147
-1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,2.0,2.0,Roadway blocked  due to flooding. Updates as available.,2024-05-08 12:48:55,2024-05-11 16:30:01,36.876923,-88.316464,3 days 03:41:06,75.685
 1,Carlisle,KY-1628,KY-1628,4.0,5.0,Roadway blocked due to flooding. Updates as available.,2024-05-09 09:01:43,2024-05-11 16:30:01,36.921134,-88.862488,2 days 07:28:18,55.4717
+1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,2.0,2.0,Roadway blocked  due to flooding. Updates as available.,2024-05-08 12:48:55,2024-05-11 16:30:01,36.876923,-88.316464,3 days 03:41:06,75.685
 3,Warren,KY-2665,GLEN LILY RD,5.5,5.5,Road blocked due to flooding.  Updates as available.,2024-05-10 13:12:49,2024-05-11 13:06:01,37.000368,-86.486837,0 days 23:53:12,23.8867
 3,Monroe,KY-678,STRINGTOWN FLIPPIN RD,8.5,8.5,Roadway blocked due to flooding. Updates as available.,2024-05-09 07:16:45,2024-05-11 13:04:01,36.753991,-85.85279,2 days 05:47:16,53.7878
 3,Logan,KY-3201,COOPERTOWN QUALITY RD,0.1,0.9,Roadway blocked due to flooding. Updates as available.,2024-05-09 08:21:56,2024-05-11 13:00:01,36.953097,-86.875688,2 days 04:38:05,52.6347
@@ -228,8 +228,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 3,Logan,KY-107,DEER LICK RD,3.6,5.0,Roadway blocked due to flooding. Updates as available. ROAD IS OPEN,2024-05-09 08:23:33,2024-05-11 13:00:01,37.012597,-86.995426,2 days 04:36:28,52.6078
 3,Logan,KY-107,DEER LICK RD,3.6,5.0,Roadway blocked due to flooding. Updates as available.,2024-05-09 08:23:33,2024-05-11 12:58:01,37.012597,-86.995426,2 days 04:34:28,52.5744
 3,Logan,KY-765,CONN RD,3.0,3.4,Roadway blocked due to flooding. Updates as available.,2024-05-09 08:22:45,2024-05-11 12:58:01,36.685405,-86.785013,2 days 04:35:16,52.5878
-3,Allen,KY-585,OLD FRANKLIN RD,7.0,7.1,Roadway blocked due to flooding. Updates as available.,2024-05-09 07:29:33,2024-05-11 12:56:00,36.740437,-86.290964,2 days 05:26:27,53.4408
 3,Allen,KY-1332,POPE RD,3.8,3.9,Roadway blocked due to flooding. Updates as available.,2024-05-09 07:30:22,2024-05-11 12:56:00,36.780943,-86.313724,2 days 05:25:38,53.4272
+3,Allen,KY-585,OLD FRANKLIN RD,7.0,7.1,Roadway blocked due to flooding. Updates as available.,2024-05-09 07:29:33,2024-05-11 12:56:00,36.740437,-86.290964,2 days 05:26:27,53.4408
 12,Knott,KY-15,SMITHBORO RD,6.0,8.0,,2024-05-11 05:51:36,2024-05-11 06:08:01,37.22936,-83.003501,0 days 00:16:25,0.2736
 1,Graves,KY-384,KY-384,0.1,1.2,Roadway blocked due to flooding.  Updates as available.,2024-05-09 19:19:44,2024-05-10 15:06:01,36.726631,-88.784084,0 days 19:46:17,19.7714
 2,Webster,KY-132,KY-132,12.4,12.6,Roadway blocked due to flooding. Updates as availablle.,2024-05-08 20:43:54,2024-05-10 15:04:01,37.524209,-87.761313,1 days 18:20:07,42.3353
@@ -237,32 +237,32 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 3,Monroe,KY-678,STRINGTOWN FLIPPIN RD,8.5,8.5,WATER OVER THE ROAD,2024-05-10 08:16:29,2024-05-10 08:22:01,36.753991,-85.85279,0 days 00:05:32,0.0922
 3,Simpson,KY-621,STEVENSON RD,6.0,7.0,Roadway blocked due to flooding. Updates as available.,2024-05-09 07:13:30,2024-05-10 08:14:01,36.811005,-86.588017,1 days 01:00:31,25.0086
 3,Simpson,KY-1171,BLACKJACK RD,2.0,5.0,Roadway blocked due to flooding. Updates as available.,2024-05-09 05:47:38,2024-05-10 08:12:01,36.745085,-86.556452,1 days 02:24:23,26.4064
-8,Casey,KY-2313,RANDOLPH ST,0.3,0.1,Roadway blocked due to flooding. Updates as available.,2024-05-09 04:03:44,2024-05-09 19:20:01,37.312601,-84.93926,0 days 15:16:17,15.2714
 8,Casey,KY-70X,KY-70X,1.0,2.1,Roadway blocked due to flooding. Updates as available.,2024-05-09 06:54:18,2024-05-09 19:20:01,37.312965,-84.95738,0 days 12:25:43,12.4286
+8,Casey,KY-2313,RANDOLPH ST,0.3,0.1,Roadway blocked due to flooding. Updates as available.,2024-05-09 04:03:44,2024-05-09 19:20:01,37.312601,-84.93926,0 days 15:16:17,15.2714
+3,Monroe,KY-678,STRINGTOWN FLIPPIN RD,8.5,8.5,Road blocked due to flooding at this location.,2024-05-09 07:16:45,2024-05-09 14:54:00,36.753991,-85.85279,0 days 07:37:15,7.6208
 3,Simpson,KY-621,STEVENSON RD,6.0,7.0,Road blocked due to flooding at this location.,2024-05-09 07:13:30,2024-05-09 14:54:00,36.811005,-86.588017,0 days 07:40:30,7.675
 3,Simpson,KY-2593,WITT RD,1.0,2.0,Road blocked due to flooding at this location.,2024-05-09 07:15:03,2024-05-09 14:54:00,36.654138,-86.589142,0 days 07:38:57,7.6492
-3,Monroe,KY-678,STRINGTOWN FLIPPIN RD,8.5,8.5,Road blocked due to flooding at this location.,2024-05-09 07:16:45,2024-05-09 14:54:00,36.753991,-85.85279,0 days 07:37:15,7.6208
-8,McCreary,KY-1363,YAMACRAW - BELL FARM RD,8.0,8.0,Road blocked due to flooding at this location.,2024-05-09 10:20:49,2024-05-09 14:52:00,36.706932,-84.575018,0 days 04:31:11,4.5197
-3,Logan,KY-3201,COOPERTOWN QUALITY RD,0.1,0.9,Road blocked due to flooding at this location.,2024-05-09 08:21:56,2024-05-09 14:52:00,36.953097,-86.875688,0 days 06:30:04,6.5011
-3,Logan,KY-1153,BEECHLAND RD,3.6,3.6,Road blocked due to flooding at this location.,2024-05-09 13:45:32,2024-05-09 14:52:00,37.041367,-86.912456,0 days 01:06:28,1.1078
 3,Edmonson,KY-238,SUNFISH BEE SPRING RD,9.6,9.6,Road blocked due to flooding at this location.,2024-05-09 08:58:01,2024-05-09 14:52:00,37.290369,-86.327436,0 days 05:53:59,5.8997
 3,Logan,KY-107,DEER LICK RD,3.6,5.0,Road blocked due to flooding at this location.,2024-05-09 08:23:33,2024-05-09 14:52:00,37.012597,-86.995426,0 days 06:28:27,6.4742
+3,Logan,KY-1153,BEECHLAND RD,3.6,3.6,Road blocked due to flooding at this location.,2024-05-09 13:45:32,2024-05-09 14:52:00,37.041367,-86.912456,0 days 01:06:28,1.1078
 3,Logan,KY-765,CONN RD,3.0,3.4,Road blocked due to flooding at this location.,2024-05-09 08:22:45,2024-05-09 14:52:00,36.685405,-86.785013,0 days 06:29:15,6.4875
-1,Carlisle,KY-1628,KY-1628,4.0,5.0,Road blocked due to flooding at this location.,2024-05-09 09:01:43,2024-05-09 14:50:00,36.921134,-88.862488,0 days 05:48:17,5.8047
+8,McCreary,KY-1363,YAMACRAW - BELL FARM RD,8.0,8.0,Road blocked due to flooding at this location.,2024-05-09 10:20:49,2024-05-09 14:52:00,36.706932,-84.575018,0 days 04:31:11,4.5197
+3,Logan,KY-3201,COOPERTOWN QUALITY RD,0.1,0.9,Road blocked due to flooding at this location.,2024-05-09 08:21:56,2024-05-09 14:52:00,36.953097,-86.875688,0 days 06:30:04,6.5011
 2,Webster,KY-270,KY-270,7.0,8.5,Road blocked due to flooding at this location.,2024-05-09 13:51:07,2024-05-09 14:50:00,37.466621,-87.792794,0 days 00:58:53,0.9814
 1,Carlisle,KY-1820,KY-1820,2.0,3.0,Road blocked due to flooding at this location.,2024-05-09 09:01:00,2024-05-09 14:50:00,36.935163,-88.885075,0 days 05:49:00,5.8167
+1,Carlisle,KY-1628,KY-1628,4.0,5.0,Road blocked due to flooding at this location.,2024-05-09 09:01:43,2024-05-09 14:50:00,36.921134,-88.862488,0 days 05:48:17,5.8047
 1,Marshall,KY-1949,WADESBORO RD N,7.3,7.3,Road blocked due to flooding at this location.,2024-05-09 09:02:44,2024-05-09 14:10:01,36.831551,-88.441047,0 days 05:07:17,5.1214
 2,Webster,KY-138,KY-138,10.3,10.8,Road blocked due to flooding at this location.,2024-05-09 11:57:10,2024-05-09 13:56:01,37.49086,-87.501817,0 days 01:58:51,1.9808
 3,Allen,KY-1533,MEADOR-PORT OLIVER RD,4.6,4.7,Roadway blocked due to flooding. Updates as available.,2024-05-09 07:30:57,2024-05-09 13:48:01,36.889384,-86.146969,0 days 06:17:04,6.2844
 2,Henderson,KY-268,KY-268,0.1,2.0,Roadway blocked due to flooding.  Updates as available.,2024-05-08 21:00:22,2024-05-09 11:40:01,37.813308,-87.694114,0 days 14:39:39,14.6608
+2,Union,KY-130,KY-130,1.3,3.2,Roadway blocked due to flooding.  Updates as available.,2024-05-08 22:23:32,2024-05-09 09:08:01,37.625124,-88.043788,0 days 10:44:29,10.7414
 2,Webster,KY-138,KY-138,10.3,10.8,Roadway blocked due to floosing.  Updates as available.,2024-05-08 21:26:48,2024-05-09 09:08:01,37.49086,-87.501817,0 days 11:41:13,11.6869
 2,Union,KY-492,KY-492,8.0,10.5,Roadway blocked due to fllooding.  Updates as available.,2024-05-08 21:23:37,2024-05-09 09:08:01,37.619913,-87.976717,0 days 11:44:24,11.74
-2,Union,KY-130,KY-130,1.3,3.2,Roadway blocked due to flooding.  Updates as available.,2024-05-08 22:23:32,2024-05-09 09:08:01,37.625124,-88.043788,0 days 10:44:29,10.7414
 3,Simpson,KY-100,RUSSELLVILLE RD,6.6,7.9,Roadway blocked due to flooding. Updates as available.,2024-05-08 23:46:42,2024-05-09 07:16:01,36.730232,-86.633304,0 days 07:29:19,7.4886
 2,Hopkins,KY-1089,DONALDSON RD,1.0,2.0,Roadway blocked due to flooding.  Updates as available.,2024-05-08 20:17:01,2024-05-08 21:50:01,37.395715,-87.656462,0 days 01:33:00,1.55
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,2.0,2.0,Road blocked due to flooding in this location.,2024-05-08 12:48:55,2024-05-08 13:14:01,36.876923,-88.316464,0 days 00:25:06,0.4183
-2,Union,KY-1452,KY-1452,0.1,1.9,Roadway blocked due to flooding. Updates as available.,2024-01-31 15:02:15,2024-04-29 14:30:01,37.817679,-87.892568,88 days 23:27:46,2135.4628
 2,Union,KY-667,KY-667,1.0,11.0,Roadway blocked due to flooding. Updates as available.,2024-04-08 15:47:22,2024-04-29 14:30:01,37.578026,-88.090103,20 days 22:42:39,502.7108
+2,Union,KY-1452,KY-1452,0.1,1.9,Roadway blocked due to flooding. Updates as available.,2024-01-31 15:02:15,2024-04-29 14:30:01,37.817679,-87.892568,88 days 23:27:46,2135.4628
 2,Union,KY-1452,KY-1452,0.1,1.9,Roadway blocked due to flooding. Updates as avaible.,2024-04-24 08:42:08,2024-04-24 17:34:01,37.817679,-87.892568,0 days 08:51:53,8.8647
 2,Hancock,KY-334,KY-334,11.3,14.5,Roadway blocked due to flooding. Updates as available.,2024-04-16 14:32:20,2024-04-24 11:56:01,37.980475,-86.827184,7 days 21:23:41,189.3947
 2,Union,KY-1637,KY-1637,0.1,2.9,Roadway blocked due to flooding. Updates as availble,2024-04-24 08:43:55,2024-04-24 09:20:00,37.778045,-87.874629,0 days 00:36:05,0.6014
@@ -271,8 +271,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 2,Union,KY-871,KY-871,3.5,5.6,Roadway blocked due to flooding. Updates as available.,2024-04-19 16:11:17,2024-04-23 13:38:01,37.722718,-88.049428,3 days 21:26:44,93.4456
 2,Henderson,KY-3522,KY-3522,0.1,0.1,Roadway blocked due to flooding. Updates as available.,2024-04-08 15:42:37,2024-04-23 11:32:01,37.912085,-87.549141,14 days 19:49:24,355.8233
 2,Union,KY-1508,KY-1508,3.9,5.6,Roadway blocked due to flooding.  Updates as available.,2024-04-21 18:28:07,2024-04-22 11:30:01,37.541183,-88.072531,0 days 17:01:54,17.0317
-6,Bracken,KY-1109,JOHNSVILLE FOSTER RD,3.8,5.3,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-04-11 14:34:15,2024-04-21 18:34:01,38.760648,-84.145944,10 days 03:59:46,243.9961
 2,Henderson,KY-268,KY-268,0.1,1.0,Roads currently blocked by water,2024-04-19 14:52:07,2024-04-21 18:34:01,37.813308,-87.694114,2 days 03:41:54,51.6983
+6,Bracken,KY-1109,JOHNSVILLE FOSTER RD,3.8,5.3,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-04-11 14:34:15,2024-04-21 18:34:01,38.760648,-84.145944,10 days 03:59:46,243.9961
 2,Daviess,KY-298,HILL BRIDGE RD,2.0,3.0,Road currently blocked by water,2024-04-19 12:23:17,2024-04-21 18:14:01,37.67688,-87.101148,2 days 05:50:44,53.8456
 2,Union,KY-667,KY-667,6.0,11.0,Roadway blocked due to flooding. Updates as available.,2024-04-08 15:47:22,2024-04-20 16:36:01,37.623207,-88.133872,12 days 00:48:39,288.8108
 2,Henderson,KY-136,KY-136 WEST,1.0,5.0,Roadway blocked due to flooding. Updates as available.,2024-04-10 08:53:07,2024-04-20 16:34:01,37.911602,-87.879987,10 days 07:40:54,247.6817
@@ -291,10 +291,10 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 2,Henderson,KY-136,KY-136 WEST,1.0,5.0,ROAD IS BLOCKED DUE TO HIGH WATER,2024-04-10 08:53:07,2024-04-10 15:18:01,37.911602,-87.879987,0 days 06:24:54,6.415
 6,Bracken,KY-1109,JOHNSVILLE FOSTER RD,3.6,5.8,Roadway blocked due to flooding.  Updates as available.,2024-04-06 18:52:24,2024-04-08 14:30:01,38.758934,-84.148227,1 days 19:37:37,43.6269
 9,Greenup,KY-784,LOST CRK RD,8.0,10.0,Roadway blocked due to flooding. Updates as available. ,2024-04-03 08:17:59,2024-04-04 07:30:00,38.445391,-83.020707,0 days 23:12:01,23.2003
-9,Bath,KY-36,KY-36,14.0,14.1,Roadway blocked due to flooding. Updates as available.,2024-04-03 01:41:43,2024-04-04 07:30:00,38.118347,-83.745492,1 days 05:48:17,29.8047
 9,Greenup,KY-2,KY-2,6.4,6.4,Roadway blocked due to flooding. Updates as available.,2024-04-03 09:45:50,2024-04-04 07:30:00,38.502096,-82.966704,0 days 21:44:10,21.7361
-9,Greenup,KY-784,LOST CRK RD,8.0,10.0,Road blocked due to flooding.,2024-04-03 08:17:59,2024-04-03 16:12:01,38.445391,-83.020707,0 days 07:54:02,7.9006
+9,Bath,KY-36,KY-36,14.0,14.1,Roadway blocked due to flooding. Updates as available.,2024-04-03 01:41:43,2024-04-04 07:30:00,38.118347,-83.745492,1 days 05:48:17,29.8047
 9,Greenup,KY-2,KY-2,6.4,6.4,Road blocked due to flooding at this location.,2024-04-03 09:45:50,2024-04-03 16:12:01,38.502096,-82.966704,0 days 06:26:11,6.4364
+9,Greenup,KY-784,LOST CRK RD,8.0,10.0,Road blocked due to flooding.,2024-04-03 08:17:59,2024-04-03 16:12:01,38.445391,-83.020707,0 days 07:54:02,7.9006
 10,Estill,KY-52,COW CREEK RD,12.0,14.0,Both directions all lanes blocked. Motorists may detour via KY 1571 snd  KY 1645. ,2024-03-07 14:41:05,2024-03-08 14:30:01,37.70307,-83.914467,0 days 23:48:56,23.8156
 10,Menifee,KY-1274,KY-1274,3.0,3.0,Lane blocked due to a rock slide at this location.,2024-03-06 13:31:43,2024-03-06 14:16:01,37.974558,-83.564365,0 days 00:44:18,0.7383
 10,Menifee,KY-1274,KY-1274,3.0,3.0,,2024-03-06 13:31:43,2024-03-06 13:36:01,37.974558,-83.564365,0 days 00:04:18,0.0717
@@ -305,27 +305,27 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 10,Estill,KY-3328,RED LICK RD,1.0,2.0,Both directions blocked due to high water. Use alternate route.,2024-02-13 05:32:58,2024-02-13 16:04:02,37.675611,-84.00402,0 days 10:31:04,10.5178
 3,Simpson,I-65,I-65,0.1,4.0,,2024-02-12 19:46:49,2024-02-13 03:02:01,36.640095,-86.570751,0 days 07:15:12,7.2533
 2,Union,KY-667,KY-667,0.1,11.2,Roadway blocked due to flooding. Updates as available.,2024-01-30 17:08:17,2024-02-05 14:56:01,37.574031,-88.075414,5 days 21:47:44,141.7956
-2,Union,KY-130,MILL ST,15.7,16.0,Roadway blocked due to flooding. Updates as avialable.,2024-01-31 14:14:13,2024-02-05 14:56:01,37.770648,-87.938173,5 days 00:41:48,120.6967
 2,Union,KY-1637,KY-1637,0.1,2.9,Road blocked due to flooding.  Updates as available.,2024-02-02 15:07:20,2024-02-05 14:56:01,37.778045,-87.874629,2 days 23:48:41,71.8114
+2,Union,KY-130,MILL ST,15.7,16.0,Roadway blocked due to flooding. Updates as avialable.,2024-01-31 14:14:13,2024-02-05 14:56:01,37.770648,-87.938173,5 days 00:41:48,120.6967
 2,Union,KY-667,KY-667,5.7,11.2,Roadway blocked due to flooding. Updates as available.,2024-01-30 17:08:17,2024-02-02 16:08:01,37.623315,-88.130245,2 days 22:59:44,70.9956
 1,Fulton,KY-1907,STATE ROUTE 1907,0.1,3.0,Roadway blocked due to flooding. Updates as available,2024-01-28 06:38:09,2024-01-29 17:50:01,36.555907,-89.019147,1 days 11:11:52,35.1978
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,2.0,2.0,Roadway blocked due to flooding. Updates as available,2024-01-28 06:39:40,2024-01-29 17:50:01,36.876923,-88.316464,1 days 11:10:21,35.1725
 1,McCracken,KY-1286,SOUTH FRIENDSHIP RD,2.1,2.2,Road blocked due to flooding.  Updates as available.,2024-01-27 18:34:09,2024-01-28 14:24:01,37.015355,-88.666564,0 days 19:49:52,19.8311
-1,Fulton,KY-94,KY-94 E,23.0,26.0,Roadway blocked due to flooding. Updates as available,2024-01-28 06:36:21,2024-01-28 14:22:01,36.554348,-89.016468,0 days 07:45:40,7.7611
 1,Fulton,KY-94,KY-94 W,7.0,11.0,Road blocked due to flooding.  Updates as available.,2024-01-27 17:57:42,2024-01-28 14:22:01,36.556571,-89.281954,0 days 20:24:19,20.4053
+1,Fulton,KY-94,KY-94 E,23.0,26.0,Roadway blocked due to flooding. Updates as available,2024-01-28 06:36:21,2024-01-28 14:22:01,36.554348,-89.016468,0 days 07:45:40,7.7611
 4,Hart,KY-1140,RAIDER HOLLOW RD,3.0,3.1,,2024-01-25 05:18:46,2024-01-25 14:18:01,37.327451,-85.948591,0 days 08:59:15,8.9875
 1,Fulton,KY-1907,STATE ROUTE 1907,0.1,3.0,Roadway blocked due to flooding.  Updates as available.,2024-01-09 13:39:11,2024-01-17 12:18:01,36.555907,-89.019147,7 days 22:38:50,190.6472
 1,Fulton,KY-1907,STATE ROUTE 1907,1.0,3.0,Roadway closed due to flooding. Updates as available.,2024-01-12 18:07:44,2024-01-13 09:06:01,36.567709,-89.017237,0 days 14:58:17,14.9714
-1,McCracken,KY-348,KY-348,7.2,7.2,KY 348 has Water Over Road signs posted near the 7.2mm east of Hardmoney at the McCracken-Graves County Line,2024-01-12 18:19:06,2024-01-12 18:26:01,36.94304,-88.563068,0 days 00:06:55,0.1153
 1,Fulton,KY-1907,STATE ROUTE 1907,1.0,3.0,KY 1907/Swamp Root Road is CLOSED between KY 781 and KY 94 - Signs and barricades posted,2024-01-12 18:07:44,2024-01-12 18:26:01,36.567709,-89.017237,0 days 00:18:17,0.3047
-1,McCracken,KY-996,METROPOLIS LAKE RD,3.0,3.0,KY 996/Old Hinkleville Rd has Water Over Road signs posted near 3 mile marker immediately east of the KY 726/McKindree Church Rd intersection,2024-01-12 18:14:19,2024-01-12 18:26:01,37.056831,-88.807456,0 days 00:11:42,0.195
-1,McCracken,KY-1565,KY-1565,5.0,5.0,KY 1565/Mayfield-Metropolis Rd has Water Over Road signs posted near the 5 mile marker between U.S. 60 and KY 305,2024-01-12 18:12:30,2024-01-12 18:26:01,37.079826,-88.734612,0 days 00:13:31,0.2253
 1,McCracken,US-45,US-45,3.8,3.8,U.S. 45/North 8th Street has Water Over Road signs posted at the 3.8mm between Ellis Street and Northview Street,2024-01-12 18:17:23,2024-01-12 18:26:01,36.997052,-88.675301,0 days 00:08:38,0.1439
 1,McCracken,KY-450,OAKS RD,4.0,4.0,KY 450/Oaks Rd has Water Over Road signs posted at the 4 mile marker,2024-01-12 18:15:52,2024-01-12 18:26:01,36.993053,-88.566372,0 days 00:10:09,0.1692
-1,Carlisle,KY-1628,KY-1628,3.0,4.0,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-01-12 11:47:16,2024-01-12 16:10:01,36.921871,-88.880394,0 days 04:22:45,4.3792
+1,McCracken,KY-996,METROPOLIS LAKE RD,3.0,3.0,KY 996/Old Hinkleville Rd has Water Over Road signs posted near 3 mile marker immediately east of the KY 726/McKindree Church Rd intersection,2024-01-12 18:14:19,2024-01-12 18:26:01,37.056831,-88.807456,0 days 00:11:42,0.195
+1,McCracken,KY-348,KY-348,7.2,7.2,KY 348 has Water Over Road signs posted near the 7.2mm east of Hardmoney at the McCracken-Graves County Line,2024-01-12 18:19:06,2024-01-12 18:26:01,36.94304,-88.563068,0 days 00:06:55,0.1153
+1,McCracken,KY-1565,KY-1565,5.0,5.0,KY 1565/Mayfield-Metropolis Rd has Water Over Road signs posted near the 5 mile marker between U.S. 60 and KY 305,2024-01-12 18:12:30,2024-01-12 18:26:01,37.079826,-88.734612,0 days 00:13:31,0.2253
 1,Carlisle,KY-1820,KY-1820,2.0,3.0,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-01-12 11:47:15,2024-01-12 16:10:01,36.935163,-88.885075,0 days 04:22:46,4.3794
+1,Carlisle,KY-1628,KY-1628,3.0,4.0,Both directions all lanes blocked due to flooding. Seek alternate route.,2024-01-12 11:47:16,2024-01-12 16:10:01,36.921871,-88.880394,0 days 04:22:45,4.3792
 11,Knox,KY-1527,KY-1527,2.0,2.5,Both directions all lanes blocked due to high water. Seek alternate route.,2024-01-10 10:08:11,2024-01-12 09:44:01,36.924354,-83.908755,1 days 23:35:50,47.5972
 1,Marshall,KY-1462,BENTON-BIRMINGHAM RD,0.1,2.0,Roadway blocked due to flooding.  Updates as available.,2024-01-09 16:44:25,2024-01-11 09:36:00,36.858267,-88.340019,1 days 16:51:35,40.8597
 1,Fulton,KY-1907,STATE ROUTE 1907,1.0,1.0,Roadway blocked due to flooding.  Updates as available.,2024-01-09 13:40:17,2024-01-09 18:14:01,36.567709,-89.017237,0 days 04:33:44,4.5622
-1,Fulton,KY-1907,STATE ROUTE 1907,0.1,3.0,Road blocked due to flooding in this location.,2024-01-09 13:39:11,2024-01-09 18:08:01,36.555907,-89.019147,0 days 04:28:50,4.4806
 1,Fulton,KY-1907,STATE ROUTE 1907,1.0,1.0,KY 1907/Swamp Root Road is CLOSED between KY 781 and KY 94 - Signs and barricades posted Updates as appropriate. ,2024-01-09 13:40:17,2024-01-09 18:08:01,36.567709,-89.017237,0 days 04:27:44,4.4622
+1,Fulton,KY-1907,STATE ROUTE 1907,0.1,3.0,Road blocked due to flooding in this location.,2024-01-09 13:39:11,2024-01-09 18:08:01,36.555907,-89.019147,0 days 04:28:50,4.4806
