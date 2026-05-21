@@ -1,30 +1,30 @@
 District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,latitude,longitude,Duration_Default,Duration_Hours
-1,Fulton,KY-94,E CARROLL ST,12.7,12.7,Both directions blocked between Union St. and Cumberland St. Seek alternate route. ,2026-04-17 16:28:45,2026-05-20 02:00:04,36.572411,-89.194481,32 days 09:31:19,777.5219
+1,Fulton,KY-94,E CARROLL ST,12.7,12.7,Both directions blocked between Union St. and Cumberland St. Seek alternate route. ,2026-04-17 16:28:45,2026-05-21 01:58:07,36.572411,-89.194481,33 days 09:29:22,801.4894
 5,Jefferson,I-64,I-64,19.4,19.4,,2026-04-28 01:56:56,2026-04-28 08:30:01,38.222368,-85.496977,0 days 06:33:05,6.5514
 5,Jefferson,I-64,I-64 RAMP to KY 3077,5.0,5.0,Ramp from I-264 West to 3rd Street is blocked due to flooding.  Updates as available.,2026-04-27 22:20:32,2026-04-28 06:14:01,38.259237,-85.751314,0 days 07:53:29,7.8914
 5,Jefferson,I-264,I-264,5.0,5.0,Ramp from I-264 West to 3rd Street is blocked due to flooding.  Updates as available.,2026-04-27 22:20:32,2026-04-27 22:30:02,38.209729,-85.827186,0 days 00:09:30,0.1583
-2,Union,KY-667,KY-667,0.2,5.8,Roadway blocked due to flooding.  Updates as available.,2026-03-07 16:06:02,2026-03-23 13:58:03,37.686607,-88.124125,15 days 21:52:01,381.8669
 2,Henderson,KY-1557,HOUSEBRIDGE RD,1.2,3.0,Roadway blocked due to flooding.  Updates as available.,2026-03-07 14:31:01,2026-03-23 13:58:03,37.698744,-87.744124,15 days 23:27:02,383.4506
+2,Union,KY-667,KY-667,0.2,5.8,Roadway blocked due to flooding.  Updates as available.,2026-03-07 16:06:02,2026-03-23 13:58:03,37.686607,-88.124125,15 days 21:52:01,381.8669
 6,Kenton,KY-3716,WAYMAN BRANCH RD,1.1,1.1,KY 2716 (Waymans Branch Rd) is blocked due a slide.  No thru-traffic permitted.  Local traffic will have access to their homes until the closure location.  Motorists can detour using Hands Pike (KY 1501) to access KY 16 or KY 17.,2026-03-14 16:03:36,2026-03-23 12:52:03,38.992738,-84.509412,8 days 20:48:27,212.8075
 6,Campbell,KY-2925,E ALEXANDRIA PIKE,0.4,0.6,Reduced to one lane for slide repairs with alternating traffic flow controlled by automated temporary traffic signals at each end of the site.  Expect delays.,2026-03-10 07:00:00,2026-03-23 12:52:03,39.004587,-84.404305,13 days 05:52:03,317.8675
 2,Union,KY-1452,KY-1452,0.1,1.9,Roadway blocked due to flooding.  Updates as available.,2026-03-07 16:10:15,2026-03-17 13:04:00,37.817679,-87.892568,9 days 20:53:45,236.8958
 2,Union,KY-1637,KY-1637,0.1,2.9,Roadway blocked due to flooding.  Updates as available.,2026-03-07 16:08:46,2026-03-17 13:02:02,37.778045,-87.874629,9 days 20:53:16,236.8878
 2,Union,KY-667,KY-667,11.2,5.8,Roadway blocked due to flooding.  Updates as available.,2026-03-07 16:06:02,2026-03-16 11:42:01,37.686607,-88.124125,8 days 19:35:59,211.5997
 11,Knox,KY-229,KY-229,6.8,6.8,All lanes blocked in both directions due to a slide,2026-03-16 08:28:10,2026-03-16 11:04:02,36.986315,-83.928729,0 days 02:35:52,2.5978
-2,Henderson,KY-1557,HOUSEBRIDGE RD,1.2,3.0,Road blocked due to floosing.  Updates as available.,2026-03-07 14:31:01,2026-03-15 16:10:13,37.698744,-87.744124,8 days 01:39:12,193.6533
 2,Daviess,KY-298,HILL BRIDGE RD,2.0,3.0,Road blocked for flooding.  Updates as available.,2026-03-08 14:47:33,2026-03-15 16:10:13,37.67688,-87.101148,7 days 01:22:40,169.3778
+2,Henderson,KY-1557,HOUSEBRIDGE RD,1.2,3.0,Road blocked due to floosing.  Updates as available.,2026-03-07 14:31:01,2026-03-15 16:10:13,37.698744,-87.744124,8 days 01:39:12,193.6533
 6,Campbell,KY-2925,E ALEXANDRIA PIKE,0.4,0.6,KY 2925 (East Alexandria Pike) is blocked between mm 0.4 - 0.6 due pavement collapse.  Seek an alternate route.,2026-03-07 17:57:12,2026-03-10 12:06:01,39.004587,-84.404305,2 days 18:08:49,66.1469
 2,Daviess,KY-298,HILL BRIDGE RD,2.0,3.0,Road blocked for floosing.  Updates as available.,2026-03-08 14:47:33,2026-03-09 16:34:02,37.67688,-87.101148,1 days 01:46:29,25.7747
 2,Hopkins,KY-502,COILTOWN RD,3.0,3.0,Roadwayblocked due to flooding. Updates as available. ,2026-03-06 07:56:48,2026-03-09 08:00:02,37.312959,-87.659444,3 days 00:03:14,72.0539
 2,Henderson,KY-2247,POSEY BALL RD,0.1,0.1,Road blocked due to flooding. Updates as available.  ,2026-03-08 14:58:57,2026-03-08 17:32:01,37.781399,-87.49935,0 days 02:33:04,2.5511
 2,Henderson,KY-812,AIRLINE RD,2.7,2.8,Road blocked due to flooding. Updates as available.  ,2026-03-08 14:51:23,2026-03-08 17:30:01,37.780004,-87.500044,0 days 02:38:38,2.6439
-5,Jefferson,I-64,I-64 NC,4.5,5.0,,2026-03-07 13:13:40,2026-03-07 13:18:02,38.258911,-85.754002,0 days 00:04:22,0.0728
 5,Jefferson,I-65,I-65,136.2,136.2,,2026-03-07 13:12:48,2026-03-07 13:18:02,38.255223,-85.742183,0 days 00:05:14,0.0872
+5,Jefferson,I-64,I-64 NC,4.5,5.0,,2026-03-07 13:13:40,2026-03-07 13:18:02,38.258911,-85.754002,0 days 00:04:22,0.0728
 2,Hopkins,KY-502,COILTOWN RD,3.0,3.0,"Road blocked due to flooding, seek alternate route",2026-03-06 07:56:48,2026-03-06 15:02:01,37.312959,-87.659444,0 days 07:05:13,7.0869
 6,Campbell,KY-536,CREEKTRACE RD,0.9,0.9,"Road blocked due to flooding, seek alternate route.",2026-03-06 03:10:14,2026-03-06 07:46:01,38.926713,-84.43476,0 days 04:35:47,4.5964
+2,Henderson,KY-812,AIRLINE RD,4.0,5.0,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:21:41,2026-03-05 14:50:01,37.790962,-87.519374,0 days 01:28:20,1.4722
 2,Webster,KY-1340,KY-1340,0.1,1.0,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:20:07,2026-03-05 14:50:01,37.496776,-87.784346,0 days 01:29:54,1.4983
 2,Webster,KY-132,KY-132,12.0,13.0,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:18:01,2026-03-05 14:50:01,37.519315,-87.765025,0 days 01:32:00,1.5333
-2,Henderson,KY-812,AIRLINE RD,4.0,5.0,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:21:41,2026-03-05 14:50:01,37.790962,-87.519374,0 days 01:28:20,1.4722
 2,Webster,KY-283,KY-283,2.1,2.4,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:18:52,2026-03-05 14:50:01,37.577253,-87.624478,0 days 01:31:09,1.5192
 2,Henderson,KY-136,KY-136 WEST,6.0,6.5,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:22:24,2026-03-05 14:50:01,37.867656,-87.81225,0 days 01:27:37,1.4603
 2,Henderson,KY-1557,HOUSEBRIDGE RD,1.2,3.6,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:21:02,2026-03-05 14:50:01,37.698744,-87.744124,0 days 01:28:59,1.4831
