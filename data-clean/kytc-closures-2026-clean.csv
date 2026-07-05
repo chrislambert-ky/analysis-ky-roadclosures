@@ -1,18 +1,19 @@
 District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,latitude,longitude,Duration_Default,Duration_Hours
-4,Meade,KY-1638,OLD MILL RD,4.0,5.0,Road blocked due to flooding. Updates as available.,2026-06-30 00:29:27,2026-07-04 02:00:00,37.9414,-86.07497,4 days 01:30:33,97.5092
-3,Barren,KY-740,HISEVILLE PARK RD,13.7,13.7,Roadway blocked due to flooding. Updates as available.,2026-07-01 08:26:53,2026-07-04 02:00:00,37.168498,-85.747541,2 days 17:33:07,65.5519
-2,Ohio,KY-878,KY-878,5.7,6.4,Roadway blocked due to flooding. Updates as available.,2026-06-29 15:36:14,2026-07-04 02:00:00,37.525096,-86.69006,4 days 10:23:46,106.3961
-2,Ohio,KY-505,DAN RD,14.0,15.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 11:51:18,2026-07-04 02:00:00,37.489862,-86.678775,4 days 14:08:42,110.145
-1,Fulton,KY-94,E CARROLL ST,12.7,12.7,Both directions blocked between Union St. and Cumberland St. Seek alternate route. ,2026-04-17 16:28:45,2026-07-04 02:00:00,36.572411,-89.194481,77 days 09:31:15,1857.5208
-7,Jessamine,KY-1541,CHRISMAN MILL RD,6.1,6.2,Roadway reduced to one lane due to a washed out culvert. Updates as available.,2026-06-27 13:26:07,2026-07-04 02:00:00,37.833843,-84.504401,6 days 12:33:53,156.5647
-8,Clinton,KY-1576,KY-1576,1.0,1.0,Roadway blocked due to flooding. Updates as available.,2026-06-28 12:40:10,2026-07-04 02:00:00,36.634098,-85.145356,5 days 13:19:50,133.3306
-2,Henderson,KY-2183,HOLLOWAY LN,1.0,2.0,Road blocked due to flooding. Updates as available.,2026-06-28 09:32:05,2026-07-04 02:00:00,37.827964,-87.516433,5 days 16:27:55,136.4653
-2,Henderson,KY-812,AIRLINE RD,2.0,5.0,Road blocked due to flooding. Updates as available.,2026-06-28 09:31:24,2026-07-04 02:00:00,37.774019,-87.489634,5 days 16:28:36,136.4767
-6,Kenton,KY-1930,LOCUST PIKE,5.7,4.7,KY 1930/Locust Pike is blocked between Red Low Lane and Railroad Drive due to a mudslide.  No thru-traffic will be permitted past the barricades in place.  Seek an alternate route.  Updates as available.,2026-05-26 16:15:43,2026-07-04 02:00:00,39.008615,-84.483335,38 days 09:44:17,921.7381
-7,Madison,KY-169,TATES CREEK RD,11.0,11.0,The bridge on KY 169/ Tates Creek Rd near Perkins-Ashcroft Rd is blocked due to flooding and flood damage.  Motorists should use KY 1156 (Jacks Creek Rd) as an alternate route.,2026-06-27 20:00:14,2026-07-04 02:00:00,37.832193,-84.419147,6 days 05:59:46,149.9961
-6,Robertson,KY-617,PIQUA KENTONTOWN RD,3.9,3.9,KY 617/Piqua Kentontown Rd is blocked south of Waterworks Rd due to a slide.  Motorists can detour via US 62 and KY 165.  Updates as available.,2026-05-26 16:22:31,2026-07-04 02:00:00,38.465365,-84.067852,38 days 09:37:29,921.6247
-4,Hart,KY-677,HISEVILLE PARK RD,0.1,0.1,Road blocked due to flooding. Updates as available.,2026-06-30 00:28:27,2026-07-04 02:00:00,37.170448,-85.74489,4 days 01:31:33,97.5258
-8,Cumberland,KY-90,GLASGOW RD,9.5,9.5,Roadway blocked due to flooding. Updates as available.,2026-06-28 06:52:50,2026-07-04 02:00:00,36.80795,-85.430128,5 days 19:07:10,139.1194
+4,Hart,KY-677,HISEVILLE PARK RD,0.1,0.1,Road blocked due to flooding. Updates as available.,2026-06-30 00:28:27,2026-07-05 02:00:22,37.170448,-85.74489,5 days 01:31:55,121.5319
+3,Barren,KY-740,HISEVILLE PARK RD,13.7,13.7,Roadway blocked due to flooding. Updates as available.,2026-07-01 08:26:53,2026-07-05 02:00:22,37.168498,-85.747541,3 days 17:33:29,89.5581
+7,Madison,KY-169,TATES CREEK RD,11.0,11.0,The bridge on KY 169/ Tates Creek Rd near Perkins-Ashcroft Rd is blocked due to flooding and flood damage.  Motorists should use KY 1156 (Jacks Creek Rd) as an alternate route.,2026-06-27 20:00:14,2026-07-05 02:00:22,37.832193,-84.419147,7 days 06:00:08,174.0022
+4,Meade,KY-1638,OLD MILL RD,4.0,5.0,Road blocked due to flooding. Updates as available.,2026-06-30 00:29:27,2026-07-05 02:00:22,37.9414,-86.07497,5 days 01:30:55,121.5153
+7,Jessamine,KY-1541,CHRISMAN MILL RD,6.1,6.2,Roadway reduced to one lane due to a washed out culvert. Updates as available.,2026-06-27 13:26:07,2026-07-05 02:00:22,37.833843,-84.504401,7 days 12:34:15,180.5708
+8,Clinton,KY-1576,KY-1576,1.0,1.0,Roadway blocked due to flooding. Updates as available.,2026-06-28 12:40:10,2026-07-05 02:00:22,36.634098,-85.145356,6 days 13:20:12,157.3367
+6,Kenton,KY-1930,LOCUST PIKE,5.7,4.7,KY 1930/Locust Pike is blocked between Red Low Lane and Railroad Drive due to a mudslide.  No thru-traffic will be permitted past the barricades in place.  Seek an alternate route.  Updates as available.,2026-05-26 16:15:43,2026-07-05 02:00:22,39.008615,-84.483335,39 days 09:44:39,945.7442
+6,Robertson,KY-617,PIQUA KENTONTOWN RD,3.9,3.9,KY 617/Piqua Kentontown Rd is blocked south of Waterworks Rd due to a slide.  Motorists can detour via US 62 and KY 165.  Updates as available.,2026-05-26 16:22:31,2026-07-05 02:00:22,38.465365,-84.067852,39 days 09:37:51,945.6308
+2,Ohio,KY-505,DAN RD,14.0,15.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 11:51:18,2026-07-05 02:00:22,37.489862,-86.678775,5 days 14:09:04,134.1511
+2,Ohio,KY-878,KY-878,5.7,6.4,Roadway blocked due to flooding. Updates as available.,2026-06-29 15:36:14,2026-07-05 02:00:22,37.525096,-86.69006,5 days 10:24:08,130.4022
+1,Fulton,KY-94,E CARROLL ST,12.7,12.7,Both directions blocked between Union St. and Cumberland St. Seek alternate route. ,2026-04-17 16:28:45,2026-07-05 02:00:22,36.572411,-89.194481,78 days 09:31:37,1881.5269
+8,Cumberland,KY-90,GLASGOW RD,9.5,9.5,Roadway blocked due to flooding. Updates as available.,2026-06-28 06:52:50,2026-07-05 02:00:22,36.80795,-85.430128,6 days 19:07:32,163.1256
+1,McCracken,US-45,JACKSON ST,9.6,9.6,Roadway blocked due to flooding. Updates as available.,2026-07-04 22:48:53,2026-07-04 23:20:01,37.066411,-88.632005,0 days 00:31:08,0.5189
+2,Henderson,KY-812,AIRLINE RD,2.0,5.0,Road blocked due to flooding. Updates as available.,2026-06-28 09:31:24,2026-07-04 10:18:01,37.774019,-87.489634,6 days 00:46:37,144.7769
+2,Henderson,KY-2183,HOLLOWAY LN,1.0,2.0,Road blocked due to flooding. Updates as available.,2026-06-28 09:32:05,2026-07-04 10:18:01,37.827964,-87.516433,6 days 00:45:56,144.7656
 4,Meade,KY-823,HARDESTY RAYMOND RD,0.6,0.6,Roadway blocked due to flooding. Updates as available.,2026-06-30 09:49:43,2026-07-02 11:56:02,37.94906,-86.345585,2 days 02:06:19,50.1053
 3,Edmonson,KY-655,SEGAL RD,2.0,3.0,Road blocked due to flooding. Updates as available.,2026-06-28 12:46:49,2026-07-02 10:08:04,37.222902,-86.369259,3 days 21:21:15,93.3542
 8,Clinton,KY-639,KY-639,4.9,5.0,Road blocked due to flooding.  Updates as available.,2026-06-28 21:43:41,2026-07-01 15:18:02,36.714136,-85.177127,2 days 17:34:21,65.5725
@@ -21,35 +22,35 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 4,Hart,KY-88,HARDYVILLE RD,26.8,26.8,,2026-06-28 15:34:08,2026-07-01 12:50:03,37.241059,-85.741125,2 days 21:15:55,69.2653
 7,Jessamine,KY-1541,CHRISMAN MILL RD,6.1,6.2,Roadway blocked due to a washed out culvert. Updates as available.,2026-06-27 13:26:07,2026-07-01 11:56:02,37.833843,-84.504401,3 days 22:29:55,94.4986
 3,Edmonson,KY-187,SUNFISH RD,3.0,3.0,Road blocked due to flooding. Updates as available.,2026-06-27 14:52:17,2026-07-01 11:54:01,37.252459,-86.36853,3 days 21:01:44,93.0289
-4,Hart,KY-728,PRICEVILLE RD,11.0,12.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 10:24:20,2026-07-01 09:16:20,37.381251,-86.006643,1 days 22:52:00,46.8667
 4,Hart,KY-570,REX RD,4.0,5.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 10:27:48,2026-07-01 09:16:20,37.230676,-85.784432,1 days 22:48:32,46.8089
+4,Hart,KY-728,PRICEVILLE RD,11.0,12.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 10:24:20,2026-07-01 09:16:20,37.381251,-86.006643,1 days 22:52:00,46.8667
 7,Madison,KY-1984,MAPLE GROVE RD,2.0,2.1,"Roadway blocked at bridge, flood debris cleanup",2026-06-30 07:29:51,2026-07-01 08:18:02,37.778784,-84.386675,1 days 00:48:11,24.8031
-4,Meade,KY-823,HARDESTY RAYMOND RD,0.6,0.6,Both directions blocked. Seek alternate route. ,2026-06-30 09:49:43,2026-06-30 14:58:02,37.94906,-86.345585,0 days 05:08:19,5.1386
 7,Jessamine,KY-1541,CHRISMAN MILL RD,6.1,6.2,"KY 1541, mile marker 6.1 to 6.2 road closed, culvert washed out. Both directions blocked.  Seek alternate route. ",2026-06-27 13:26:07,2026-06-30 14:58:02,37.833843,-84.504401,3 days 01:31:55,73.5319
+4,Meade,KY-823,HARDESTY RAYMOND RD,0.6,0.6,Both directions blocked. Seek alternate route. ,2026-06-30 09:49:43,2026-06-30 14:58:02,37.94906,-86.345585,0 days 05:08:19,5.1386
 4,Grayson,KY-2766,CANEY CREEK RD,1.5,1.5,Road blocked due to flooding. Updates as available.,2026-06-27 14:50:33,2026-06-30 14:54:06,37.405946,-86.450129,3 days 00:03:33,72.0592
 4,Grayson,KY-411,RABBIT FLAT RD,7.1,7.1,Roadway blocked due to flooding. Updates as available.,2026-06-27 14:22:36,2026-06-30 11:48:03,37.378496,-86.385384,2 days 21:25:27,69.4242
 3,Logan,KY-1153,BEECHLAND RD,3.5,3.5,Road blocked due to flooding. Updates as available.,2026-06-29 10:35:14,2026-06-30 11:02:01,37.040237,-86.913602,1 days 00:26:47,24.4464
+4,Grayson,KY-878,OLATON RD,0.1,1.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 10:29:20,2026-06-30 08:12:03,37.533544,-86.657498,0 days 21:42:43,21.7119
 4,Grayson,KY-878,OLATON RD,3.0,4.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 10:30:04,2026-06-30 08:12:03,37.536868,-86.611182,0 days 21:41:59,21.6997
 4,Hart,KY-566,EVE HWY,3.0,4.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 10:26:24,2026-06-30 08:12:03,37.32057,-85.714325,0 days 21:45:39,21.7608
-4,Grayson,KY-878,OLATON RD,0.1,1.0,Road blocked due to flooding. Updates as avavilable.,2026-06-29 10:29:20,2026-06-30 08:12:03,37.533544,-86.657498,0 days 21:42:43,21.7119
-8,Cumberland,KY-90,GLASGOW RD,9.5,9.5,Both directions blocked.  Seek alternate route.  ,2026-06-28 06:52:50,2026-06-29 15:12:02,36.80795,-85.430128,1 days 08:19:12,32.32
-8,Clinton,KY-1576,KY-1576,1.0,1.0,Both directions blocked.  Seek alternate route.  ,2026-06-28 12:40:10,2026-06-29 15:12:02,36.634098,-85.145356,1 days 02:31:52,26.5311
 7,Garrard,KY-1971,LEAVELL RIDGE RD,0.1,2.8,Road blocked due to flooding. Updates as avavilable.,2026-06-29 08:12:16,2026-06-29 15:12:02,37.710028,-84.580391,0 days 06:59:46,6.9961
-3,Edmonson,KY-238,SUNFISH BEE SPRING RD,9.6,9.6,Road blocked due to flooding.  Updates as available.,2026-06-27 19:23:30,2026-06-29 15:08:03,37.290362,-86.327431,1 days 19:44:33,43.7425
-3,Edmonson,KY-187,SUNFISH RD,0.3,0.3,Road blocked due to flooding. Updates as available.,2026-06-27 14:52:17,2026-06-29 15:08:03,37.252459,-86.36853,2 days 00:15:46,48.2628
+8,Clinton,KY-1576,KY-1576,1.0,1.0,Both directions blocked.  Seek alternate route.  ,2026-06-28 12:40:10,2026-06-29 15:12:02,36.634098,-85.145356,1 days 02:31:52,26.5311
+8,Cumberland,KY-90,GLASGOW RD,9.5,9.5,Both directions blocked.  Seek alternate route.  ,2026-06-28 06:52:50,2026-06-29 15:12:02,36.80795,-85.430128,1 days 08:19:12,32.32
 7,Garrard,KY-1971,LEAVELL RIDGE RD,0.1,2.8,"Road blocked due to flooding, seek alternate route. Updates as avavilable.",2026-06-29 08:12:16,2026-06-29 15:08:03,37.710028,-84.580391,0 days 06:55:47,6.9297
+3,Edmonson,KY-187,SUNFISH RD,0.3,0.3,Road blocked due to flooding. Updates as available.,2026-06-27 14:52:17,2026-06-29 15:08:03,37.252459,-86.36853,2 days 00:15:46,48.2628
+3,Edmonson,KY-238,SUNFISH BEE SPRING RD,9.6,9.6,Road blocked due to flooding.  Updates as available.,2026-06-27 19:23:30,2026-06-29 15:08:03,37.290362,-86.327431,1 days 19:44:33,43.7425
 4,Hart,KY-566,EVE HWY,3.0,4.0,"Road blocked due to flooding, seek alternate route. Updates as avavilable.",2026-06-29 10:26:24,2026-06-29 15:06:03,37.32057,-85.714325,0 days 04:39:39,4.6608
-4,Grayson,KY-411,RABBIT FLAT RD,7.1,7.1,Both directions blocked.  Seek alternate route. ,2026-06-27 14:22:36,2026-06-29 15:06:03,37.378496,-86.385384,2 days 00:43:27,48.7242
-4,Hart,KY-728,PRICEVILLE RD,11.0,12.0,"Road blocked due to flooding, seek alternate route. Updates as avavilable.",2026-06-29 10:24:20,2026-06-29 15:06:03,37.381251,-86.006643,0 days 04:41:43,4.6953
 4,Hart,KY-570,REX RD,4.0,5.0,"Road blocked due to flooding, seek alternate route. Updates as avavilable.",2026-06-29 10:27:48,2026-06-29 15:06:03,37.230676,-85.784432,0 days 04:38:15,4.6375
-4,Grayson,KY-2766,CANEY CREEK RD,1.5,1.5,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 14:50:33,2026-06-29 15:00:08,37.405946,-86.450129,2 days 00:09:35,48.1597
+4,Hart,KY-728,PRICEVILLE RD,11.0,12.0,"Road blocked due to flooding, seek alternate route. Updates as avavilable.",2026-06-29 10:24:20,2026-06-29 15:06:03,37.381251,-86.006643,0 days 04:41:43,4.6953
+4,Grayson,KY-411,RABBIT FLAT RD,7.1,7.1,Both directions blocked.  Seek alternate route. ,2026-06-27 14:22:36,2026-06-29 15:06:03,37.378496,-86.385384,2 days 00:43:27,48.7242
 4,Grayson,KY-878,OLATON RD,3.0,4.0,"Road blocked due to flooding, seek alternate route. Updates as avavilable.",2026-06-29 10:30:04,2026-06-29 15:00:08,37.536868,-86.611182,0 days 04:30:04,4.5011
+4,Grayson,KY-2766,CANEY CREEK RD,1.5,1.5,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 14:50:33,2026-06-29 15:00:08,37.405946,-86.450129,2 days 00:09:35,48.1597
 4,Grayson,KY-878,OLATON RD,0.1,1.0,"Road blocked due to flooding, seek alternate route. Updates as avavilable.",2026-06-29 10:29:20,2026-06-29 15:00:08,37.533544,-86.657498,0 days 04:30:48,4.5133
 2,Henderson,KY-812,AIRLINE RD,2.0,5.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 09:31:24,2026-06-29 14:58:02,37.774019,-87.489634,1 days 05:26:38,29.4439
-3,Edmonson,KY-655,SEGAL RD,2.0,3.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 12:46:49,2026-06-29 14:58:02,37.222902,-86.369259,1 days 02:11:13,26.1869
 2,Henderson,KY-2183,HOLLOWAY LN,1.0,2.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 09:32:05,2026-06-29 14:58:02,37.827964,-87.516433,1 days 05:25:57,29.4325
-3,Edmonson,KY-187,SUNFISH RD,0.3,0.3,"Road blocked due to flooding and damage, seek alternate route. Updates as available.",2026-06-27 14:52:17,2026-06-29 14:58:02,37.252459,-86.36853,2 days 00:05:45,48.0958
+3,Edmonson,KY-655,SEGAL RD,2.0,3.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 12:46:49,2026-06-29 14:58:02,37.222902,-86.369259,1 days 02:11:13,26.1869
 2,Ohio,KY-919,KY-919,3.0,4.0,Both directions blocked. Seek alternate route. ,2026-06-28 11:08:45,2026-06-29 14:58:02,37.552935,-86.701494,1 days 03:49:17,27.8214
+3,Edmonson,KY-187,SUNFISH RD,0.3,0.3,"Road blocked due to flooding and damage, seek alternate route. Updates as available.",2026-06-27 14:52:17,2026-06-29 14:58:02,37.252459,-86.36853,2 days 00:05:45,48.0958
 2,Ohio,KY-505,DAN RD,14.0,15.0,"Road blocked due to flooding, seek alternate route. Updates as avavilable.",2026-06-29 11:51:18,2026-06-29 14:58:02,37.489862,-86.678775,0 days 03:06:44,3.1122
 5,Jefferson,KY-1020,NATIONAL TPKE,2.4,2.4,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 14:23:55,2026-06-29 14:46:02,38.109286,-85.745163,2 days 00:22:07,48.3686
 4,Grayson,KY-1655,WILSON CHURCH RD,1.5,1.5,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 09:46:24,2026-06-29 14:26:08,37.379997,-86.45079,1 days 04:39:44,28.6622
@@ -58,41 +59,41 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 2,Webster,KY-270,KY-270,6.9,8.3,Road blocked due to flooding.  Updates as available.,2026-06-27 20:44:03,2026-06-29 11:32:01,37.467283,-87.79442,1 days 14:47:58,38.7994
 4,Green,KY-729,KY-729,2.0,2.0,Both directions blocked.  Seek alternate route. ,2026-06-28 10:46:52,2026-06-29 11:08:02,37.138392,-85.609906,1 days 00:21:10,24.3528
 4,Green,KY-729,KY-729,4.5,4.5,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 12:50:56,2026-06-29 11:08:02,37.164936,-85.620453,0 days 22:17:06,22.285
-8,Clinton,KY-1076,KY-1076,2.5,2.5,Both directions blocked. Seek alternate route.,2026-06-28 12:38:01,2026-06-29 10:46:04,36.657591,-85.080039,0 days 22:08:03,22.1342
 8,Clinton,KY-3065,KY-3065,1.5,1.5,Both directions blocked. Seek alternate route. ,2026-06-28 12:41:46,2026-06-29 10:46:04,36.672574,-85.176888,0 days 22:04:18,22.0717
+8,Clinton,KY-1076,KY-1076,2.5,2.5,Both directions blocked. Seek alternate route.,2026-06-28 12:38:01,2026-06-29 10:46:04,36.657591,-85.080039,0 days 22:08:03,22.1342
 2,Caldwell,KY-91,MARION RD,19.2,19.2,Road blocked due to flooding.  Updates as available.,2026-06-27 18:19:11,2026-06-29 09:54:02,37.165608,-87.994136,1 days 15:34:51,39.5808
-2,Ohio,US-62,US-62,9.0,10.0,Road blocked due to flooding. Updates as available.,2026-06-27 23:18:49,2026-06-29 09:46:02,37.400055,-86.889298,1 days 10:27:13,34.4536
 2,Ohio,US-62,US-62,15.0,17.0,Road blocked due to flooding. Updates as available.,2026-06-27 23:31:26,2026-06-29 09:46:02,37.433054,-86.806164,1 days 10:14:36,34.2433
+2,Ohio,US-62,US-62,9.0,10.0,Road blocked due to flooding. Updates as available.,2026-06-27 23:18:49,2026-06-29 09:46:02,37.400055,-86.889298,1 days 10:27:13,34.4536
 2,Ohio,KY-1543,KY-1543,3.0,4.5,Road blocked due to flooding. Updates as available.,2026-06-27 23:32:32,2026-06-29 09:34:03,37.437338,-86.861304,1 days 10:01:31,34.0253
-4,Hart,KY-570,REX RD,4.0,5.0,Road blocked due to flooding.  Updates as available.,2026-06-27 21:37:07,2026-06-29 09:32:03,37.230676,-85.784432,1 days 11:54:56,35.9156
-4,Hart,KY-436,HUNDRED ACRE POND RD,4.6,4.6,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 12:49:41,2026-06-29 09:32:03,37.223202,-85.722458,0 days 20:42:22,20.7061
-4,Hart,KY-2185,JOHNSON SPRINGS RD,4.0,4.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 09:54:16,2026-06-29 09:32:03,37.306609,-85.815477,0 days 23:37:47,23.6297
 4,Hart,KY-88,HARDYVILLE RD,28.0,29.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 09:55:00,2026-06-29 09:32:03,37.238479,-85.720182,0 days 23:37:03,23.6175
+4,Hart,KY-436,HUNDRED ACRE POND RD,4.6,4.6,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 12:49:41,2026-06-29 09:32:03,37.223202,-85.722458,0 days 20:42:22,20.7061
+4,Hart,KY-570,REX RD,4.0,5.0,Road blocked due to flooding.  Updates as available.,2026-06-27 21:37:07,2026-06-29 09:32:03,37.230676,-85.784432,1 days 11:54:56,35.9156
+4,Hart,KY-2185,JOHNSON SPRINGS RD,4.0,4.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 09:54:16,2026-06-29 09:32:03,37.306609,-85.815477,0 days 23:37:47,23.6297
 4,Grayson,KY-185,BOWLING GREEN RD,1.0,1.0,Both direcitons blocked.  Seek alternate route. ,2026-06-28 12:48:10,2026-06-29 09:28:04,37.336197,-86.436597,0 days 20:39:54,20.665
-4,Grayson,KY-878,OLATON RD,3.0,4.0,Road blocked due to flooding.  Updates as available.,2026-06-28 15:11:34,2026-06-29 09:28:04,37.536868,-86.611182,0 days 18:16:30,18.275
 4,Grayson,KY-878,OLATON RD,0.1,1.0,Road blocked due to flooding.  Updates as available.  Seek alternate route,2026-06-28 12:45:50,2026-06-29 09:28:04,37.533544,-86.657498,0 days 20:42:14,20.7039
+4,Grayson,KY-878,OLATON RD,3.0,4.0,Road blocked due to flooding.  Updates as available.,2026-06-28 15:11:34,2026-06-29 09:28:04,37.536868,-86.611182,0 days 18:16:30,18.275
 2,Ohio,KY-2668,BELLTOWN RD,2.0,2.0,Road blocked due to flooding. Updates as available.,2026-06-27 23:33:20,2026-06-29 09:18:02,37.5418,-87.015661,1 days 09:44:42,33.745
 3,Metcalfe,KY-496,SUBTLE RD,11.7,11.7,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 14:57:47,2026-06-29 08:46:01,36.973443,-85.599809,0 days 17:48:14,17.8039
 3,Metcalfe,KY-543,TOBY HILL RD,1.1,1.1,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 14:57:02,2026-06-29 08:24:02,37.044181,-85.643097,0 days 17:27:00,17.45
 8,McCreary,KY-1363,YAMACRAW - BELL FARM RD,8.0,8.0,Road blocked due to flooding.  Updates as available.,2026-06-28 18:36:17,2026-06-29 08:24:02,36.706925,-84.575013,0 days 13:47:45,13.7958
-3,Butler,KY-2269,DEXTERVILLE GILSTRAP RD,0.1,1.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 12:44:24,2026-06-28 21:30:04,37.316219,-86.705496,0 days 08:45:40,8.7611
 3,Butler,KY-2713,DEXTERVILLE BANOCK RD,0.1,1.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 12:45:38,2026-06-28 21:30:04,37.301435,-86.657957,0 days 08:44:26,8.7406
+3,Butler,KY-2269,DEXTERVILLE GILSTRAP RD,0.1,1.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 12:44:24,2026-06-28 21:30:04,37.316219,-86.705496,0 days 08:45:40,8.7611
 3,Metcalfe,KY-80,COLUMBIA RD,4.8,4.8,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-28 14:56:12,2026-06-28 16:22:02,37.014385,-85.542319,0 days 01:25:50,1.4306
 3,Metcalfe,US-68,W STOCKTON ST,7.0,8.6,Both directions blocked. Seek alternate route.,2026-06-28 12:52:00,2026-06-28 15:30:04,36.988508,-85.637703,0 days 02:38:04,2.6344
 4,Nelson,KY-247,HOWARDSTOWN RD,6.8,7.6,Road blocked due to flooding.  Updates as avaiilable.,2026-06-27 21:34:09,2026-06-28 15:26:01,37.641265,-85.565544,0 days 17:51:52,17.8644
-3,Metcalfe,KY-640,KNOB LICK WISDOM RD,15.0,15.0,Both directions blocked. Seek alternate route,2026-06-28 14:56:00,2026-06-28 15:10:02,37.053459,-85.704782,0 days 00:14:02,0.2339
 4,Grayson,KY-878,OLATON RD,0.1,4.0,Both directions blocked.  Seek alternate route,2026-06-28 12:45:50,2026-06-28 15:10:02,37.533544,-86.657498,0 days 02:24:12,2.4033
+3,Metcalfe,KY-640,KNOB LICK WISDOM RD,15.0,15.0,Both directions blocked. Seek alternate route,2026-06-28 14:56:00,2026-06-28 15:10:02,37.053459,-85.704782,0 days 00:14:02,0.2339
 3,Logan,KY-3201,COOPERTOWN QUALITY RD,0.4,0.4,Roadway blocked due to flooding.  Updates as available.,2026-06-27 17:24:50,2026-06-28 14:56:02,36.956978,-86.87452,0 days 21:31:12,21.52
-4,Hart,KY-218,E MAIN ST,8.0,9.0,Roadway blocked with high water. Do not Travel.,2026-06-27 21:34:53,2026-06-28 14:16:02,37.178929,-85.900805,0 days 16:41:09,16.6858
 4,Hart,KY-218,E MAIN ST,8.0,9.0,Road blocked due to flooding.  Updates as available.,2026-06-27 21:42:00,2026-06-28 14:16:02,37.178929,-85.900805,0 days 16:34:02,16.5672
-4,Marion,KY-2741,MCELROY PIKE,0.1,1.0,Road blocked due to flooding.  Updates as available.,2026-06-27 21:26:56,2026-06-28 13:12:01,37.538321,-85.379376,0 days 15:45:05,15.7514
+4,Hart,KY-218,E MAIN ST,8.0,9.0,Roadway blocked with high water. Do not Travel.,2026-06-27 21:34:53,2026-06-28 14:16:02,37.178929,-85.900805,0 days 16:41:09,16.6858
 4,Marion,KY-1157,KY-1157,1.0,2.0,Road blocked due to flooding.  Updates as available.,2026-06-27 21:24:50,2026-06-28 13:12:01,37.500571,-85.237643,0 days 15:47:11,15.7864
+4,Marion,KY-2741,MCELROY PIKE,0.1,1.0,Road blocked due to flooding.  Updates as available.,2026-06-27 21:26:56,2026-06-28 13:12:01,37.538321,-85.379376,0 days 15:45:05,15.7514
 3,Metcalfe,US-68,W STOCKTON ST,7.0,8.6,Both directions blocked.  Seek alternate route. ,2026-06-28 11:43:03,2026-06-28 12:46:02,36.988508,-85.637703,0 days 01:02:59,1.0497
 10,Estill,KY-594,RED LICK RD,7.0,9.0,Raod blocked due to flooding.  Updates as available..,2026-06-27 19:54:06,2026-06-28 11:28:08,37.615142,-84.01362,0 days 15:34:02,15.5672
-7,Mercer,KY-152,W MAIN ST,14.0,15.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 10:02:18,2026-06-28 09:54:01,37.7535,-84.768603,0 days 23:51:43,23.8619
 7,Mercer,KY-1915,DRY BRANCH RD,1.0,2.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 10:04:41,2026-06-28 09:54:01,37.712458,-84.857102,0 days 23:49:20,23.8222
-3,Butler,KY-2269,DEXTERVILLE GILSTRAP RD,0.1,1.0,Road blocked due to flooding.  Updates as available.,2026-06-27 20:36:22,2026-06-28 09:22:03,37.316219,-86.705496,0 days 12:45:41,12.7614
+7,Mercer,KY-152,W MAIN ST,14.0,15.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 10:02:18,2026-06-28 09:54:01,37.7535,-84.768603,0 days 23:51:43,23.8619
 3,Butler,KY-2713,DEXTERVILLE BANOCK RD,0.1,1.0,Road blocked due to flooding.  Updates as available.,2026-06-27 20:39:17,2026-06-28 09:22:03,37.301435,-86.657957,0 days 12:42:46,12.7128
+3,Butler,KY-2269,DEXTERVILLE GILSTRAP RD,0.1,1.0,Road blocked due to flooding.  Updates as available.,2026-06-27 20:36:22,2026-06-28 09:22:03,37.316219,-86.705496,0 days 12:45:41,12.7614
 2,Daviess,KY-140,KY-140 WEST,1.5,2.0,Road blocked due to flooding.  Updates as available.,2026-06-27 22:30:46,2026-06-28 08:14:03,37.595571,-87.135476,0 days 09:43:17,9.7214
 7,Madison,KY-169,TATES CREEK RD,11.0,11.0,The KY 169 Bridge on Tates Creek Rd near Perkins-Ashcroft Rd is blocked due to flood damage.  Motorists should use KY 1156 (Jacks Creek Rd) as an alternate route.,2026-06-27 20:00:14,2026-06-27 23:00:54,37.832193,-84.419147,0 days 03:00:40,3.0111
 11,Jackson,KY-89,KY-89,0.1,15.0,"Southbound lane blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 12:23:06,2026-06-27 22:56:03,37.32149,-84.137896,0 days 10:32:57,10.5492
@@ -104,8 +105,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 11,Jackson,US-421,US-421,13.0,29.0,Both directions blocked.  Seek alternate route. ,2026-06-27 12:12:35,2026-06-27 17:30:08,37.432315,-83.97864,0 days 05:17:33,5.2925
 7,Madison,KY-21,PAINT LICK RD,1.3,1.5,KY 21 is blocked about 1.5 miles from the Spur.,2026-06-27 15:35:01,2026-06-27 17:28:01,37.609472,-84.398467,0 days 01:53:00,1.8833
 11,Jackson,KY-89,KY-89,0.1,15.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 12:23:06,2026-06-27 16:52:02,37.32149,-84.137896,0 days 04:28:56,4.4822
-3,Butler,KY-2713,DEXTERVILLE BANOCK RD,4.0,5.0,Roadway blocked due to flooding.  Updates as available.,2026-06-27 15:11:47,2026-06-27 16:36:02,37.351833,-86.655275,0 days 01:24:15,1.4042
 11,Jackson,KY-290,KY-290,0.1,8.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 13:01:34,2026-06-27 16:36:02,37.320208,-83.978163,0 days 03:34:28,3.5744
+3,Butler,KY-2713,DEXTERVILLE BANOCK RD,4.0,5.0,Roadway blocked due to flooding.  Updates as available.,2026-06-27 15:11:47,2026-06-27 16:36:02,37.351833,-86.655275,0 days 01:24:15,1.4042
 5,Bullitt,I-65,I-65 NC,106.0,107.0,Northbound and Southbound off ramps are blocked. On ramps are open. ,2026-06-27 13:29:45,2026-06-27 16:06:08,37.845768,-85.715521,0 days 02:36:23,2.6064
 4,Grayson,WK-9001,WENDELL H FORD-WESTERN KENTUCKY PKWY NC,110.0,110.0,"Road blocked due to flooding, seek alternate route. Updates as available.",2026-06-27 13:00:18,2026-06-27 14:46:02,37.477832,-86.240657,0 days 01:45:44,1.7622
 5,Jefferson,I-65,I-65,128.0,128.0,,2026-06-27 09:12:28,2026-06-27 09:16:02,38.153907,-85.715928,0 days 00:03:34,0.0594
@@ -121,8 +122,8 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 5,Jefferson,I-64,I-64,19.4,19.4,,2026-04-28 01:56:56,2026-04-28 08:30:01,38.222368,-85.496977,0 days 06:33:05,6.5514
 5,Jefferson,I-64,I-64 RAMP to KY 3077,5.0,5.0,Ramp from I-264 West to 3rd Street is blocked due to flooding.  Updates as available.,2026-04-27 22:20:32,2026-04-28 06:14:01,38.259237,-85.751314,0 days 07:53:29,7.8914
 5,Jefferson,I-264,I-264,5.0,5.0,Ramp from I-264 West to 3rd Street is blocked due to flooding.  Updates as available.,2026-04-27 22:20:32,2026-04-27 22:30:02,38.209729,-85.827186,0 days 00:09:30,0.1583
-2,Union,KY-667,KY-667,0.2,5.8,Roadway blocked due to flooding.  Updates as available.,2026-03-07 16:06:02,2026-03-23 13:58:03,37.686607,-88.124125,15 days 21:52:01,381.8669
 2,Henderson,KY-1557,HOUSEBRIDGE RD,1.2,3.0,Roadway blocked due to flooding.  Updates as available.,2026-03-07 14:31:01,2026-03-23 13:58:03,37.698744,-87.744124,15 days 23:27:02,383.4506
+2,Union,KY-667,KY-667,0.2,5.8,Roadway blocked due to flooding.  Updates as available.,2026-03-07 16:06:02,2026-03-23 13:58:03,37.686607,-88.124125,15 days 21:52:01,381.8669
 6,Campbell,KY-2925,E ALEXANDRIA PIKE,0.4,0.6,Reduced to one lane for slide repairs with alternating traffic flow controlled by automated temporary traffic signals at each end of the site.  Expect delays.,2026-03-10 07:00:00,2026-03-23 12:52:03,39.004587,-84.404305,13 days 05:52:03,317.8675
 6,Kenton,KY-3716,WAYMAN BRANCH RD,1.1,1.1,KY 2716 (Waymans Branch Rd) is blocked due a slide.  No thru-traffic permitted.  Local traffic will have access to their homes until the closure location.  Motorists can detour using Hands Pike (KY 1501) to access KY 16 or KY 17.,2026-03-14 16:03:36,2026-03-23 12:52:03,38.992738,-84.509412,8 days 20:48:27,212.8075
 2,Union,KY-1452,KY-1452,0.1,1.9,Roadway blocked due to flooding.  Updates as available.,2026-03-07 16:10:15,2026-03-17 13:04:00,37.817679,-87.892568,9 days 20:53:45,236.8958
@@ -140,12 +141,12 @@ District,County,Route,Road_Name,Begin_MP,End_MP,Comments,Reported_On,End_Date,la
 5,Jefferson,I-64,I-64 NC,4.5,5.0,,2026-03-07 13:13:40,2026-03-07 13:18:02,38.258911,-85.754002,0 days 00:04:22,0.0728
 2,Hopkins,KY-502,COILTOWN RD,3.0,3.0,"Road blocked due to flooding, seek alternate route",2026-03-06 07:56:48,2026-03-06 15:02:01,37.312959,-87.659444,0 days 07:05:13,7.0869
 6,Campbell,KY-536,CREEKTRACE RD,0.9,0.9,"Road blocked due to flooding, seek alternate route.",2026-03-06 03:10:14,2026-03-06 07:46:01,38.926713,-84.43476,0 days 04:35:47,4.5964
-2,Henderson,KY-1557,HOUSEBRIDGE RD,1.2,3.6,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:21:02,2026-03-05 14:50:01,37.698744,-87.744124,0 days 01:28:59,1.4831
-2,Henderson,KY-136,MADISON ST,21.3,21.5,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:23:21,2026-03-05 14:50:01,37.811115,-87.57859,0 days 01:26:40,1.4444
-2,Webster,KY-1340,KY-1340,0.1,1.0,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:20:07,2026-03-05 14:50:01,37.496776,-87.784346,0 days 01:29:54,1.4983
 2,Webster,KY-132,KY-132,12.0,13.0,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:18:01,2026-03-05 14:50:01,37.519315,-87.765025,0 days 01:32:00,1.5333
 2,Henderson,KY-812,AIRLINE RD,4.0,5.0,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:21:41,2026-03-05 14:50:01,37.790962,-87.519374,0 days 01:28:20,1.4722
-2,Henderson,KY-136,KY-136 WEST,6.0,6.5,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:22:24,2026-03-05 14:50:01,37.867656,-87.81225,0 days 01:27:37,1.4603
 2,Webster,KY-283,KY-283,2.1,2.4,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:18:52,2026-03-05 14:50:01,37.577253,-87.624478,0 days 01:31:09,1.5192
+2,Webster,KY-1340,KY-1340,0.1,1.0,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:20:07,2026-03-05 14:50:01,37.496776,-87.784346,0 days 01:29:54,1.4983
+2,Henderson,KY-136,KY-136 WEST,6.0,6.5,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:22:24,2026-03-05 14:50:01,37.867656,-87.81225,0 days 01:27:37,1.4603
+2,Henderson,KY-1557,HOUSEBRIDGE RD,1.2,3.6,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:21:02,2026-03-05 14:50:01,37.698744,-87.744124,0 days 01:28:59,1.4831
+2,Henderson,KY-136,MADISON ST,21.3,21.5,"Road blocked due to flooding, seek alternate route.",2026-03-05 13:23:21,2026-03-05 14:50:01,37.811115,-87.57859,0 days 01:26:40,1.4444
 5,Jefferson,I-264,I-264,4.0,4.0,,2026-03-04 09:27:55,2026-03-04 09:32:02,38.223083,-85.822249,0 days 00:04:07,0.0686
 12,Pike,KY-1373,BEAVER CREEK RD,1.6,1.6,KY 1373/Beaver Creek Rd is blocked due to a slide.  Updates as available.,2026-01-29 21:31:23,2026-01-30 14:56:01,37.32453,-82.335939,0 days 17:24:38,17.4106
